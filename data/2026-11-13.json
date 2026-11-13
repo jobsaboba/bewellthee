@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated": "2026-11-13T20:52:35+00:00",
+  "generated": "2026-11-13T21:00:35+00:00",
   "races": [
     {
       "time": "12:20",
@@ -280,30 +280,30 @@
           "napps": 3,
           "reason": "3-app medal",
           "score": 105.25,
-          "pos": 0,
-          "res": null,
+          "pos": 8,
+          "res": "LOSE",
           "stake": 3.23,
-          "ret": null,
-          "bank_after": 107.53
+          "ret": 0.0,
+          "bank_after": 104.3
         }
       ]
     }
   ],
   "score": {
     "bets": 14,
-    "settled": 13,
+    "settled": 14,
     "won": 2,
     "placed": 5,
-    "lost": 6,
-    "pending": 1
+    "lost": 7,
+    "pending": 0
   },
-  "staked": 22.02,
+  "staked": 25.25,
   "returned": 9.88,
   "bank": {
     "start": 119.67,
-    "end": 107.53,
-    "next_stake": 1.08,
+    "end": 104.3,
+    "next_stake": 1.04,
     "season_start": 10.0,
-    "season_end": 107.53
+    "season_end": 104.3
   }
 }
