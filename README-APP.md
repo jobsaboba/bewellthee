@@ -38,10 +38,9 @@ into the bank like the rest of the suite.
 ## App
 
 Three views: **Sheet** (day tabs, bank card, bets with app chips, medal
-×N badges, banker chips, money chips, plus a grey "left out" list with the
-reason each non-qualifier was passed over), **The patterns** (all the
+×N badges, banker chips, money chips), **The patterns** (all the
 tables), **The plan** (rules + season back-run). Installable (manifest +
-service worker, ⤓ button). Service worker cache: `bwell-v1` — bump it and
+service worker, ⤓ button). Service worker cache: `bwell-v2` — bump it and
 the version whenever `index.html` changes.
 
 ## Local repo

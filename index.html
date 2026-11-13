@@ -298,15 +298,6 @@ function render(){
         ${bd?`<div class="badge ${bd[0]}">${bd[1]}</div>`:""}</div>`;
     }).join("")).join("");
   }
-  const skips = (day && day.skipped) || [];
-  if(skips.length){
-    list.innerHTML += `<h3 class="sec">Left out today · ${skips.length}</h3>` +
-      skips.map(k=>`<div class="race skip">
-        <div class="t">${esc(k.time)}<small>${esc(k.meeting)}</small></div>
-        <div class="mid"><div class="h">${applets(k.apps)}${esc(k.horse)}</div>
-          <div class="r"><span class="chip">${esc(k.odds||"no price")}</span> ${esc(k.why)}</div></div>
-        <div class="badge skipb">skipped</div></div>`).join("");
-  }
 }
 
 function tbl(t, label){
