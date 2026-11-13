@@ -1,0 +1,140 @@
+{
+  "date": "2026-04-22",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "12:40",
+      "meeting": "Perth",
+      "picks": [
+        {
+          "horse": "Gee Force Flyer",
+          "stars": 5,
+          "odds": "8/13",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 103.0,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.13,
+          "ret": 0.21,
+          "bank_after": 12.86
+        }
+      ]
+    },
+    {
+      "time": "15:40",
+      "meeting": "Perth",
+      "picks": [
+        {
+          "horse": "Bollin Matilda",
+          "stars": 5,
+          "odds": "2/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 58,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.26,
+          "ret": 0.0,
+          "bank_after": 12.6
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:40",
+      "meeting": "Perth",
+      "horse": "Newbrook Diamond",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:40",
+      "meeting": "Perth",
+      "horse": "Expensive Emotion",
+      "odds": "25/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:40",
+      "meeting": "Perth",
+      "horse": "Jeteye",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:40",
+      "meeting": "Perth",
+      "horse": "Suspected",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:12",
+      "meeting": "Perth",
+      "horse": "Kells Priory",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:12",
+      "meeting": "Perth",
+      "horse": "Maillot Blanc",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:12",
+      "meeting": "Perth",
+      "horse": "Roi Du Roume",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 2,
+    "settled": 2,
+    "won": 1,
+    "placed": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.39,
+  "returned": 0.21,
+  "bank": {
+    "start": 12.78,
+    "end": 12.6,
+    "next_stake": 0.13,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "date": "2026-08-08",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "17:00",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Harb",
+          "stars": 3,
+          "odds": "4/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 98.0,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.49,
+          "ret": 0.0,
+          "bank_after": 23.96
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Runninsonofagun",
+          "stars": 4,
+          "odds": "4/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 85.0,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.48,
+          "ret": 0.0,
+          "bank_after": 23.48
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "16:27",
+      "meeting": "Ayr",
+      "horse": "Beechwood Glory",
+      "odds": "13/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:27",
+      "meeting": "Ayr",
+      "horse": "Roman Crystal",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:27",
+      "meeting": "Ayr",
+      "horse": "Ponte Carlo",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Ayr",
+      "horse": "South Parade",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Ayr",
+      "horse": "Hi Lord",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:30",
+      "meeting": "Ayr",
+      "horse": "Tiger",
+      "odds": "6/5",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:30",
+      "meeting": "Ayr",
+      "horse": "Phantom Shadow",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:30",
+      "meeting": "Ayr",
+      "horse": "Pol Roger",
+      "odds": "20/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Ayr",
+      "horse": "Theoryofeverything",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Ayr",
+      "horse": "Jannas Journey",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Ayr",
+      "horse": "Military Leader",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Ayr",
+      "horse": "Kelpie Grey",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Ayr",
+      "horse": "Mr Cool",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Ayr",
+      "horse": "Annie Edson Taylor",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:40",
+      "meeting": "Lingfield",
+      "horse": "Port Road",
+      "odds": "11/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Ayr",
+      "horse": "Yaaser",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Ayr",
+      "horse": "Supreme Clarets",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Ayr",
+      "horse": "Flying Moonlight",
+      "odds": "9/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Ayr",
+      "horse": "Wicklow Way",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Ayr",
+      "horse": "Patrick Street",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 2,
+    "settled": 2,
+    "won": 0,
+    "placed": 1,
+    "lost": 1,
+    "pending": 0
+  },
+  "staked": 0.97,
+  "returned": 0.0,
+  "bank": {
+    "start": 24.45,
+    "end": 23.48,
+    "next_stake": 0.23,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

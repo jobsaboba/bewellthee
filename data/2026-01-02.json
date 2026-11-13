@@ -1,0 +1,461 @@
+{
+  "date": "2026-01-02",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "12:30",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Kings Champion",
+          "stars": 5,
+          "odds": "11/4",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 100.0,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.21,
+          "ret": 0.79,
+          "bank_after": 11.23
+        }
+      ]
+    },
+    {
+      "time": "13:00",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Wilstar",
+          "stars": 5,
+          "odds": "5/6",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 138.0,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.11,
+          "ret": 0.0,
+          "bank_after": 11.12
+        },
+        {
+          "horse": "Sanilam",
+          "stars": 3,
+          "odds": "11/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 110.55,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.11,
+          "ret": 0.41,
+          "bank_after": 11.42
+        }
+      ]
+    },
+    {
+      "time": "14:00",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Big Storm Brewing",
+          "stars": 5,
+          "odds": "4/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 113.81,
+          "pos": 12,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": 0.0,
+          "bank_after": 11.31
+        }
+      ]
+    },
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Dangerous Touch",
+          "stars": 2,
+          "odds": "4/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 90.0,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.23,
+          "ret": 0.0,
+          "bank_after": 11.08
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Junker D'allier",
+          "stars": 3,
+          "odds": "7/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 114.0,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": 0.0,
+          "bank_after": 10.97
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Authorized Mission",
+          "stars": 4,
+          "odds": "13/8",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 119.55,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": 0.0,
+          "bank_after": 10.86
+        },
+        {
+          "horse": "Ikarak",
+          "stars": 3,
+          "odds": "10/3",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 100.0,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.11,
+          "ret": 0.48,
+          "bank_after": 11.23
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:30",
+      "meeting": "Ayr",
+      "horse": "Solid Performer",
+      "odds": "18/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:30",
+      "meeting": "Ayr",
+      "horse": "Blofeld",
+      "odds": "9/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:00",
+      "meeting": "Ayr",
+      "horse": "Abbey Scope",
+      "odds": "33/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:00",
+      "meeting": "Ayr",
+      "horse": "So Many Roads",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:00",
+      "meeting": "Ayr",
+      "horse": "Shadow Chaser",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:12",
+      "meeting": "Chelmsford City",
+      "horse": "Chola Empire",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:12",
+      "meeting": "Chelmsford City",
+      "horse": "Riot",
+      "odds": "22/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "horse": "Travail D'Orfevre",
+      "odds": "14/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "horse": "Celestial Fashion",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:00",
+      "meeting": "Ayr",
+      "horse": "Milcree",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:00",
+      "meeting": "Ayr",
+      "horse": "Young Jack",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:12",
+      "meeting": "Chelmsford City",
+      "horse": "Gladiadora",
+      "odds": "18/5",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:12",
+      "meeting": "Chelmsford City",
+      "horse": "Rising Force",
+      "odds": "13/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:30",
+      "meeting": "Ayr",
+      "horse": "Whistle Stop Tour",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:30",
+      "meeting": "Wolverhampton",
+      "horse": "Royal Musketeer",
+      "odds": "15/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:30",
+      "meeting": "Wolverhampton",
+      "horse": "Buraback",
+      "odds": "18/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "horse": "River Wharfe",
+      "odds": "16/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Wolverhampton",
+      "horse": "Tonal",
+      "odds": "3/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Wolverhampton",
+      "horse": "Ernie's Valentine",
+      "odds": "14/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Wolverhampton",
+      "horse": "Lessay",
+      "odds": "25/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "horse": "Beaumadier",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "horse": "Gustav Graves",
+      "odds": "6/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "horse": "Bang On The Bell",
+      "odds": "6/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:00",
+      "meeting": "Wolverhampton",
+      "horse": "Sense Of Worth",
+      "odds": "14/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:00",
+      "meeting": "Wolverhampton",
+      "horse": "Prince Ali",
+      "odds": "25/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "horse": "Magic Runner",
+      "odds": "10/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "horse": "Ciotog",
+      "odds": "14/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 8,
+    "settled": 8,
+    "won": 3,
+    "placed": 2,
+    "lost": 3,
+    "pending": 0
+  },
+  "staked": 1.1,
+  "returned": 1.68,
+  "bank": {
+    "start": 10.65,
+    "end": 11.23,
+    "next_stake": 0.11,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

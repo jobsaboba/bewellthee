@@ -1,0 +1,378 @@
+{
+  "date": "2026-02-06",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "14:57",
+      "meeting": "Bangor-on-Dee",
+      "picks": [
+        {
+          "horse": "Big Cadillac",
+          "stars": 5,
+          "odds": "7/4",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 140.78,
+          "pos": 0,
+          "res": null,
+          "stake": 0.23,
+          "ret": null,
+          "bank_after": 11.39
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:12",
+      "meeting": "Wolverhampton",
+      "horse": "Woodhay Whisper",
+      "odds": "17/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:55",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Rosscahill",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:55",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Planned Paradise",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:55",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Wal Buck's",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:57",
+      "meeting": "Bangor-on-Dee",
+      "horse": "The Dog Thief",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:57",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Argento Royale",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:17",
+      "meeting": "Wolverhampton",
+      "horse": "Fistral Beach",
+      "odds": "10/3",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:17",
+      "meeting": "Wolverhampton",
+      "horse": "Court Of Session",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:17",
+      "meeting": "Wolverhampton",
+      "horse": "Diligent Henry",
+      "odds": "10/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Newcastle",
+      "horse": "Flowstate",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Newcastle",
+      "horse": "Yaaser",
+      "odds": "15/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Newcastle",
+      "horse": "Front Gunner",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:30",
+      "meeting": "Newcastle",
+      "horse": "Novak",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:30",
+      "meeting": "Newcastle",
+      "horse": "Bobby Joe Leg",
+      "odds": "16/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Newcastle",
+      "horse": "Good Earth",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Newcastle",
+      "horse": "Dark Kestrel",
+      "odds": "6/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Newcastle",
+      "horse": "Ganesha",
+      "odds": "15/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Newcastle",
+      "horse": "Water Of Leith",
+      "odds": "11/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Newcastle",
+      "horse": "Digital",
+      "odds": "11/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Newcastle",
+      "horse": "Our Absent Friends",
+      "odds": "8/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:45",
+      "meeting": "Dundalk",
+      "horse": "Georg Zhukov",
+      "odds": "15/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:45",
+      "meeting": "Dundalk",
+      "horse": "Kitty Bear",
+      "odds": "14/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Newcastle",
+      "horse": "The Caltonian",
+      "odds": "11/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Newcastle",
+      "horse": "Heavenly Heather",
+      "odds": "6/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Newcastle",
+      "horse": "Paddy's Day",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:15",
+      "meeting": "Dundalk",
+      "horse": "Satono Chevalier",
+      "odds": "10/3",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:15",
+      "meeting": "Dundalk",
+      "horse": "Church Mountain",
+      "odds": "6/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:15",
+      "meeting": "Dundalk",
+      "horse": "Pepper Noir",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Newcastle",
+      "horse": "Mostar Dreams",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Newcastle",
+      "horse": "Bowood",
+      "odds": "16/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:00",
+      "meeting": "Newcastle",
+      "horse": "Benacre",
+      "odds": "10/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:30",
+      "meeting": "Newcastle",
+      "horse": "Northern Spirit",
+      "odds": "10/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:30",
+      "meeting": "Newcastle",
+      "horse": "Raatea",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 0,
+    "won": 0,
+    "placed": 0,
+    "lost": 0,
+    "pending": 1
+  },
+  "staked": 0,
+  "returned": 0,
+  "bank": {
+    "start": 11.39,
+    "end": 11.39,
+    "next_stake": 0.11,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

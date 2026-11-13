@@ -1,0 +1,171 @@
+{
+  "date": "2026-06-23",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "14:30",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "English Time",
+          "stars": 5,
+          "odds": "4/6",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 103.0,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.41,
+          "ret": 0.68,
+          "bank_after": 20.64
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "Typeface",
+          "stars": 4,
+          "odds": "1/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 60,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.41,
+          "ret": 0.0,
+          "bank_after": 20.23
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "14:30",
+      "meeting": "Ffos Las",
+      "horse": "Wid",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Ffos Las",
+      "horse": "Foxy Night",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:00",
+      "meeting": "Ffos Las",
+      "horse": "Scarfo",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:00",
+      "meeting": "Ffos Las",
+      "horse": "Racing Demon",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Ffos Las",
+      "horse": "Pureis King",
+      "odds": "1/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Ffos Las",
+      "horse": "Belle Of Kt",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Ffos Las",
+      "horse": "Elora Prince",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:10",
+      "meeting": "Ffos Las",
+      "horse": "Solanna",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:10",
+      "meeting": "Ffos Las",
+      "horse": "Yokkell",
+      "odds": "16/5",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:10",
+      "meeting": "Ffos Las",
+      "horse": "Meet Me In Meraki",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 2,
+    "settled": 2,
+    "won": 1,
+    "placed": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.82,
+  "returned": 0.68,
+  "bank": {
+    "start": 20.37,
+    "end": 20.23,
+    "next_stake": 0.2,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

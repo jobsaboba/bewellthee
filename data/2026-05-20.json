@@ -1,0 +1,328 @@
+{
+  "date": "2026-05-20",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "13:12",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Classy Clarets",
+          "stars": 4,
+          "odds": "2/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 57,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.34,
+          "ret": 0.0,
+          "bank_after": 16.67
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:12",
+      "meeting": "Ayr",
+      "horse": "Wee Mary",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:12",
+      "meeting": "Ayr",
+      "horse": "Jet Warrior",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:42",
+      "meeting": "Ayr",
+      "horse": "Pearl Eye",
+      "odds": "15/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:42",
+      "meeting": "Ayr",
+      "horse": "Footwork",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:42",
+      "meeting": "Ayr",
+      "horse": "Good Morning Alex",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:42",
+      "meeting": "Ayr",
+      "horse": "Hale End",
+      "odds": "15/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:42",
+      "meeting": "Ayr",
+      "horse": "Return To Unit",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:42",
+      "meeting": "Ayr",
+      "horse": "Jannas Journey",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:50",
+      "meeting": "Ffos Las",
+      "horse": "Glenmuick",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:50",
+      "meeting": "Ffos Las",
+      "horse": "Hard Stare",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:50",
+      "meeting": "Ffos Las",
+      "horse": "Green Asset",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:12",
+      "meeting": "Ayr",
+      "horse": "Kelpie Grey",
+      "odds": "11/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:12",
+      "meeting": "Ayr",
+      "horse": "Roaring Ralph",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:12",
+      "meeting": "Ayr",
+      "horse": "Al Muqdad",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:42",
+      "meeting": "Ayr",
+      "horse": "Tattie Bogle",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:42",
+      "meeting": "Ayr",
+      "horse": "Native Honey",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:42",
+      "meeting": "Ayr",
+      "horse": "Rwenearlytheredad",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:15",
+      "meeting": "Ayr",
+      "horse": "Wolf Of Badenoch",
+      "odds": "11/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:15",
+      "meeting": "Ayr",
+      "horse": "Mwafaq",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:15",
+      "meeting": "Ayr",
+      "horse": "Glorious Kitty",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Kempton",
+      "horse": "Karakula Dancer",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Kempton",
+      "horse": "Billy Mill",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Kempton",
+      "horse": "Cephalus",
+      "odds": "33/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Kempton",
+      "horse": "I'm Workin On It",
+      "odds": "3/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Kempton",
+      "horse": "Farasi Lane",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Kempton",
+      "horse": "Amazonian Dream",
+      "odds": "17/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Kempton",
+      "horse": "Many A Star",
+      "odds": "14/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:00",
+      "meeting": "Kempton",
+      "horse": "Maywedance",
+      "odds": "11/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.34,
+  "returned": 0.0,
+  "bank": {
+    "start": 17.01,
+    "end": 16.67,
+    "next_stake": 0.17,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

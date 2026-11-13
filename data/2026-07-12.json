@@ -1,0 +1,153 @@
+{
+  "date": "2026-07-12",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "14:16",
+      "meeting": "Perth",
+      "picks": [
+        {
+          "horse": "Summergrounds",
+          "stars": 4,
+          "odds": "11/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 102.45,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.24,
+          "ret": 0.0,
+          "bank_after": 23.45
+        },
+        {
+          "horse": "Atlantic City",
+          "stars": 4,
+          "odds": "5/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 101.0,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.24,
+          "ret": 0.0,
+          "bank_after": 23.21
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:00",
+      "meeting": "Dundalk",
+      "horse": "Rosie Frith",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:00",
+      "meeting": "Dundalk",
+      "horse": "Valiant Force",
+      "odds": "13/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:00",
+      "meeting": "Dundalk",
+      "horse": "Eclairage",
+      "odds": "7/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:35",
+      "meeting": "Dundalk",
+      "horse": "Gonna Be Golden",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:16",
+      "meeting": "Perth",
+      "horse": "Bold Light",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:45",
+      "meeting": "Dundalk",
+      "horse": "Bella Colombia",
+      "odds": "7/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:45",
+      "meeting": "Dundalk",
+      "horse": "Rockbury Lad",
+      "odds": "11/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:45",
+      "meeting": "Dundalk",
+      "horse": "Famous Enough",
+      "odds": "13/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:20",
+      "meeting": "Dundalk",
+      "horse": "Celtic Druid",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 2,
+    "settled": 2,
+    "won": 0,
+    "placed": 1,
+    "lost": 1,
+    "pending": 0
+  },
+  "staked": 0.48,
+  "returned": 0.0,
+  "bank": {
+    "start": 23.69,
+    "end": 23.21,
+    "next_stake": 0.23,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

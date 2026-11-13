@@ -1,0 +1,288 @@
+{
+  "date": "2026-01-31",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "14:20",
+      "meeting": "Musselburgh",
+      "picks": [
+        {
+          "horse": "The Kalooki Kid",
+          "stars": 5,
+          "odds": "10/3",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 141.07,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.24,
+          "ret": 0.0,
+          "bank_after": 11.63
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:35",
+      "meeting": "Lingfield",
+      "horse": "Me Tarzan",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:43",
+      "meeting": "Musselburgh",
+      "horse": "Welsh Charger",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:43",
+      "meeting": "Musselburgh",
+      "horse": "City Of Diamonds",
+      "odds": "18/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:43",
+      "meeting": "Musselburgh",
+      "horse": "Gibbs Island",
+      "odds": "18/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:20",
+      "meeting": "Musselburgh",
+      "horse": "Teddy Blue",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:20",
+      "meeting": "Musselburgh",
+      "horse": "Insurrection",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:20",
+      "meeting": "Lingfield",
+      "horse": "Bashful Boy",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:37",
+      "meeting": "Musselburgh",
+      "horse": "Irish Blaze",
+      "odds": "22/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:37",
+      "meeting": "Musselburgh",
+      "horse": "Magna Victor",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:37",
+      "meeting": "Musselburgh",
+      "horse": "As Fast As Wind",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:55",
+      "meeting": "Lingfield",
+      "horse": "The Thames Boatman",
+      "odds": "10/3",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:55",
+      "meeting": "Lingfield",
+      "horse": "Michaela's Boy",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:55",
+      "meeting": "Lingfield",
+      "horse": "Diomed Spirit",
+      "odds": "13/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:30",
+      "meeting": "Lingfield",
+      "horse": "Dandy Khan",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:30",
+      "meeting": "Lingfield",
+      "horse": "Antiquity",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:55",
+      "meeting": "Newcastle",
+      "horse": "Water Of Leith",
+      "odds": "7/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:55",
+      "meeting": "Newcastle",
+      "horse": "Our Absent Friends",
+      "odds": "7/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:55",
+      "meeting": "Newcastle",
+      "horse": "Ganesha",
+      "odds": "15/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:55",
+      "meeting": "Newcastle",
+      "horse": "The Green Man",
+      "odds": "10/3",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:55",
+      "meeting": "Newcastle",
+      "horse": "Benacre",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:25",
+      "meeting": "Newcastle",
+      "horse": "Wyvern",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:25",
+      "meeting": "Newcastle",
+      "horse": "Mercurius Power",
+      "odds": "10/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:25",
+      "meeting": "Newcastle",
+      "horse": "Little Ted",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:55",
+      "meeting": "Newcastle",
+      "horse": "Container Express",
+      "odds": "17/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 0,
+    "lost": 1,
+    "pending": 0
+  },
+  "staked": 0.24,
+  "returned": 0.0,
+  "bank": {
+    "start": 11.87,
+    "end": 11.63,
+    "next_stake": 0.12,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

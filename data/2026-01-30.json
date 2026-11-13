@@ -1,0 +1,348 @@
+{
+  "date": "2026-01-30",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "13:20",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "Tommy Pickles",
+          "stars": 4,
+          "odds": "9/2",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 186.81,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.24,
+          "ret": 0.0,
+          "bank_after": 11.87
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:20",
+      "meeting": "Ffos Las",
+      "horse": "Jaccours",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:20",
+      "meeting": "Ffos Las",
+      "horse": "Buddy Holly",
+      "odds": "11/10",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:50",
+      "meeting": "Ffos Las",
+      "horse": "Trade War",
+      "odds": "28/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:50",
+      "meeting": "Ffos Las",
+      "horse": "Turenne",
+      "odds": "8/11",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:50",
+      "meeting": "Ffos Las",
+      "horse": "Roi Du Roume",
+      "odds": "17/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:02",
+      "meeting": "Southwell",
+      "horse": "Good Earth",
+      "odds": "15/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:32",
+      "meeting": "Southwell",
+      "horse": "Grabajabba",
+      "odds": "8/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:32",
+      "meeting": "Southwell",
+      "horse": "How Impressive",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:32",
+      "meeting": "Southwell",
+      "horse": "Chola Empire",
+      "odds": "10/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:50",
+      "meeting": "Ffos Las",
+      "horse": "Lady Henrietta",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:50",
+      "meeting": "Ffos Las",
+      "horse": "Glengolly",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:50",
+      "meeting": "Ffos Las",
+      "horse": "Sparkling Duke",
+      "odds": "10/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:03",
+      "meeting": "Southwell",
+      "horse": "Doctor Khan Junior",
+      "odds": "10/3",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:25",
+      "meeting": "Ffos Las",
+      "horse": "Seasmoke",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:25",
+      "meeting": "Ffos Las",
+      "horse": "Lady Harriett",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:25",
+      "meeting": "Ffos Las",
+      "horse": "Fay Ce Que Voudras",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:38",
+      "meeting": "Southwell",
+      "horse": "Pleasant Man",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:45",
+      "meeting": "Dundalk",
+      "horse": "Moyassr",
+      "odds": "10/3",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:45",
+      "meeting": "Dundalk",
+      "horse": "Daonethatgotaway",
+      "odds": "7/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:45",
+      "meeting": "Dundalk",
+      "horse": "Mulgrave",
+      "odds": "11/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:45",
+      "meeting": "Dundalk",
+      "horse": "Nibras Rainbow",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:45",
+      "meeting": "Dundalk",
+      "horse": "Kartayaz",
+      "odds": "25/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Wolverhampton",
+      "horse": "Charlotte Corday",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:15",
+      "meeting": "Dundalk",
+      "horse": "Church Mountain",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:15",
+      "meeting": "Dundalk",
+      "horse": "Doctor Grace",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "horse": "Hitched",
+      "odds": "7/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "horse": "Tribal Wisdom",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "horse": "Sam's Hope",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "horse": "Water Of Leith",
+      "odds": "7/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "horse": "Ziggy's Queen",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.24,
+  "returned": 0.0,
+  "bank": {
+    "start": 12.11,
+    "end": 11.87,
+    "next_stake": 0.12,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "date": "2026-11-08",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "12:30",
+      "meeting": "Naas",
+      "picks": [
+        {
+          "horse": "The Mourne Rambler",
+          "stars": 5,
+          "odds": "1/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 113,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.54,
+          "ret": 0.68,
+          "bank_after": 53.96
+        }
+      ]
+    },
+    {
+      "time": "12:50",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "Tap Tap Shamie",
+          "stars": 5,
+          "odds": "8/15",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 108.0,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.54,
+          "ret": 0.0,
+          "bank_after": 53.42
+        }
+      ]
+    },
+    {
+      "time": "13:30",
+      "meeting": "Naas",
+      "picks": [
+        {
+          "horse": "Minella Machine",
+          "stars": 5,
+          "odds": "4/9",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 100,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.53,
+          "ret": 0.77,
+          "bank_after": 53.66
+        }
+      ]
+    },
+    {
+      "time": "14:04",
+      "meeting": "Naas",
+      "picks": [
+        {
+          "horse": "Le Moulin Rouge",
+          "stars": 4,
+          "odds": "11/2",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 78,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.07,
+          "ret": 6.96,
+          "bank_after": 59.55
+        }
+      ]
+    },
+    {
+      "time": "14:27",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "Corner Forward",
+          "stars": 5,
+          "odds": "5/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 100.88,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.6,
+          "ret": 1.35,
+          "bank_after": 60.3
+        }
+      ]
+    },
+    {
+      "time": "15:02",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "Little Patience",
+          "stars": 5,
+          "odds": "1/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 207.45,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.21,
+          "ret": 2.42,
+          "bank_after": 61.51
+        }
+      ]
+    },
+    {
+      "time": "15:13",
+      "meeting": "Naas",
+      "picks": [
+        {
+          "horse": "Anzadam",
+          "stars": 5,
+          "odds": "8/13",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 121.6,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.62,
+          "ret": 1.0,
+          "bank_after": 61.89
+        }
+      ]
+    },
+    {
+      "time": "15:25",
+      "meeting": "Sandown",
+      "picks": [
+        {
+          "horse": "Port Station",
+          "stars": 5,
+          "odds": "9/4",
+          "apps": [
+            "D",
+            "G",
+            "J"
+          ],
+          "napps": 3,
+          "reason": "3-app medal",
+          "score": 144.51,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.86,
+          "ret": 6.04,
+          "bank_after": 66.07
+        }
+      ]
+    },
+    {
+      "time": "15:48",
+      "meeting": "Naas",
+      "picks": [
+        {
+          "horse": "Ballydonagh Girl",
+          "stars": 5,
+          "odds": "6/5",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 133,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.32,
+          "ret": 2.9,
+          "bank_after": 67.65
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:00",
+      "meeting": "Naas",
+      "horse": "Shellrunforbriggs",
+      "odds": "15/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:00",
+      "meeting": "Naas",
+      "horse": "Koori Star",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:00",
+      "meeting": "Naas",
+      "horse": "Luimneach",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:00",
+      "meeting": "Naas",
+      "horse": "Mywayofthinkin",
+      "odds": "8/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:30",
+      "meeting": "Naas",
+      "horse": "Caman Hill",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:30",
+      "meeting": "Naas",
+      "horse": "Low Kick",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:30",
+      "meeting": "Naas",
+      "horse": "Ignite The Moment",
+      "odds": "14/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:40",
+      "meeting": "Sandown",
+      "horse": "Bowmore",
+      "odds": "7/2",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:50",
+      "meeting": "Ffos Las",
+      "horse": "Ink Black Heart",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:50",
+      "meeting": "Ffos Las",
+      "horse": "Not Without Danger",
+      "odds": "17/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:10",
+      "meeting": "Sandown",
+      "horse": "Mint Approved",
+      "odds": "3/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:20",
+      "meeting": "Ffos Las",
+      "horse": "Debrave Soldier",
+      "odds": "11/10",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:20",
+      "meeting": "Ffos Las",
+      "horse": "Karaka De Thaix",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:20",
+      "meeting": "Ffos Las",
+      "horse": "Genietoile",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Naas",
+      "horse": "Adaboy Mushy",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Naas",
+      "horse": "Coq Noir",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Naas",
+      "horse": "Got The Honours",
+      "odds": "4/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:40",
+      "meeting": "Sandown",
+      "horse": "Limerick Lass",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:40",
+      "meeting": "Sandown",
+      "horse": "Rialannah",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:40",
+      "meeting": "Sandown",
+      "horse": "White Noise",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:52",
+      "meeting": "Ffos Las",
+      "horse": "Midweek Voices",
+      "odds": "13/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:52",
+      "meeting": "Ffos Las",
+      "horse": "River Voyage",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:52",
+      "meeting": "Ffos Las",
+      "horse": "Stratton Oakmont",
+      "odds": "10/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:04",
+      "meeting": "Naas",
+      "horse": "Mister Pessimistic",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:04",
+      "meeting": "Naas",
+      "horse": "Ballybawn Belter",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:15",
+      "meeting": "Sandown",
+      "horse": "St Pancras",
+      "odds": "7/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:27",
+      "meeting": "Ffos Las",
+      "horse": "Built By Rossies",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:27",
+      "meeting": "Ffos Las",
+      "horse": "Bound For Glory",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:02",
+      "meeting": "Ffos Las",
+      "horse": "Esprit Sauvage",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:02",
+      "meeting": "Ffos Las",
+      "horse": "Lancelot Du Large",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:13",
+      "meeting": "Naas",
+      "horse": "Bertutea",
+      "odds": "22/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:13",
+      "meeting": "Naas",
+      "horse": "Eachtotheirown",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:25",
+      "meeting": "Sandown",
+      "horse": "Novelista",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:25",
+      "meeting": "Sandown",
+      "horse": "Gone Country",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:25",
+      "meeting": "Sandown",
+      "horse": "Kalif D'airy",
+      "odds": "11/2",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:48",
+      "meeting": "Naas",
+      "horse": "Bride Of Arainn",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:48",
+      "meeting": "Naas",
+      "horse": "Cassie Baby",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:48",
+      "meeting": "Naas",
+      "horse": "Jetson Jane",
+      "odds": "8/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 9,
+    "settled": 9,
+    "won": 8,
+    "placed": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 8.29,
+  "returned": 22.12,
+  "bank": {
+    "start": 53.82,
+    "end": 67.65,
+    "next_stake": 0.68,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

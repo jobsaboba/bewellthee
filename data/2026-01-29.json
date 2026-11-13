@@ -1,0 +1,359 @@
+{
+  "date": "2026-01-29",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "13:13",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Coolkatie",
+          "stars": 5,
+          "odds": "11/8",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 107.78,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 11.99
+        }
+      ]
+    },
+    {
+      "time": "13:43",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Diamond Geezer",
+          "stars": 5,
+          "odds": "9/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 109.0,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.12,
+          "ret": 0.39,
+          "bank_after": 12.26
+        }
+      ]
+    },
+    {
+      "time": "14:43",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Stede Bonnet",
+          "stars": 5,
+          "odds": "8/11",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 114.0,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.12,
+          "ret": 0.21,
+          "bank_after": 12.35
+        },
+        {
+          "horse": "Sanilam",
+          "stars": 3,
+          "odds": "7/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 110.55,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 12.23
+        }
+      ]
+    },
+    {
+      "time": "15:13",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "President Scottie",
+          "stars": 3,
+          "odds": "15/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 120.07,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 12.11
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:13",
+      "meeting": "Ayr",
+      "horse": "Sagonige",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:13",
+      "meeting": "Ayr",
+      "horse": "Apples Jane",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:20",
+      "meeting": "Lingfield",
+      "horse": "Bang On The Bell",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:20",
+      "meeting": "Lingfield",
+      "horse": "Level Up",
+      "odds": "7/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:43",
+      "meeting": "Ayr",
+      "horse": "Langdale Lane",
+      "odds": "20/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:43",
+      "meeting": "Ayr",
+      "horse": "Jakana",
+      "odds": "25/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:50",
+      "meeting": "Lingfield",
+      "horse": "Space Invasion",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:43",
+      "meeting": "Ayr",
+      "horse": "Irandando Has",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:13",
+      "meeting": "Ayr",
+      "horse": "Carismatic Soldier",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:13",
+      "meeting": "Ayr",
+      "horse": "Buzz Iceclear",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:20",
+      "meeting": "Lingfield",
+      "horse": "Raintown",
+      "odds": "22/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:43",
+      "meeting": "Ayr",
+      "horse": "Wotter Trotter",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:43",
+      "meeting": "Ayr",
+      "horse": "Coup De Coeur",
+      "odds": "18/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:43",
+      "meeting": "Ayr",
+      "horse": "Chumlee",
+      "odds": "40/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:20",
+      "meeting": "Lingfield",
+      "horse": "Porfin",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Chelmsford City",
+      "horse": "Justcallmepete",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Chelmsford City",
+      "horse": "Aberama Gold",
+      "odds": "15/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Chelmsford City",
+      "horse": "Intervention",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Chelmsford City",
+      "horse": "Edergole's Gift",
+      "odds": "7/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Chelmsford City",
+      "horse": "Thomas Equinas",
+      "odds": "10/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:00",
+      "meeting": "Chelmsford City",
+      "horse": "Gennadius",
+      "odds": "7/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:00",
+      "meeting": "Chelmsford City",
+      "horse": "Lexington Jet",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:00",
+      "meeting": "Chelmsford City",
+      "horse": "H Key Lails",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 5,
+    "settled": 5,
+    "won": 2,
+    "placed": 0,
+    "lost": 3,
+    "pending": 0
+  },
+  "staked": 0.6,
+  "returned": 0.6,
+  "bank": {
+    "start": 12.11,
+    "end": 12.11,
+    "next_stake": 0.12,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

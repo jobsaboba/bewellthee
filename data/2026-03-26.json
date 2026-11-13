@@ -1,0 +1,303 @@
+{
+  "date": "2026-03-26",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "17:20",
+      "meeting": "Chepstow",
+      "picks": [
+        {
+          "horse": "Lord Du Gouet",
+          "stars": 3,
+          "odds": "13/8",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 152.81,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 12.02
+        },
+        {
+          "horse": "Stick To The Board",
+          "stars": 5,
+          "odds": "1/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 133.88,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.12,
+          "ret": 0.24,
+          "bank_after": 12.14
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "14:07",
+      "meeting": "Southwell",
+      "horse": "Life After Love",
+      "odds": "3/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:37",
+      "meeting": "Southwell",
+      "horse": "Prince Quattro",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:50",
+      "meeting": "Chepstow",
+      "horse": "Tom Taggle",
+      "odds": "18/5",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:50",
+      "meeting": "Chepstow",
+      "horse": "Yes And Yes",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:50",
+      "meeting": "Chepstow",
+      "horse": "Just In A Bit",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:50",
+      "meeting": "Chepstow",
+      "horse": "Esperti",
+      "odds": "16/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:50",
+      "meeting": "Chepstow",
+      "horse": "Lightonthewing",
+      "odds": "9/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:50",
+      "meeting": "Chepstow",
+      "horse": "River Voyage",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:07",
+      "meeting": "Southwell",
+      "horse": "Popty Ping",
+      "odds": "6/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:20",
+      "meeting": "Chepstow",
+      "horse": "Le Fabuleux Buck's",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:20",
+      "meeting": "Chepstow",
+      "horse": "Inion Tiogair",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:20",
+      "meeting": "Chepstow",
+      "horse": "Luwdvig",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:50",
+      "meeting": "Chepstow",
+      "horse": "Crystello",
+      "odds": "6/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:50",
+      "meeting": "Chepstow",
+      "horse": "Blue In The West",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:50",
+      "meeting": "Chepstow",
+      "horse": "Devon Dude",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:20",
+      "meeting": "Chepstow",
+      "horse": "Trigg",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Chelmsford City",
+      "horse": "Lazzar",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Chelmsford City",
+      "horse": "Tyger Bay",
+      "odds": "10/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Chelmsford City",
+      "horse": "Saeculamation",
+      "odds": "8/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Chelmsford City",
+      "horse": "Diamond Dreamer",
+      "odds": "7/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Chelmsford City",
+      "horse": "Bang On The Bell",
+      "odds": "18/5",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:00",
+      "meeting": "Chelmsford City",
+      "horse": "Bint Havana Gold",
+      "odds": "11/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:00",
+      "meeting": "Chelmsford City",
+      "horse": "My Boy Harry",
+      "odds": "10/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:00",
+      "meeting": "Chelmsford City",
+      "horse": "Sanditon",
+      "odds": "14/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 2,
+    "settled": 2,
+    "won": 1,
+    "placed": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.24,
+  "returned": 0.24,
+  "bank": {
+    "start": 12.14,
+    "end": 12.14,
+    "next_stake": 0.12,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

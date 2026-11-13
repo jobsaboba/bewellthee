@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-07",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "14:20",
+      "meeting": "Musselburgh",
+      "picks": [
+        {
+          "horse": "Eagle Bay",
+          "stars": 4,
+          "odds": "3/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 117.0,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.5,
+          "ret": 0.0,
+          "bank_after": 24.45
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "14:20",
+      "meeting": "Musselburgh",
+      "horse": "Jonny Concrete",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:20",
+      "meeting": "Musselburgh",
+      "horse": "Passing Thought",
+      "odds": "17/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 0,
+    "lost": 1,
+    "pending": 0
+  },
+  "staked": 0.5,
+  "returned": 0.0,
+  "bank": {
+    "start": 24.95,
+    "end": 24.45,
+    "next_stake": 0.24,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

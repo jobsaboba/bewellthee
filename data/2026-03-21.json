@@ -1,0 +1,488 @@
+{
+  "date": "2026-03-21",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "13:00",
+      "meeting": "Kelso",
+      "picks": [
+        {
+          "horse": "Hollygrove Cha Cha",
+          "stars": 4,
+          "odds": "13/8",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 226.81,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.23,
+          "ret": 0.0,
+          "bank_after": 11.33
+        }
+      ]
+    },
+    {
+      "time": "13:07",
+      "meeting": "Bangor-on-Dee",
+      "picks": [
+        {
+          "horse": "Tommy Pickles",
+          "stars": 4,
+          "odds": "6/4",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 161.67000000000002,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.23,
+          "ret": 0.58,
+          "bank_after": 11.68
+        }
+      ]
+    },
+    {
+      "time": "13:30",
+      "meeting": "Kelso",
+      "picks": [
+        {
+          "horse": "Baratablet",
+          "stars": 3,
+          "odds": "7/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 140.07,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 11.56
+        }
+      ]
+    },
+    {
+      "time": "14:10",
+      "meeting": "Kelso",
+      "picks": [
+        {
+          "horse": "Khrisma",
+          "stars": 4,
+          "odds": "5/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 109.5,
+          "pos": 0,
+          "res": null,
+          "stake": 0.12,
+          "ret": null,
+          "bank_after": 11.56
+        }
+      ]
+    },
+    {
+      "time": "16:23",
+      "meeting": "Kelso",
+      "picks": [
+        {
+          "horse": "King Kubala",
+          "stars": 3,
+          "odds": "5/2",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 111.07,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.23,
+          "ret": 0.81,
+          "bank_after": 12.14
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:00",
+      "meeting": "Kelso",
+      "horse": "Pitwood Road",
+      "odds": "16/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:00",
+      "meeting": "Kelso",
+      "horse": "World Of Fortunes",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:07",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Jorah D'alma",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:07",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Mossy Fen Coolio",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Kelso",
+      "horse": "Judicial Deference",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Kelso",
+      "horse": "Speiriuil",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:43",
+      "meeting": "Southwell",
+      "horse": "Mount Ruapehu",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:10",
+      "meeting": "Kelso",
+      "horse": "Beauty In The Park",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:10",
+      "meeting": "Kelso",
+      "horse": "Gintime",
+      "odds": "33/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:20",
+      "meeting": "Southwell",
+      "horse": "Mr Fustic",
+      "odds": "6/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:20",
+      "meeting": "Southwell",
+      "horse": "Create",
+      "odds": "18/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Kelso",
+      "horse": "Glen Road",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Kelso",
+      "horse": "Stick With Me Sam",
+      "odds": "20/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Kelso",
+      "horse": "Diamond Dealer",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:45",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Kastellion",
+      "odds": "9/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:45",
+      "meeting": "Bangor-on-Dee",
+      "horse": "An Buachaill Rua",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:45",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Thereyare",
+      "odds": "10/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:23",
+      "meeting": "Kelso",
+      "horse": "Diamond White",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:23",
+      "meeting": "Kelso",
+      "horse": "Kilaro",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:30",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Ayyadieh",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:30",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Joeybottles",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:30",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Rock Hurley",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:38",
+      "meeting": "Southwell",
+      "horse": "Gaeli",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:38",
+      "meeting": "Southwell",
+      "horse": "Ziggy's Triton",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:13",
+      "meeting": "Southwell",
+      "horse": "Hackney Diamonds",
+      "odds": "3/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:43",
+      "meeting": "Southwell",
+      "horse": "Grabajabba",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:43",
+      "meeting": "Southwell",
+      "horse": "Ash Wednesday",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:43",
+      "meeting": "Southwell",
+      "horse": "King Of York",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Newcastle",
+      "horse": "Selection",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Newcastle",
+      "horse": "Tasever",
+      "odds": "8/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Newcastle",
+      "horse": "Concert Boy",
+      "odds": "11/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Newcastle",
+      "horse": "Henriette Ronner",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:30",
+      "meeting": "Newcastle",
+      "horse": "Andalprofit",
+      "odds": "7/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:30",
+      "meeting": "Newcastle",
+      "horse": "Instant Bond",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:30",
+      "meeting": "Newcastle",
+      "horse": "Spun To Gold",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 5,
+    "settled": 4,
+    "won": 2,
+    "placed": 0,
+    "lost": 2,
+    "pending": 1
+  },
+  "staked": 0.81,
+  "returned": 1.39,
+  "bank": {
+    "start": 11.56,
+    "end": 12.14,
+    "next_stake": 0.12,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "date": "2026-04-02",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "13:30",
+      "meeting": "Chepstow",
+      "picks": [
+        {
+          "horse": "Hurricane Pat",
+          "stars": 4,
+          "odds": "2/9",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 141.67000000000002,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.13,
+          "ret": 0.16,
+          "bank_after": 12.75
+        },
+        {
+          "horse": "Cosmic Connection",
+          "stars": 5,
+          "odds": "9/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 132.88,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.13,
+          "ret": 0.0,
+          "bank_after": 12.62
+        }
+      ]
+    },
+    {
+      "time": "13:40",
+      "meeting": "Kelso",
+      "picks": [
+        {
+          "horse": "Nobotheratall",
+          "stars": 3,
+          "odds": "7/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 110.81,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.13,
+          "ret": 0.0,
+          "bank_after": 12.49
+        }
+      ]
+    },
+    {
+      "time": "15:46",
+      "meeting": "Kelso",
+      "picks": [
+        {
+          "horse": "Always A Reason",
+          "stars": 5,
+          "odds": "6/4",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 103.07,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.25,
+          "ret": 0.0,
+          "bank_after": 12.24
+        }
+      ]
+    },
+    {
+      "time": "16:15",
+      "meeting": "Chepstow",
+      "picks": [
+        {
+          "horse": "Order On Time",
+          "stars": 4,
+          "odds": "6/5",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 133.88,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.24,
+          "ret": 0.53,
+          "bank_after": 12.53
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:52",
+      "meeting": "Chelmsford City",
+      "horse": "Forever Noah",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:52",
+      "meeting": "Chelmsford City",
+      "horse": "Sir Rodneyredblood",
+      "odds": "7/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:52",
+      "meeting": "Chelmsford City",
+      "horse": "Henry Tudor",
+      "odds": "25/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:22",
+      "meeting": "Chelmsford City",
+      "horse": "Almaty Star",
+      "odds": "3/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Chepstow",
+      "horse": "Both Of Us",
+      "odds": "28/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:40",
+      "meeting": "Kelso",
+      "horse": "Word For Word",
+      "odds": "13/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:40",
+      "meeting": "Kelso",
+      "horse": "Changemyluck",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:10",
+      "meeting": "Kelso",
+      "horse": "Vanilla Dancer",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:10",
+      "meeting": "Kelso",
+      "horse": "Parish Star",
+      "odds": "15/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:10",
+      "meeting": "Kelso",
+      "horse": "Take A Hike",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Kelso",
+      "horse": "Nights In Venice",
+      "odds": "9/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Kelso",
+      "horse": "Looking Splendid",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Kelso",
+      "horse": "Benefit Ben",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:07",
+      "meeting": "Chepstow",
+      "horse": "Marlacoo",
+      "odds": "9/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:07",
+      "meeting": "Chepstow",
+      "horse": "It's Top",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:07",
+      "meeting": "Chepstow",
+      "horse": "Wolf Moon",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:39",
+      "meeting": "Chepstow",
+      "horse": "The Italian Fox",
+      "odds": "4/11",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:39",
+      "meeting": "Chepstow",
+      "horse": "Bobalot",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:39",
+      "meeting": "Chepstow",
+      "horse": "Groom De Cotte",
+      "odds": "18/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:46",
+      "meeting": "Kelso",
+      "horse": "Visual Impact",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:46",
+      "meeting": "Kelso",
+      "horse": "My Lady Elektra",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:53",
+      "meeting": "Chelmsford City",
+      "horse": "He's Our Cracker",
+      "odds": "3/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:15",
+      "meeting": "Chepstow",
+      "horse": "Winmeafortune",
+      "odds": "14/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:15",
+      "meeting": "Chepstow",
+      "horse": "Chance A Glance",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:48",
+      "meeting": "Southwell",
+      "horse": "Stanley Spencer",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:48",
+      "meeting": "Southwell",
+      "horse": "Colors Of Freedom",
+      "odds": "6/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:48",
+      "meeting": "Southwell",
+      "horse": "Street Life",
+      "odds": "11/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:48",
+      "meeting": "Southwell",
+      "horse": "Master Zack",
+      "odds": "28/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:48",
+      "meeting": "Southwell",
+      "horse": "Zephlyn",
+      "odds": "7/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:18",
+      "meeting": "Southwell",
+      "horse": "Hackney Diamonds",
+      "odds": "11/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 5,
+    "settled": 5,
+    "won": 2,
+    "placed": 1,
+    "lost": 2,
+    "pending": 0
+  },
+  "staked": 0.88,
+  "returned": 0.69,
+  "bank": {
+    "start": 12.72,
+    "end": 12.53,
+    "next_stake": 0.13,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

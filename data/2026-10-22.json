@@ -1,0 +1,282 @@
+{
+  "date": "2026-10-22",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "11:51",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "Fairy Park",
+          "stars": 5,
+          "odds": "2/7",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 66,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.92,
+          "ret": 1.18,
+          "bank_after": 46.02
+        }
+      ]
+    },
+    {
+      "time": "13:01",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "The Walk",
+          "stars": 4,
+          "odds": "11/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 105,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.46,
+          "ret": 1.73,
+          "bank_after": 47.29
+        }
+      ]
+    },
+    {
+      "time": "15:20",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "Gustapof",
+          "stars": 3,
+          "odds": "5/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 103.0,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.47,
+          "ret": 1.65,
+          "bank_after": 48.47
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "11:51",
+      "meeting": "Ffos Las",
+      "horse": "Fireball Frenzy",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "11:51",
+      "meeting": "Ffos Las",
+      "horse": "Vrheligonne",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:26",
+      "meeting": "Ffos Las",
+      "horse": "Spanish Stroll",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:26",
+      "meeting": "Ffos Las",
+      "horse": "Sky Grove",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:26",
+      "meeting": "Ffos Las",
+      "horse": "Quickkick",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:01",
+      "meeting": "Ffos Las",
+      "horse": "Trojan Tale",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:01",
+      "meeting": "Ffos Las",
+      "horse": "Brisky Dancer",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:36",
+      "meeting": "Ffos Las",
+      "horse": "Moonset",
+      "odds": "16/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:36",
+      "meeting": "Ffos Las",
+      "horse": "Idefix De Ciergues",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:36",
+      "meeting": "Ffos Las",
+      "horse": "Kilwaughter",
+      "odds": "9/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:20",
+      "meeting": "Ffos Las",
+      "horse": "Love Me",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:20",
+      "meeting": "Ffos Las",
+      "horse": "Crystello",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:21",
+      "meeting": "Ffos Las",
+      "horse": "Gustapof",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "15:21",
+      "meeting": "Ffos Las",
+      "horse": "Crystello",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "15:21",
+      "meeting": "Ffos Las",
+      "horse": "Rap Soul",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Southwell",
+      "horse": "Filly Eilish",
+      "odds": "10/3",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Southwell",
+      "horse": "Imola",
+      "odds": "16/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:30",
+      "meeting": "Southwell",
+      "horse": "Izzari",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Southwell",
+      "horse": "Stanley Spencer",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 3,
+    "settled": 3,
+    "won": 3,
+    "placed": 0,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 1.85,
+  "returned": 4.56,
+  "bank": {
+    "start": 45.76,
+    "end": 48.47,
+    "next_stake": 0.48,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

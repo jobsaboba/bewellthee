@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-24",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "16:52",
+      "meeting": "Chepstow",
+      "picks": [
+        {
+          "horse": "Forest Berry",
+          "stars": 4,
+          "odds": "2/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 53,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.48,
+          "ret": 0.0,
+          "bank_after": 23.63
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "16:52",
+      "meeting": "Chepstow",
+      "horse": "Dissenter",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:52",
+      "meeting": "Chepstow",
+      "horse": "Beechwood Glory",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:36",
+      "meeting": "Chepstow",
+      "horse": "Prince Ali",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:36",
+      "meeting": "Chepstow",
+      "horse": "Knightmare",
+      "odds": "9/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:36",
+      "meeting": "Chepstow",
+      "horse": "Judge Frank",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:46",
+      "meeting": "Chepstow",
+      "horse": "Midnight Media",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:46",
+      "meeting": "Chepstow",
+      "horse": "Crimson Road",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:46",
+      "meeting": "Chepstow",
+      "horse": "City Escape",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.48,
+  "returned": 0.0,
+  "bank": {
+    "start": 24.11,
+    "end": 23.63,
+    "next_stake": 0.24,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

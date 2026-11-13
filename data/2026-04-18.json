@@ -1,0 +1,472 @@
+{
+  "date": "2026-04-18",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "12:17",
+      "meeting": "Bangor-on-Dee",
+      "picks": [
+        {
+          "horse": "Senator",
+          "stars": 5,
+          "odds": "1/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 198.81,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.26,
+          "ret": 0.0,
+          "bank_after": 12.83
+        }
+      ]
+    },
+    {
+      "time": "12:52",
+      "meeting": "Bangor-on-Dee",
+      "picks": [
+        {
+          "horse": "Streamsforth Lad",
+          "stars": 5,
+          "odds": "13/8",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 96.81,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.26,
+          "ret": 0.0,
+          "bank_after": 12.57
+        }
+      ]
+    },
+    {
+      "time": "13:20",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Tutti Quanti",
+          "stars": 4,
+          "odds": "13/8",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 121.88,
+          "pos": 0,
+          "res": null,
+          "stake": 0.13,
+          "ret": null,
+          "bank_after": 12.57
+        }
+      ]
+    },
+    {
+      "time": "13:55",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Twistthenightaway",
+          "stars": 5,
+          "odds": "6/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 132.45,
+          "pos": 0,
+          "res": null,
+          "stake": 0.13,
+          "ret": null,
+          "bank_after": 12.57
+        }
+      ]
+    },
+    {
+      "time": "14:35",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Git Maker",
+          "stars": 3,
+          "odds": "10/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 142.59,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.13,
+          "ret": 0.0,
+          "bank_after": 12.44
+        }
+      ]
+    },
+    {
+      "time": "15:15",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Apache Tribe",
+          "stars": 4,
+          "odds": "5/6",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 111,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.12,
+          "ret": 0.22,
+          "bank_after": 12.54
+        }
+      ]
+    },
+    {
+      "time": "15:42",
+      "meeting": "Bangor-on-Dee",
+      "picks": [
+        {
+          "horse": "Dwight K Schrute",
+          "stars": 5,
+          "odds": "3/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 176.81,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.25,
+          "ret": 0.0,
+          "bank_after": 12.29
+        }
+      ]
+    },
+    {
+      "time": "15:48",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Skerry Hill",
+          "stars": 4,
+          "odds": "7/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 138,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.12,
+          "ret": 0.33,
+          "bank_after": 12.5
+        },
+        {
+          "horse": "Keops Des Bordes",
+          "stars": 5,
+          "odds": "11/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 124.45,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 12.38
+        }
+      ]
+    },
+    {
+      "time": "16:17",
+      "meeting": "Bangor-on-Dee",
+      "picks": [
+        {
+          "horse": "Enya",
+          "stars": 3,
+          "odds": "6/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 143.81,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 12.26
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:17",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Alsakib",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:17",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Anxious Moments",
+      "odds": "25/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:45",
+      "meeting": "Ayr",
+      "horse": "Kdeux Saint Fray",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:45",
+      "meeting": "Ayr",
+      "horse": "Young Jack",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:45",
+      "meeting": "Ayr",
+      "horse": "Big John Wayne",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:52",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Subtle Fortune",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:52",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Huckleberry Sting",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:20",
+      "meeting": "Ayr",
+      "horse": "Dedicated Hero",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:20",
+      "meeting": "Ayr",
+      "horse": "Secret Squirrel",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:55",
+      "meeting": "Ayr",
+      "horse": "Princess Keri",
+      "odds": "16/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:55",
+      "meeting": "Ayr",
+      "horse": "Game Colours",
+      "odds": "10/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:35",
+      "meeting": "Ayr",
+      "horse": "Quebecois",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:35",
+      "meeting": "Ayr",
+      "horse": "Famous Bridge",
+      "odds": "25/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Eremenko",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Las Canals",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Tramuntana",
+      "odds": "11/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:15",
+      "meeting": "Ayr",
+      "horse": "Our Boy Stan",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:15",
+      "meeting": "Ayr",
+      "horse": "Stride On",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:42",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Tiger Orchid",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:42",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Speed Davis",
+      "odds": "9/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:48",
+      "meeting": "Ayr",
+      "horse": "Old Habits",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:17",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Longlands",
+      "odds": "11/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:17",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Littlebobbydazzler",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 10,
+    "settled": 8,
+    "won": 2,
+    "placed": 3,
+    "lost": 3,
+    "pending": 2
+  },
+  "staked": 1.38,
+  "returned": 0.55,
+  "bank": {
+    "start": 13.09,
+    "end": 12.26,
+    "next_stake": 0.12,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

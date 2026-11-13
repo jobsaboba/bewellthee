@@ -1,0 +1,188 @@
+{
+  "date": "2026-07-27",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "14:45",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Runninsonofagun",
+          "stars": 5,
+          "odds": "8/15",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 92.0,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.47,
+          "ret": 0.0,
+          "bank_after": 23.16
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:45",
+      "meeting": "Ayr",
+      "horse": "Kelpie Grey",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:45",
+      "meeting": "Ayr",
+      "horse": "Cotai Starlight",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:45",
+      "meeting": "Ayr",
+      "horse": "Mr Cool",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:45",
+      "meeting": "Ayr",
+      "horse": "Union Island",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:45",
+      "meeting": "Ayr",
+      "horse": "Novak",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:45",
+      "meeting": "Ayr",
+      "horse": "Startling",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:45",
+      "meeting": "Ayr",
+      "horse": "Royal Duke",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:45",
+      "meeting": "Ayr",
+      "horse": "Ski Angel",
+      "odds": "10/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:00",
+      "meeting": "Southwell",
+      "horse": "Chalk Mountain",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:00",
+      "meeting": "Southwell",
+      "horse": "Tropez Power",
+      "odds": "33/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:20",
+      "meeting": "Ayr",
+      "horse": "Royal Blaze",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:20",
+      "meeting": "Ayr",
+      "horse": "Penelope's Sister",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:20",
+      "meeting": "Ayr",
+      "horse": "Just Dottie",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:05",
+      "meeting": "Southwell",
+      "horse": "Hierarchy",
+      "odds": "33/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.47,
+  "returned": 0.0,
+  "bank": {
+    "start": 23.63,
+    "end": 23.16,
+    "next_stake": 0.23,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

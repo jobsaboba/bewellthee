@@ -1,0 +1,227 @@
+{
+  "date": "2026-09-19",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "14:40",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Far Above Dream",
+          "stars": 4,
+          "odds": "4/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 106.3,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 0.28,
+          "ret": 0.0,
+          "bank_after": 27.88
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:20",
+      "meeting": "Ayr",
+      "horse": "Mcmurray",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:20",
+      "meeting": "Ayr",
+      "horse": "Spoken Truth",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:20",
+      "meeting": "Ayr",
+      "horse": "Thunder Roar",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Ayr",
+      "horse": "Deep Havana",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Ayr",
+      "horse": "Goldmoyne",
+      "odds": "22/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Ayr",
+      "horse": "Desert Falcon",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Ayr",
+      "horse": "Binhareer",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Ayr",
+      "horse": "Tuco Salamanca",
+      "odds": "16/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:10",
+      "meeting": "Newcastle",
+      "horse": "Gemini Man",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:50",
+      "meeting": "Ayr",
+      "horse": "Jannas Journey",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:50",
+      "meeting": "Ayr",
+      "horse": "Dwindling Funds",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:50",
+      "meeting": "Ayr",
+      "horse": "Viper",
+      "odds": "22/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:30",
+      "meeting": "Newcastle",
+      "horse": "Blue Force",
+      "odds": "25/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Newcastle",
+      "horse": "Tickets",
+      "odds": "11/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Newcastle",
+      "horse": "Too Much",
+      "odds": "11/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Newcastle",
+      "horse": "Khabib",
+      "odds": "14/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Newcastle",
+      "horse": "Barleybrown",
+      "odds": "7/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Newcastle",
+      "horse": "Volenti",
+      "odds": "7/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 0,
+    "lost": 1,
+    "pending": 0
+  },
+  "staked": 0.28,
+  "returned": 0.0,
+  "bank": {
+    "start": 28.16,
+    "end": 27.88,
+    "next_stake": 0.28,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

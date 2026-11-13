@@ -1,0 +1,434 @@
+{
+  "date": "2026-02-13",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "13:40",
+      "meeting": "Chepstow",
+      "picks": [
+        {
+          "horse": "Bossman Jack",
+          "stars": 5,
+          "odds": "1/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 179.78,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.11,
+          "ret": 0.14,
+          "bank_after": 11.49
+        }
+      ]
+    },
+    {
+      "time": "14:00",
+      "meeting": "Kelso",
+      "picks": [
+        {
+          "horse": "Judicial Deference",
+          "stars": 5,
+          "odds": "5/4",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 93.0,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.23,
+          "ret": 0.52,
+          "bank_after": 11.78
+        }
+      ]
+    },
+    {
+      "time": "16:45",
+      "meeting": "Kelso",
+      "picks": [
+        {
+          "horse": "Thelastmanfrompenr",
+          "stars": 3,
+          "odds": "7/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 101.07,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.12,
+          "ret": 0.96,
+          "bank_after": 12.62
+        }
+      ]
+    },
+    {
+      "time": "16:55",
+      "meeting": "Chepstow",
+      "picks": [
+        {
+          "horse": "Delta Blues Belle",
+          "stars": 5,
+          "odds": "11/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 124.78,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.13,
+          "ret": 0.0,
+          "bank_after": 12.49
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:30",
+      "meeting": "Kelso",
+      "horse": "Mister R",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Kelso",
+      "horse": "Kaka's Cousin",
+      "odds": "16/5",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Kelso",
+      "horse": "They Want Me",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:40",
+      "meeting": "Chepstow",
+      "horse": "Doujadou",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:40",
+      "meeting": "Chepstow",
+      "horse": "Emerald Breeze",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:00",
+      "meeting": "Kelso",
+      "horse": "Kent De Thaix",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:00",
+      "meeting": "Kelso",
+      "horse": "Grand Voyage",
+      "odds": "9/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Kelso",
+      "horse": "Bertie's Ballet",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Kelso",
+      "horse": "Triple Crown Ted",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Kelso",
+      "horse": "Chase A Fortune",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:45",
+      "meeting": "Chepstow",
+      "horse": "Eaton Anne",
+      "odds": "17/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:45",
+      "meeting": "Chepstow",
+      "horse": "Hurricane Highway",
+      "odds": "9/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:45",
+      "meeting": "Chepstow",
+      "horse": "The Big Reveal",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:20",
+      "meeting": "Chepstow",
+      "horse": "Harbour Light",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:20",
+      "meeting": "Chepstow",
+      "horse": "Bolsover Bill",
+      "odds": "9/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:20",
+      "meeting": "Chepstow",
+      "horse": "Directly",
+      "odds": "25/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:28",
+      "meeting": "Dundalk",
+      "horse": "Subiaco",
+      "odds": "10/3",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:28",
+      "meeting": "Dundalk",
+      "horse": "Hasiyna",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:28",
+      "meeting": "Dundalk",
+      "horse": "Inishmot Prince",
+      "odds": "11/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:45",
+      "meeting": "Kelso",
+      "horse": "Lion Rose Sivola",
+      "odds": "4/11",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:45",
+      "meeting": "Kelso",
+      "horse": "The Shanachie",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:55",
+      "meeting": "Chepstow",
+      "horse": "The Grey Man",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:55",
+      "meeting": "Chepstow",
+      "horse": "Walkinthepresent",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:15",
+      "meeting": "Wolverhampton",
+      "horse": "Poetic Force",
+      "odds": "14/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Dundalk",
+      "horse": "Comfort Line",
+      "odds": "16/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Dundalk",
+      "horse": "Mullacash Buzz",
+      "odds": "20/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:45",
+      "meeting": "Wolverhampton",
+      "horse": "Follow Your Heart",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:45",
+      "meeting": "Wolverhampton",
+      "horse": "Al Muqdad",
+      "odds": "13/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Dundalk",
+      "horse": "Unterberg",
+      "odds": "3/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:45",
+      "meeting": "Wolverhampton",
+      "horse": "Gustav Graves",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:45",
+      "meeting": "Wolverhampton",
+      "horse": "El Bufalo",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:45",
+      "meeting": "Wolverhampton",
+      "horse": "Gogo Yubari",
+      "odds": "20/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 4,
+    "settled": 4,
+    "won": 3,
+    "placed": 0,
+    "lost": 1,
+    "pending": 0
+  },
+  "staked": 0.59,
+  "returned": 1.62,
+  "bank": {
+    "start": 11.46,
+    "end": 12.49,
+    "next_stake": 0.12,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

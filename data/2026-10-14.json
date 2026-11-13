@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-14",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "15:38",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "Torneo",
+          "stars": 3,
+          "odds": "4/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 170.85,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.44,
+          "ret": 2.2,
+          "bank_after": 45.89
+        },
+        {
+          "horse": "Il Est Francais",
+          "stars": 5,
+          "odds": "3/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 139.45,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.44,
+          "ret": 0.0,
+          "bank_after": 45.45
+        },
+        {
+          "horse": "Crebilly",
+          "stars": 4,
+          "odds": "11/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 111.88,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.44,
+          "ret": 0.0,
+          "bank_after": 45.01
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:45",
+      "meeting": "Ffos Las",
+      "horse": "Roi Du Roume",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:45",
+      "meeting": "Ffos Las",
+      "horse": "Tell The Tale",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:45",
+      "meeting": "Ffos Las",
+      "horse": "Wannabe",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:55",
+      "meeting": "Ffos Las",
+      "horse": "Guard Your Dreams",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:55",
+      "meeting": "Ffos Las",
+      "horse": "The Boola Boss",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:55",
+      "meeting": "Ffos Las",
+      "horse": "Nocte Volatus",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Kempton",
+      "horse": "Bold Suitor",
+      "odds": "22/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Kempton",
+      "horse": "Chalk Mountain",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 3,
+    "settled": 3,
+    "won": 1,
+    "placed": 1,
+    "lost": 1,
+    "pending": 0
+  },
+  "staked": 1.32,
+  "returned": 2.2,
+  "bank": {
+    "start": 44.13,
+    "end": 45.01,
+    "next_stake": 0.45,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

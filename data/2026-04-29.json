@@ -1,0 +1,188 @@
+{
+  "date": "2026-04-29",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "13:40",
+      "meeting": "Musselburgh",
+      "picks": [
+        {
+          "horse": "As Fast As Wind",
+          "stars": 5,
+          "odds": "4/7",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 82.0,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.3,
+          "ret": 0.47,
+          "bank_after": 15.08
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:40",
+      "meeting": "Musselburgh",
+      "horse": "Cougar",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:40",
+      "meeting": "Musselburgh",
+      "horse": "Glasses Up",
+      "odds": "11/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:15",
+      "meeting": "Musselburgh",
+      "horse": "Al Hussar",
+      "odds": "7/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:15",
+      "meeting": "Musselburgh",
+      "horse": "Rosenpur",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:15",
+      "meeting": "Musselburgh",
+      "horse": "Woohoo",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:50",
+      "meeting": "Musselburgh",
+      "horse": "Mission Command",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:50",
+      "meeting": "Musselburgh",
+      "horse": "Tattie Bogle",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:50",
+      "meeting": "Musselburgh",
+      "horse": "Qazaq",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:05",
+      "meeting": "Southwell",
+      "horse": "Dream Illusion",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:40",
+      "meeting": "Southwell",
+      "horse": "Pink Socks",
+      "odds": "25/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:00",
+      "meeting": "Musselburgh",
+      "horse": "Filey Beach",
+      "odds": "6/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:00",
+      "meeting": "Musselburgh",
+      "horse": "The Gay Blade",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:00",
+      "meeting": "Musselburgh",
+      "horse": "Classy Clarets",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:15",
+      "meeting": "Southwell",
+      "horse": "Back From Dubai",
+      "odds": "22/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 1,
+    "placed": 0,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.3,
+  "returned": 0.47,
+  "bank": {
+    "start": 14.91,
+    "end": 15.08,
+    "next_stake": 0.15,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

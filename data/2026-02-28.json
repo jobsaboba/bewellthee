@@ -1,0 +1,416 @@
+{
+  "date": "2026-02-28",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "13:10",
+      "meeting": "Kelso",
+      "picks": [
+        {
+          "horse": "Torneo",
+          "stars": 5,
+          "odds": "10/3",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 175.81,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 12.02
+        },
+        {
+          "horse": "Doyen Du Bar",
+          "stars": 4,
+          "odds": "2/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 159.07,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.12,
+          "ret": 0.36,
+          "bank_after": 12.26
+        }
+      ]
+    },
+    {
+      "time": "14:15",
+      "meeting": "Kelso",
+      "picks": [
+        {
+          "horse": "Kosac D'oudairies",
+          "stars": 3,
+          "odds": "10/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 173.81,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 12.14
+        },
+        {
+          "horse": "Le Beau Madrik",
+          "stars": 4,
+          "odds": "7/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 129.45,
+          "pos": 0,
+          "res": null,
+          "stake": 0.12,
+          "ret": null,
+          "bank_after": 12.14
+        },
+        {
+          "horse": "Red Oak",
+          "stars": 3,
+          "odds": "28/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 126.3,
+          "pos": 0,
+          "res": null,
+          "stake": 0.12,
+          "ret": null,
+          "bank_after": 12.14
+        }
+      ]
+    },
+    {
+      "time": "14:55",
+      "meeting": "Kelso",
+      "picks": [
+        {
+          "horse": "Hamlet's Night",
+          "stars": 3,
+          "odds": "16/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 124.3,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 12.02
+        },
+        {
+          "horse": "Quaviste",
+          "stars": 5,
+          "odds": "7/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 102.45,
+          "pos": 4,
+          "res": "PLACE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 11.9
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Kelso",
+      "picks": [
+        {
+          "horse": "Good To Be Alive",
+          "stars": 4,
+          "odds": "5/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 113.0,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 11.78
+        },
+        {
+          "horse": "Florida Dreams",
+          "stars": 3,
+          "odds": "11/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 108.55,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 11.66
+        }
+      ]
+    },
+    {
+      "time": "16:35",
+      "meeting": "Kelso",
+      "picks": [
+        {
+          "horse": "A Path To Ronda",
+          "stars": 5,
+          "odds": "1/10",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 211.81,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.23,
+          "ret": 0.25,
+          "bank_after": 11.68
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:00",
+      "meeting": "Lingfield",
+      "horse": "Party Island",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:10",
+      "meeting": "Kelso",
+      "horse": "Breizh River",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Lingfield",
+      "horse": "Mister Moet",
+      "odds": "14/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:55",
+      "meeting": "Kelso",
+      "horse": "Dedicated Hero",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:10",
+      "meeting": "Lingfield",
+      "horse": "Poke The Bear",
+      "odds": "11/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:10",
+      "meeting": "Lingfield",
+      "horse": "Edergole's Gift",
+      "odds": "28/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:30",
+      "meeting": "Kelso",
+      "horse": "Frontier Prince",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:52",
+      "meeting": "Lingfield",
+      "horse": "Royal Jet",
+      "odds": "3/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:52",
+      "meeting": "Lingfield",
+      "horse": "Dandy Khan",
+      "odds": "8/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:52",
+      "meeting": "Lingfield",
+      "horse": "Mighty Ruler",
+      "odds": "25/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:21",
+      "meeting": "Southwell",
+      "horse": "Fools Rush In",
+      "odds": "16/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:35",
+      "meeting": "Kelso",
+      "horse": "Sagonige",
+      "odds": "16/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:35",
+      "meeting": "Kelso",
+      "horse": "Just An Artist",
+      "odds": "10/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:55",
+      "meeting": "Southwell",
+      "horse": "King Of York",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:55",
+      "meeting": "Southwell",
+      "horse": "No Knee Never",
+      "odds": "11/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:55",
+      "meeting": "Southwell",
+      "horse": "Bajan Bandit",
+      "odds": "20/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Southwell",
+      "horse": "Aisling Oscar",
+      "odds": "3/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Southwell",
+      "horse": "Tribal Wisdom",
+      "odds": "10/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Southwell",
+      "horse": "Panama Black",
+      "odds": "11/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:30",
+      "meeting": "Southwell",
+      "horse": "Rotokura Belle",
+      "odds": "11/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 10,
+    "settled": 8,
+    "won": 2,
+    "placed": 3,
+    "lost": 3,
+    "pending": 2
+  },
+  "staked": 1.07,
+  "returned": 0.61,
+  "bank": {
+    "start": 12.14,
+    "end": 11.68,
+    "next_stake": 0.12,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

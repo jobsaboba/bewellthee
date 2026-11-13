@@ -1,0 +1,247 @@
+{
+  "date": "2026-01-27",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "14:02",
+      "meeting": "Chepstow",
+      "picks": [
+        {
+          "horse": "West To The Bridge",
+          "stars": 3,
+          "odds": "15/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 101.78,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.11,
+          "ret": 0.94,
+          "bank_after": 12.11
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:00",
+      "meeting": "Chepstow",
+      "horse": "Crossbeau",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:00",
+      "meeting": "Chepstow",
+      "horse": "Highbury Hill",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:00",
+      "meeting": "Chepstow",
+      "horse": "Boston Joe",
+      "odds": "17/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:02",
+      "meeting": "Chepstow",
+      "horse": "High Tea",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:02",
+      "meeting": "Chepstow",
+      "horse": "French Emperor",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:12",
+      "meeting": "Chepstow",
+      "horse": "Charisma Cat",
+      "odds": "8/11",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:12",
+      "meeting": "Chepstow",
+      "horse": "Trinity Street",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:12",
+      "meeting": "Chepstow",
+      "horse": "Clondaw Park",
+      "odds": "6/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:47",
+      "meeting": "Chepstow",
+      "horse": "Fat Faced Columbo",
+      "odds": "2/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:47",
+      "meeting": "Chepstow",
+      "horse": "The Big Reveal",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:47",
+      "meeting": "Chepstow",
+      "horse": "The Jam Man",
+      "odds": "66/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:22",
+      "meeting": "Chepstow",
+      "horse": "Westbrooke Boy",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:22",
+      "meeting": "Chepstow",
+      "horse": "Keltype",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:22",
+      "meeting": "Chepstow",
+      "horse": "Justalargewhisky",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:28",
+      "meeting": "Wolverhampton",
+      "horse": "Fistral Beach",
+      "odds": "6/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Wolverhampton",
+      "horse": "River Wharfe",
+      "odds": "13/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Wolverhampton",
+      "horse": "Daaris",
+      "odds": "7/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:00",
+      "meeting": "Wolverhampton",
+      "horse": "Alafdhal",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "horse": "Street Life",
+      "odds": "7/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "20:30",
+      "meeting": "Wolverhampton",
+      "horse": "Buraback",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 1,
+    "placed": 0,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.11,
+  "returned": 0.94,
+  "bank": {
+    "start": 11.28,
+    "end": 12.11,
+    "next_stake": 0.12,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

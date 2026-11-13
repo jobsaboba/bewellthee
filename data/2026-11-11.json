@@ -1,0 +1,655 @@
+{
+  "date": "2026-11-11",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "13:00",
+      "meeting": "Bangor-on-Dee",
+      "picks": [
+        {
+          "horse": "Mighty Fleur",
+          "stars": 5,
+          "odds": "10/3",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 115.23,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.15,
+          "ret": 0.0,
+          "bank_after": 113.71
+        },
+        {
+          "horse": "Getawhisky",
+          "stars": 3,
+          "odds": "17/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 109.78,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.15,
+          "ret": 10.92,
+          "bank_after": 123.48
+        }
+      ]
+    },
+    {
+      "time": "13:40",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Attin",
+          "stars": 5,
+          "odds": "1/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 159.64,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 2.47,
+          "ret": 0.0,
+          "bank_after": 121.01
+        },
+        {
+          "horse": "Jet Of Stars",
+          "stars": 4,
+          "odds": "1/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 153.55,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.23,
+          "ret": 2.46,
+          "bank_after": 122.24
+        }
+      ]
+    },
+    {
+      "time": "14:13",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Rickety Gate",
+          "stars": 3,
+          "odds": "10/3",
+          "apps": [
+            "D",
+            "G",
+            "J"
+          ],
+          "napps": 3,
+          "reason": "3-app medal",
+          "score": 126.64,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 3.67,
+          "ret": 15.9,
+          "bank_after": 134.47
+        }
+      ]
+    },
+    {
+      "time": "14:30",
+      "meeting": "Dundalk",
+      "picks": [
+        {
+          "horse": "Jordan Breeze",
+          "stars": 4,
+          "odds": "7/2",
+          "apps": [
+            "D",
+            "G",
+            "J"
+          ],
+          "napps": 3,
+          "reason": "3-app medal",
+          "score": 219.46,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 4.03,
+          "ret": 0.0,
+          "bank_after": 130.44
+        }
+      ]
+    },
+    {
+      "time": "14:43",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Ballynoe Boy",
+          "stars": 3,
+          "odds": "9/4",
+          "apps": [
+            "D",
+            "G",
+            "J"
+          ],
+          "napps": 3,
+          "reason": "3-app medal",
+          "score": 155.64,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 3.91,
+          "ret": 12.71,
+          "bank_after": 139.24
+        }
+      ]
+    },
+    {
+      "time": "16:02",
+      "meeting": "Dundalk",
+      "picks": [
+        {
+          "horse": "Resurgence",
+          "stars": 4,
+          "odds": "11/4",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 50.31,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 2.78,
+          "ret": 0.0,
+          "bank_after": 136.46
+        }
+      ]
+    },
+    {
+      "time": "16:32",
+      "meeting": "Dundalk",
+      "picks": [
+        {
+          "horse": "Marcescence",
+          "stars": 5,
+          "odds": "9/4",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 47.81,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 2.73,
+          "ret": 0.0,
+          "bank_after": 133.73
+        }
+      ]
+    },
+    {
+      "time": "17:02",
+      "meeting": "Dundalk",
+      "picks": [
+        {
+          "horse": "Carrigans Grove",
+          "stars": 3,
+          "odds": "6/1",
+          "apps": [
+            "D",
+            "G",
+            "J"
+          ],
+          "napps": 3,
+          "reason": "3-app medal",
+          "score": 212.46,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 4.01,
+          "ret": 0.0,
+          "bank_after": 129.72
+        }
+      ]
+    },
+    {
+      "time": "17:32",
+      "meeting": "Dundalk",
+      "picks": [
+        {
+          "horse": "Eastern Peace",
+          "stars": 5,
+          "odds": "4/1",
+          "apps": [
+            "G",
+            "S"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 51,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 2.59,
+          "ret": 0.0,
+          "bank_after": 127.13
+        },
+        {
+          "horse": "Speckled Meadow",
+          "stars": 4,
+          "odds": "8/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 144.46,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 2.59,
+          "ret": 0.0,
+          "bank_after": 124.54
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:50",
+      "meeting": "Warwick",
+      "horse": "Seraphic",
+      "odds": "13/8",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:00",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Jubilee Alpha",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:00",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Piper Park",
+      "odds": "6/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Broomfields Cave",
+      "odds": "13/8",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:40",
+      "meeting": "Ayr",
+      "horse": "Moon Reign",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:50",
+      "meeting": "Warwick",
+      "horse": "Fresh Perspective",
+      "odds": "7/2",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:05",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Rockson Piel",
+      "odds": "10/3",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:13",
+      "meeting": "Ayr",
+      "horse": "Beat The Retreat",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:13",
+      "meeting": "Ayr",
+      "horse": "Kinbara Firstdraft",
+      "odds": "14/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:21",
+      "meeting": "Warwick",
+      "horse": "Ignore The Door",
+      "odds": "3/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Dundalk",
+      "horse": "Cuban Grey",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Dundalk",
+      "horse": "Sovereign Cry",
+      "odds": "14/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Dundalk",
+      "horse": "Harry's Hill",
+      "odds": "25/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Dundalk",
+      "horse": "Lethimfly",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Dundalk",
+      "horse": "Initial Blue",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Dundalk",
+      "horse": "Treasured Royal",
+      "odds": "12/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:43",
+      "meeting": "Ayr",
+      "horse": "Lets Mingle",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:43",
+      "meeting": "Ayr",
+      "horse": "Pyramid Place",
+      "odds": "25/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:51",
+      "meeting": "Warwick",
+      "horse": "Jackstell",
+      "odds": "3/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:00",
+      "meeting": "Dundalk",
+      "horse": "Invincible Irish",
+      "odds": "7/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:00",
+      "meeting": "Dundalk",
+      "horse": "Syrah",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:00",
+      "meeting": "Dundalk",
+      "horse": "Professor Finnegan",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:13",
+      "meeting": "Ayr",
+      "horse": "No Regrets",
+      "odds": "7/2",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:30",
+      "meeting": "Dundalk",
+      "horse": "Shoot To Kill",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:30",
+      "meeting": "Dundalk",
+      "horse": "Justenzia",
+      "odds": "2/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:30",
+      "meeting": "Dundalk",
+      "horse": "Star Strewn",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:02",
+      "meeting": "Dundalk",
+      "horse": "Emily Estherfaye",
+      "odds": "20/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:02",
+      "meeting": "Dundalk",
+      "horse": "Lookingforarainbow",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:32",
+      "meeting": "Dundalk",
+      "horse": "Elzante",
+      "odds": "50/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:32",
+      "meeting": "Dundalk",
+      "horse": "Direct Action",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:02",
+      "meeting": "Dundalk",
+      "horse": "The Bear Trap",
+      "odds": "16/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:02",
+      "meeting": "Dundalk",
+      "horse": "Free Solo",
+      "odds": "25/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:02",
+      "meeting": "Dundalk",
+      "horse": "Beach Barbie",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:02",
+      "meeting": "Dundalk",
+      "horse": "Go Out",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:32",
+      "meeting": "Dundalk",
+      "horse": "Walhaan",
+      "odds": "16/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:32",
+      "meeting": "Dundalk",
+      "horse": "Highlander Addict",
+      "odds": "25/1",
+      "apps": [
+        "G",
+        "J"
+      ],
+      "why": "medal over 12/1"
+    },
+    {
+      "time": "17:32",
+      "meeting": "Dundalk",
+      "horse": "Flying Fortress",
+      "odds": "16/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 12,
+    "settled": 12,
+    "won": 4,
+    "placed": 3,
+    "lost": 5,
+    "pending": 0
+  },
+  "staked": 32.31,
+  "returned": 41.99,
+  "bank": {
+    "start": 114.86,
+    "end": 124.54,
+    "next_stake": 1.25,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

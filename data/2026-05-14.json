@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-14",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "16:28",
+      "meeting": "Perth",
+      "picks": [
+        {
+          "horse": "Hold The Throw",
+          "stars": 4,
+          "odds": "11/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 167.0,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.16,
+          "ret": 0.6,
+          "bank_after": 16.37
+        },
+        {
+          "horse": "Sea Tempest",
+          "stars": 5,
+          "odds": "11/10",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 103.0,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.16,
+          "ret": 0.0,
+          "bank_after": 16.21
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:58",
+      "meeting": "Perth",
+      "horse": "Lexington Wood",
+      "odds": "4/7",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:58",
+      "meeting": "Perth",
+      "horse": "Hawthorn Road",
+      "odds": "66/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:58",
+      "meeting": "Perth",
+      "horse": "Way Maker",
+      "odds": "16/5",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:28",
+      "meeting": "Perth",
+      "horse": "Saint Cunning",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 2,
+    "settled": 2,
+    "won": 1,
+    "placed": 0,
+    "lost": 1,
+    "pending": 0
+  },
+  "staked": 0.32,
+  "returned": 0.6,
+  "bank": {
+    "start": 15.93,
+    "end": 16.21,
+    "next_stake": 0.16,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

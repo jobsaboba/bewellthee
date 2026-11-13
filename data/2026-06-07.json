@@ -1,0 +1,175 @@
+{
+  "date": "2026-06-07",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "15:27",
+      "meeting": "Perth",
+      "picks": [
+        {
+          "horse": "Breizh River",
+          "stars": 3,
+          "odds": "10/3",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 134.81,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.19,
+          "ret": 0.0,
+          "bank_after": 18.94
+        },
+        {
+          "horse": "Riskintheground",
+          "stars": 4,
+          "odds": "9/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 109.45,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.19,
+          "ret": 1.04,
+          "bank_after": 19.79
+        }
+      ]
+    },
+    {
+      "time": "16:37",
+      "meeting": "Perth",
+      "picks": [
+        {
+          "horse": "Leader Wing",
+          "stars": 5,
+          "odds": "8/11",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 113.45,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.2,
+          "ret": 0.0,
+          "bank_after": 19.59
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:42",
+      "meeting": "Perth",
+      "horse": "Allibaba",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:42",
+      "meeting": "Perth",
+      "horse": "Betteryouthanme",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:42",
+      "meeting": "Perth",
+      "horse": "Morandi Second",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:17",
+      "meeting": "Perth",
+      "horse": "Cosmic Soul",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:17",
+      "meeting": "Perth",
+      "horse": "Ravenscraig Castle",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:17",
+      "meeting": "Perth",
+      "horse": "Scots Poet",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:27",
+      "meeting": "Perth",
+      "horse": "Statuario",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:37",
+      "meeting": "Perth",
+      "horse": "Stiletto",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:37",
+      "meeting": "Perth",
+      "horse": "Luminaries",
+      "odds": "50/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 3,
+    "settled": 3,
+    "won": 1,
+    "placed": 2,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.58,
+  "returned": 1.04,
+  "bank": {
+    "start": 19.13,
+    "end": 19.59,
+    "next_stake": 0.2,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

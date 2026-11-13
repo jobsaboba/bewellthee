@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-28",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "17:00",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "Ariane Sky",
+          "stars": 3,
+          "odds": "4/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 122.3,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.46,
+          "ret": 2.3,
+          "bank_after": 25.0
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "17:00",
+      "meeting": "Ffos Las",
+      "horse": "Jazzy Bay",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Ffos Las",
+      "horse": "Cutlass",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Ffos Las",
+      "horse": "Zaraquelle",
+      "odds": "15/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Ffos Las",
+      "horse": "Pureis King",
+      "odds": "15/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Ffos Las",
+      "horse": "Just Adair",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Ffos Las",
+      "horse": "Legendsoftheland",
+      "odds": "15/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Ffos Las",
+      "horse": "Macarone",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Ffos Las",
+      "horse": "Diamondsinthesand",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 1,
+    "placed": 0,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.46,
+  "returned": 2.3,
+  "bank": {
+    "start": 23.16,
+    "end": 25.0,
+    "next_stake": 0.25,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

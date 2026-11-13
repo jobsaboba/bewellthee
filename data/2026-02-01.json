@@ -1,0 +1,139 @@
+{
+  "date": "2026-02-01",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "14:30",
+      "meeting": "Musselburgh",
+      "picks": [
+        {
+          "horse": "Newtown Rambler",
+          "stars": 4,
+          "odds": "10/3",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 100.55,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 11.51
+        }
+      ]
+    },
+    {
+      "time": "15:40",
+      "meeting": "Musselburgh",
+      "picks": [
+        {
+          "horse": "Florida Dreams",
+          "stars": 3,
+          "odds": "7/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 111.55,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 11.39
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "14:30",
+      "meeting": "Musselburgh",
+      "horse": "The G Wizard",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Musselburgh",
+      "horse": "Summergrounds",
+      "odds": "10/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:40",
+      "meeting": "Musselburgh",
+      "horse": "Double Powerful",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:40",
+      "meeting": "Musselburgh",
+      "horse": "Ahoy Senor",
+      "odds": "28/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:15",
+      "meeting": "Musselburgh",
+      "horse": "Take Chance",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:15",
+      "meeting": "Musselburgh",
+      "horse": "Dearkeithandkaty",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:15",
+      "meeting": "Musselburgh",
+      "horse": "Dunnet Head",
+      "odds": "20/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 2,
+    "settled": 2,
+    "won": 0,
+    "placed": 0,
+    "lost": 2,
+    "pending": 0
+  },
+  "staked": 0.24,
+  "returned": 0.0,
+  "bank": {
+    "start": 11.63,
+    "end": 11.39,
+    "next_stake": 0.11,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

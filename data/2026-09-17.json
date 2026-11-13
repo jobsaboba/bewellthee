@@ -1,0 +1,321 @@
+{
+  "date": "2026-09-17",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "13:00",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Oriental Prince",
+          "stars": 5,
+          "odds": "9/2",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 60,
+          "pos": 4,
+          "res": "PLACE",
+          "stake": 0.55,
+          "ret": 0.0,
+          "bank_after": 26.7
+        }
+      ]
+    },
+    {
+      "time": "14:00",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Wild Thoughts",
+          "stars": 4,
+          "odds": "11/4",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 69,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.53,
+          "ret": 1.99,
+          "bank_after": 28.16
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:30",
+      "meeting": "Ayr",
+      "horse": "Zarak Crown",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:30",
+      "meeting": "Ayr",
+      "horse": "Bassrah",
+      "odds": "15/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:30",
+      "meeting": "Ayr",
+      "horse": "Magwitch",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:00",
+      "meeting": "Ayr",
+      "horse": "The Caltonian",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:00",
+      "meeting": "Ayr",
+      "horse": "Thistle Nil",
+      "odds": "22/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:00",
+      "meeting": "Ayr",
+      "horse": "Galyx",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:00",
+      "meeting": "Ayr",
+      "horse": "Dain Ma Nut In",
+      "odds": "25/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "horse": "Runninsonofagun",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "horse": "Orangesandlemons",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "horse": "Tarmonbarry Kid",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:00",
+      "meeting": "Ayr",
+      "horse": "You Sexy Thing",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:00",
+      "meeting": "Ayr",
+      "horse": "Sailthisshipalone",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:00",
+      "meeting": "Ayr",
+      "horse": "Roaring Ralph",
+      "odds": "25/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:30",
+      "meeting": "Ayr",
+      "horse": "Vince Le Prince",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:30",
+      "meeting": "Ayr",
+      "horse": "Ice Cube",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:30",
+      "meeting": "Ayr",
+      "horse": "Jkr Cobbler",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:50",
+      "meeting": "Southwell",
+      "horse": "Jesse Luc",
+      "odds": "10/3",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:50",
+      "meeting": "Southwell",
+      "horse": "Zarinca",
+      "odds": "6/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:50",
+      "meeting": "Southwell",
+      "horse": "Sarafina Mshairi",
+      "odds": "16/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:01",
+      "meeting": "Ayr",
+      "horse": "Ashnak",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:01",
+      "meeting": "Ayr",
+      "horse": "Spirit Of Acklam",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:01",
+      "meeting": "Ayr",
+      "horse": "Elsass",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "horse": "Dream Illusion",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "horse": "Soames Forsyte",
+      "odds": "18/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Southwell",
+      "horse": "The Pug",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 2,
+    "settled": 2,
+    "won": 1,
+    "placed": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 1.08,
+  "returned": 1.99,
+  "bank": {
+    "start": 27.25,
+    "end": 28.16,
+    "next_stake": 0.28,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

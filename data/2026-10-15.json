@@ -1,0 +1,251 @@
+{
+  "date": "2026-10-15",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "11:55",
+      "meeting": "Perth",
+      "picks": [
+        {
+          "horse": "Petersham Place",
+          "stars": 4,
+          "odds": "3/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 167.0,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.45,
+          "ret": 1.8,
+          "bank_after": 46.36
+        },
+        {
+          "horse": "Eastern Fire",
+          "stars": 4,
+          "odds": "11/8",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 157.45,
+          "pos": 0,
+          "res": null,
+          "stake": 0.45,
+          "ret": null,
+          "bank_after": 46.36
+        }
+      ]
+    },
+    {
+      "time": "12:55",
+      "meeting": "Perth",
+      "picks": [
+        {
+          "horse": "Old Habits",
+          "stars": 5,
+          "odds": "11/8",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 121.0,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.46,
+          "ret": 0.0,
+          "bank_after": 45.9
+        },
+        {
+          "horse": "Kershaw",
+          "stars": 4,
+          "odds": "11/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 107.42,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.46,
+          "ret": 1.73,
+          "bank_after": 47.17
+        }
+      ]
+    },
+    {
+      "time": "14:05",
+      "meeting": "Perth",
+      "picks": [
+        {
+          "horse": "Tap Tap Shamie",
+          "stars": 4,
+          "odds": "7/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 108.0,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 0.47,
+          "ret": 0.0,
+          "bank_after": 46.7
+        }
+      ]
+    },
+    {
+      "time": "14:40",
+      "meeting": "Perth",
+      "picks": [
+        {
+          "horse": "Orderoftheday",
+          "stars": 3,
+          "odds": "10/3",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 113.0,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.47,
+          "ret": 0.0,
+          "bank_after": 46.23
+        },
+        {
+          "horse": "Minella Marathon",
+          "stars": 4,
+          "odds": "4/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 112.45,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.47,
+          "ret": 0.0,
+          "bank_after": 45.76
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "11:55",
+      "meeting": "Perth",
+      "horse": "Fearless Dragon",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:55",
+      "meeting": "Perth",
+      "horse": "Nikolavs Otto",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:05",
+      "meeting": "Perth",
+      "horse": "Marty Mcfly",
+      "odds": "18/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:05",
+      "meeting": "Perth",
+      "horse": "She's Notjoeking",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Perth",
+      "horse": "Tanking Along",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:30",
+      "meeting": "Southwell",
+      "horse": "Pride Eye",
+      "odds": "11/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Southwell",
+      "horse": "Turbo Command",
+      "odds": "14/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:30",
+      "meeting": "Southwell",
+      "horse": "Mickey Mongoose",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "horse": "Hunky Dory",
+      "odds": "28/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 7,
+    "settled": 6,
+    "won": 2,
+    "placed": 2,
+    "lost": 2,
+    "pending": 1
+  },
+  "staked": 2.78,
+  "returned": 3.53,
+  "bank": {
+    "start": 45.01,
+    "end": 45.76,
+    "next_stake": 0.46,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

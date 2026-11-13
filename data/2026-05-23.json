@@ -1,0 +1,183 @@
+{
+  "date": "2026-05-23",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "12:50",
+      "meeting": "Bangor-on-Dee",
+      "picks": [
+        {
+          "horse": "Ladies Day",
+          "stars": 5,
+          "odds": "4/7",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 60.69,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.33,
+          "ret": 0.52,
+          "bank_after": 16.53
+        }
+      ]
+    },
+    {
+      "time": "14:00",
+      "meeting": "Bangor-on-Dee",
+      "picks": [
+        {
+          "horse": "Back In The Bay",
+          "stars": 4,
+          "odds": "11/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 115.89,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.17,
+          "ret": 0.0,
+          "bank_after": 16.36
+        }
+      ]
+    },
+    {
+      "time": "16:20",
+      "meeting": "Bangor-on-Dee",
+      "picks": [
+        {
+          "horse": "Lady Coco",
+          "stars": 3,
+          "odds": "15/8",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 176.05,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.33,
+          "ret": 0.95,
+          "bank_after": 16.98
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:50",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Double Indemnity",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:50",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Chambers",
+      "odds": "20/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:00",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Orange Diamond",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:00",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Crystal Glance",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:45",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Camshaft",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:45",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Victoria Milano",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:45",
+      "meeting": "Bangor-on-Dee",
+      "horse": "La Cantate",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:20",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Magnifix Du Moulin",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:20",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Liberty Leader",
+      "odds": "28/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 3,
+    "settled": 3,
+    "won": 2,
+    "placed": 0,
+    "lost": 1,
+    "pending": 0
+  },
+  "staked": 0.83,
+  "returned": 1.47,
+  "bank": {
+    "start": 16.34,
+    "end": 16.98,
+    "next_stake": 0.17,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

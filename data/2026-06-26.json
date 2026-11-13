@@ -1,0 +1,188 @@
+{
+  "date": "2026-06-26",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "17:33",
+      "meeting": "Bangor-on-Dee",
+      "picks": [
+        {
+          "horse": "Glenmalure Flyer",
+          "stars": 5,
+          "odds": "10/3",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 126.45,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.4,
+          "ret": 1.73,
+          "bank_after": 21.56
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "16:10",
+      "meeting": "Newcastle",
+      "horse": "Royal Blaze",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:18",
+      "meeting": "Newcastle",
+      "horse": "Callianassa",
+      "odds": "10/3",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:18",
+      "meeting": "Newcastle",
+      "horse": "Chuzzlewit",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:18",
+      "meeting": "Newcastle",
+      "horse": "Bowood",
+      "odds": "33/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:33",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Slaney Opera",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:33",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Dazzlelikethis",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:28",
+      "meeting": "Newcastle",
+      "horse": "Kylian",
+      "odds": "6/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:28",
+      "meeting": "Newcastle",
+      "horse": "Paddy's Day",
+      "odds": "8/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:28",
+      "meeting": "Newcastle",
+      "horse": "Vantheman",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:03",
+      "meeting": "Newcastle",
+      "horse": "Little Mi Mi",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:03",
+      "meeting": "Newcastle",
+      "horse": "Tanjen",
+      "odds": "14/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:53",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Rock Hurley",
+      "odds": "2/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:53",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Golden Glance",
+      "odds": "9/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:53",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Collingham",
+      "odds": "40/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 1,
+    "placed": 0,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.4,
+  "returned": 1.73,
+  "bank": {
+    "start": 20.23,
+    "end": 21.56,
+    "next_stake": 0.22,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

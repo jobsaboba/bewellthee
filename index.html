@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no">
+<meta name="theme-color" content="#0b1220">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Well">
+<title>Bewellthee Racing</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<style>
+  :root{
+    --bg:#0b1220; --panel:#131c2e; --panel2:#0f172a; --line:#22304a;
+    --ink:#e7eef9; --dim:#8fa3bf; --sky:#38bdf8; --emerald:#10b981; --em:#34d399;
+    --gold:#fbbf24; --red:#ef4444; --indigo:#818cf8;
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent}
+  html,body{margin:0; padding:0}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    background:var(--bg); color:var(--ink); padding:12px 12px 130px; max-width:440px; margin:0 auto;
+  }
+  header{display:flex; justify-content:space-between; align-items:center; padding:6px 2px 10px}
+  .brand{font-weight:900; font-size:1.05rem; letter-spacing:.3px}
+  .brand span{color:var(--em)}
+  .datechip{font-size:.72rem; color:var(--dim); text-transform:uppercase; letter-spacing:1px}
+  .topbtns{display:flex; gap:6px}
+  .iconbtn{background:var(--panel); border:1px solid var(--line); color:var(--dim); border-radius:10px; padding:7px 9px; font-size:.9rem; cursor:pointer}
+
+  .views{display:flex; gap:6px; padding:0 0 10px}
+  .views button{flex:1; border:1px solid var(--line); background:var(--panel); color:var(--dim);
+    border-radius:10px; padding:8px 4px; font-size:.74rem; font-weight:800; cursor:pointer}
+  .views button.on{background:var(--em); border-color:var(--em); color:#04120c}
+
+  .days{display:flex; gap:6px; overflow-x:auto; padding:2px 0 10px; scrollbar-width:none}
+  .days::-webkit-scrollbar{display:none}
+  .day{border:1px solid var(--line); background:var(--panel); color:var(--dim); border-radius:999px;
+    padding:6px 11px; font-size:.72rem; font-weight:800; white-space:nowrap; cursor:pointer; flex-shrink:0}
+  .day.on{background:var(--em); border-color:var(--em); color:#04120c}
+  .day .dot{display:inline-block; width:6px; height:6px; border-radius:50%; background:#000; margin-left:5px}
+
+  .card{background:var(--panel); border:1px solid var(--line); border-radius:18px;
+    padding:16px; margin-bottom:12px; box-shadow:0 8px 22px rgba(0,0,0,.35)}
+  .label{font-size:.65rem; color:var(--dim); text-transform:uppercase; letter-spacing:1.5px; margin-bottom:6px}
+  .row{display:flex; justify-content:space-between; align-items:center; gap:8px}
+
+  .stats{display:grid; grid-template-columns:1fr 1fr 1fr; gap:8px}
+  .stat{background:var(--panel2); border:1px solid var(--line); border-radius:12px; padding:8px 10px; overflow:hidden}
+  .stat .label{margin-bottom:2px; white-space:nowrap; letter-spacing:1px}
+  .stat .v{font-weight:800; font-size:1.02rem; margin-top:2px; white-space:nowrap}
+  .stat .v.gold{color:var(--gold)} .stat .v.pos{color:var(--em)} .stat .v.neg{color:var(--red)}
+  .chip{background:#1c2a44; border:1px solid var(--line); border-radius:999px; padding:2px 8px; font-size:.68rem; color:var(--dim)}
+  .chip.money{background:#0a2740; border-color:#1d4d7a; color:var(--sky); font-weight:700}
+  .chip.gold{background:#2d2410; border-color:#6b5312; color:#fcd34d; font-weight:800}
+  .chip.em{background:#0b2e21; border-color:#1d5c45; color:var(--em); font-weight:800}
+  .applet{display:inline-block; width:17px; height:17px; line-height:17px; text-align:center; border-radius:6px;
+    font-size:.62rem; font-weight:900; color:#04121c; margin-right:3px; vertical-align:middle}
+  .a-S{background:var(--sky)} .a-G{background:var(--gold)} .a-J{background:var(--indigo)}
+  .a-D{background:#fcd34d} .a-B{background:var(--em)}
+  .stars{color:var(--gold); letter-spacing:2px; font-size:.8rem}
+
+  .race{display:flex; gap:10px; align-items:flex-start; background:var(--panel2);
+    border:1px solid var(--line); border-radius:14px; padding:10px 12px; margin-bottom:8px}
+  .race .t{font-weight:900; font-size:.95rem; color:var(--em); min-width:44px}
+  .race .t small{display:block; color:var(--dim); font-weight:600; font-size:.6rem}
+  .race .mid{flex:1; min-width:0}
+  .race .mid .h{font-weight:700; font-size:.92rem}
+  .race .mid .r{font-size:.68rem; color:var(--dim); overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+  .race.done{opacity:.62}
+  .race.skip{opacity:.5; border-style:dashed}
+  .badge{font-size:.62rem; font-weight:900; border-radius:8px; padding:3px 7px; white-space:nowrap; align-self:center}
+  .badge.won{background:#0b2e21; color:var(--em)}
+  .badge.placed{background:#2d2410; color:var(--gold)}
+  .badge.lost{background:#331111; color:#fca5a5}
+  .badge.skipb{background:#1c2a44; color:var(--dim)}
+
+  /* pattern tables */
+  table{width:100%; border-collapse:collapse; font-size:.72rem; margin:6px 0 4px}
+  th{color:var(--dim); text-transform:uppercase; letter-spacing:.5px; font-size:.58rem; text-align:right; padding:4px 4px; border-bottom:1px solid var(--line)}
+  th:first-child, td:first-child{text-align:left}
+  td{padding:4px; text-align:right; border-bottom:1px solid #16203a; color:var(--ink); white-space:nowrap}
+  td.pos{color:var(--em); font-weight:700} td.neg{color:var(--red); font-weight:700}
+  h4.sub{font-size:.66rem; text-transform:uppercase; letter-spacing:1.2px; color:var(--dim); margin:14px 0 2px}
+
+  footer.actions{position:fixed; bottom:0; left:0; right:0; background:linear-gradient(transparent,var(--bg) 30%);
+    padding:18px 12px 20px; max-width:440px; margin:0 auto}
+  .hint{font-size:.68rem; color:var(--dim); text-align:center; margin-top:8px; line-height:1.5}
+  .toast{position:fixed; left:50%; transform:translateX(-50%); bottom:130px; background:#123; color:var(--ink);
+    border:1px solid var(--line); padding:10px 16px; border-radius:999px; font-size:.82rem; z-index:50; opacity:0; transition:opacity .25s}
+  .toast.show{opacity:1}
+  h3.sec{font-size:.68rem; text-transform:uppercase; letter-spacing:1.5px; color:var(--dim); margin:18px 2px 8px}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <div class="brand">Be<span>wellthee</span></div>
+    <div class="datechip" id="dateChip"></div>
+  </div>
+  <div class="topbtns">
+    <button class="iconbtn" id="instBtn" style="display:none" onclick="doInstall()" title="Install app">⤓</button>
+  </div>
+</header>
+
+<div class="views">
+  <button id="v-sheet" class="on" onclick="setView('sheet')">Sheet</button>
+  <button id="v-patt" onclick="setView('patt')">The patterns</button>
+  <button id="v-plan" onclick="setView('plan')">The plan</button>
+</div>
+
+<div id="sheetView">
+  <div class="days" id="days"></div>
+  <div class="card">
+    <div class="row" style="margin-bottom:8px">
+      <div class="label" style="margin:0">Rolling bank</div>
+      <div class="chip" id="nextStakeChip"></div>
+    </div>
+    <div class="stats">
+      <div class="stat"><div class="label">Bank</div><div class="v gold" id="bankV">—</div></div>
+      <div class="stat"><div class="label">Day P/L</div><div class="v" id="plV">—</div></div>
+      <div class="stat"><div class="label">W·P·L</div><div class="v" id="wplV">—</div></div>
+    </div>
+  </div>
+  <h3 class="sec">The sheet · apps · stakes</h3>
+  <div id="list"></div>
+</div>
+
+<div id="pattView" style="display:none"></div>
+
+<div id="planView" style="display:none"></div>
+
+<footer class="actions">
+  <button class="btn ghost" id="fetchBtn" onclick="refreshDay(false)" style="background:var(--panel2); color:var(--dim); border:1px solid var(--line); border-radius:12px; padding:13px; font-weight:800; width:100%; cursor:pointer">⟳ Refresh this day</button>
+  <div class="hint">Bet well thee: <b>2+ apps on the same horse</b> (medal) up to 12/1, or a Grail pick scoring <b>100+</b> — solo longshots are left alone.<br>
+  £10 start · <b>1% solo banker · 2% medal · 3% triple</b> of the rolling bank · win-only at the published odds · NRs refunded.<br>
+  © Dave Court · v1</div>
+</footer>
+
+<div class="toast" id="toast"></div>
+
+<script>
+"use strict";
+/* Bewellthee v1 — pure viewer. Day tabs + pattern tables; the laptop
+   computes and publishes everything from the four apps' data. */
+
+let DAYS = [], SEL = todayStr(), day = null, stats = null, VIEW = "sheet";
+const loaded = new Map();
+let deferredPrompt = null, lastSeenDay = todayStr();
+const APP_NAME = {S:"Sandstorm", G:"Holy Grail", J:"Jacobs Ladder", D:"Double Bubble", B:"Bollox"};
+
+function todayStr(){ const d=new Date(); return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0"); }
+function r2(n){ return Math.round(n*100)/100; }
+function fmt(n){ return "£" + r2(n).toFixed(2); }
+function sgn(n){ return (n>=0?"+":"−") + "£" + Math.abs(r2(n)).toFixed(2); }
+function esc(s){ return String(s ?? "").replace(/[&<>"']/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+function applets(apps){ return (apps||[]).map(a=>`<span class="applet a-${esc(a)}" title="${esc(APP_NAME[a]||a)}">${esc(a)}</span>`).join(""); }
+
+function toast(msg){ const t=document.getElementById("toast"); t.textContent=msg; t.classList.add("show");
+  clearTimeout(window.__tt); window.__tt=setTimeout(()=>t.classList.remove("show"),2600); }
+
+async function jget(path){
+  const res = await fetch(path + "?ts=" + Date.now(), {cache:"no-store"});
+  if(!res.ok) throw new Error(path + " → HTTP " + res.status);
+  return res.json();
+}
+
+function setView(v){
+  VIEW = v;
+  for(const [id,key] of [["sheet","sheet"],["patt","patt"],["plan","plan"]]){
+    document.getElementById("v-"+id).className = (key===VIEW ? "on" : "");
+  }
+  document.getElementById("sheetView").style.display = VIEW==="sheet" ? "" : "none";
+  document.getElementById("pattView").style.display  = VIEW==="patt"  ? "" : "none";
+  document.getElementById("planView").style.display  = VIEW==="plan"  ? "" : "none";
+  if(VIEW==="patt") renderPatterns();
+  if(VIEW==="plan") renderPlan();
+  window.scrollTo(0,0);
+}
+
+async function loadDay(d, quiet){
+  if(loaded.has(d)){ day = loaded.get(d); SEL = d; render(); return true; }
+  if(!quiet) document.getElementById("list").innerHTML =
+    `<div class="card" style="font-size:.82rem;color:var(--dim)">Loading ${esc(d)}…</div>`;
+  try{
+    day = await jget(`data/${d}.json`);
+    loaded.set(d, day); SEL = d; render();
+    location.hash = d;
+    return true;
+  }catch(e){
+    if(d === todayStr()){
+      day = null; SEL = d; render();
+      toast("Nothing published for " + d + " yet");
+    } else {
+      toast("No data for " + d);
+      DAYS = DAYS.filter(x=>x!==d); renderTabs();
+      SEL = DAYS[0] || todayStr(); loadDay(SEL, true);
+    }
+    return false;
+  }
+}
+
+async function refreshDay(silent){
+  const btn=document.getElementById("fetchBtn");
+  if(!silent) btn.textContent="⟳ Refreshing…";
+  loaded.delete(SEL);
+  const ok = await loadDay(SEL, true);
+  if(!silent){ btn.textContent="⟳ Refresh this day"; if(ok) toast("Refreshed " + SEL); }
+}
+
+function renderTabs(){
+  const box = document.getElementById("days");
+  box.innerHTML = "";
+  for(const d of DAYS){
+    const el = document.createElement("button");
+    el.className = "day" + (d === SEL ? " on" : "");
+    el.textContent = d.slice(5).replace("-", "/");
+    const rec = loaded.get(d);
+    if(rec && rec.score && rec.score.settled)
+      el.insertAdjacentHTML("beforeend", '<span class="dot"></span>');
+    el.onclick = () => loadDay(d);
+    box.appendChild(el);
+  }
+  if(SEL && !DAYS.includes(SEL)){
+    const el = document.createElement("button");
+    el.className = "day on"; el.textContent = SEL.slice(5).replace("-", "/");
+    box.prepend(el);
+  }
+}
+
+function badge(p){
+  if(p.res === "WIN")  return ["won",   "WIN"  + (p.odds ? " @ " + p.odds : "")];
+  if(p.res === "PLACE")return ["placed","PLACE" + (p.odds ? " @ " + p.odds : "")];
+  if(p.res === "LOSE") return ["lost",  "LOST" + (p.odds ? " @ " + p.odds : "")];
+  if(p.res === "NR")   return ["skipb", "NR"];
+  if(p.res === "VOID") return ["skipb", "VOID"];
+  return null;
+}
+
+function render(){
+  const isToday = SEL === todayStr();
+  document.getElementById("dateChip").textContent =
+    (VIEW==="sheet" ? SEL : VIEW==="patt" ? "the patterns" : "the plan") + (isToday && VIEW==="sheet" ? " · today" : "");
+  renderTabs();
+
+  const b = day && day.bank, s = stats && stats.season;
+  const bankV=document.getElementById("bankV"), plV=document.getElementById("plV"),
+        wplV=document.getElementById("wplV"), nsC=document.getElementById("nextStakeChip");
+  if(VIEW!=="sheet"){ return; }
+  if(b){
+    bankV.textContent = fmt(b.end ?? b.start);
+    const pl = (b.end ?? b.start) - b.start;
+    plV.textContent = sgn(pl);
+    plV.className = "v " + (pl>=0?"pos":"neg");
+    nsC.textContent = "next stake from " + fmt(b.next_stake ?? r2((b.end ?? b.start)*0.01));
+  } else if(s){
+    bankV.textContent = fmt(s.end);
+    plV.textContent = sgn(s.end - s.start);
+    plV.className = "v pos";
+    nsC.textContent = "next stake from " + fmt(r2(s.end*0.01));
+  } else {
+    bankV.textContent="—"; plV.textContent="—"; plV.className="v"; nsC.textContent="";
+  }
+  const sc = day && day.score;
+  if(sc && sc.settled){
+    wplV.innerHTML =
+      `<span style="color:var(--em)">${sc.won??0}</span>·<span style="color:var(--gold)">${sc.placed??0}</span>·<span style="color:var(--red)">${sc.lost??0}</span>`;
+    wplV.className = "v";
+  } else { wplV.textContent="—"; wplV.className="v"; }
+
+  const list=document.getElementById("list");
+  const races = (day && day.races) || [];
+  if(!races.length){
+    list.innerHTML = `<div class="card" style="font-size:.82rem;color:var(--dim)">Nothing on the sheet for ${esc(SEL)} — no medals, no 100+ banker.</div>`;
+  } else {
+    list.innerHTML = races.map(rc => rc.picks.map(p=>{
+      const past = p.res && p.res !== "?";
+      const bd = badge(p);
+      let amt = "";
+      if(p.res === "NR" || p.res === "VOID") amt = `<span class="chip">stake returned</span>`;
+      else if(p.res !== "?" && p.stake != null){
+        const d = r2((p.ret||0) - p.stake);
+        amt = `<span class="chip money">${fmt(p.stake)} → ${fmt(p.ret||0)} (${sgn(d)}) · bank ${fmt(p.bank_after)}</span>`;
+      }
+      const medal = p.napps >= 2 ? `<span class="chip em">×${p.napps} medal</span>` : "";
+      const banker = p.reason === "banker ≥100" ? `<span class="chip gold">banker ${esc(r2(p.score))}</span>` : "";
+      return `<div class="race ${past?"done":""}">
+        <div class="t">${esc(rc.time)}<small>${esc(rc.meeting)}</small></div>
+        <div class="mid"><div class="h">${applets(p.apps)}${esc(p.horse)} <span class="stars">${"★".repeat(p.stars||0)}</span></div>
+          <div class="r" style="margin-top:3px">
+            <span class="chip gold">${esc(p.odds||"")}</span>
+            ${medal}${banker}
+            ${amt?`<span class="chip money" style="margin-left:4px">${amt}</span>`:""}
+          </div></div>
+        ${bd?`<div class="badge ${bd[0]}">${bd[1]}</div>`:""}</div>`;
+    }).join("")).join("");
+  }
+  const skips = (day && day.skipped) || [];
+  if(skips.length){
+    list.innerHTML += `<h3 class="sec">Left out today · ${skips.length}</h3>` +
+      skips.map(k=>`<div class="race skip">
+        <div class="t">${esc(k.time)}<small>${esc(k.meeting)}</small></div>
+        <div class="mid"><div class="h">${applets(k.apps)}${esc(k.horse)}</div>
+          <div class="r"><span class="chip">${esc(k.odds||"no price")}</span> ${esc(k.why)}</div></div>
+        <div class="badge skipb">skipped</div></div>`).join("");
+  }
+}
+
+function tbl(t, label){
+  if(!t || !t.length) return "";
+  return `<h4 class="sub">${esc(label)}</h4>
+  <table><tr><th></th><th>n</th><th>settled</th><th>win%</th><th>place%</th><th>ROI</th></tr>` +
+    t.map(x=>`<tr><td>${esc(x.key)}</td><td>${x.n}</td><td>${x.settled}</td>
+      <td>${x["win%"]}%</td><td>${x["place%"]}%</td>
+      <td class="${x.roi>=0?"pos":"neg"}">${x.roi>=0?"+":""}${x.roi}%</td></tr>`).join("") + "</table>";
+}
+
+function renderPatterns(){
+  if(!stats){ pattView.innerHTML = `<div class="card">Loading patterns…</div>`;
+    jget("data/stats.json").then(j=>{ stats=j; renderPatterns(); }).catch(()=>{}); return; }
+  const t = stats.tables, season = stats.season;
+  document.getElementById("pattView").innerHTML = `
+  <div class="card">
+    <div class="label">The season on this plan</div>
+    <div class="row"><div class="v gold" style="font-size:1.3rem;font-weight:900">${fmt(season.start)} → ${fmt(season.end)}</div>
+      <span class="chip em">ROI ${season.roi>=0?"+":""}${season.roi}%</span></div>
+    <div class="r" style="font-size:.72rem;color:var(--dim);margin-top:6px">
+      ${season.bets} bets · ${season.settled} settled · win rate ${season.win_rate}% ·
+      staked ${fmt(season.staked)} → returned ${fmt(season.returned)}</div>
+  </div>
+  <div class="card">
+    <div class="label">What the five banks' data says — level stakes</div>
+    ${tbl(t.combined, "All picks, deduped, by odds band")}
+    ${tbl(t.medals_by_n, "By how many apps agree")}
+    ${tbl(t.banker_by_band, "Holy Grail picks scoring 100+ — the banker cut")}
+  </div>
+  <div class="card">
+    <div class="label">Each bank on its own</div>
+    ${Object.entries(t.apps).map(([a, tt]) => tbl(tt, APP_NAME[a])).join("")}
+  </div>
+  <div class="card">
+    <div class="label">This plan, walked</div>
+    ${tbl(t.plan_by_reason, "By why it's on")}
+    ${tbl(t.plan_by_band, "By odds band")}
+    <h4 class="sub">Monthly P/L</h4>
+    <table><tr><th>month</th><th>P/L</th></tr>
+    ${Object.entries(stats.monthly).map(([m,v]) =>
+      `<tr><td>${esc(m)}</td><td class="${v>=0?"pos":"neg"}">${v>=0?"+":"−"}£${Math.abs(v).toFixed(2)}</td></tr>`).join("")}</table>
+  </div>`;
+}
+
+function renderPlan(){
+  if(!stats){ planView.innerHTML = `<div class="card">Loading…</div>`;
+    jget("data/stats.json").then(j=>{ stats=j; renderPlan(); }).catch(()=>{}); return; }
+  const p = stats.plan, s = stats.season;
+  document.getElementById("planView").innerHTML = `
+  <div class="card">
+    <div class="label">${esc(p.name)}</div>
+    ${p.rules.map(r=>`<div class="r" style="font-size:.8rem;margin:6px 0">✔ ${esc(r)}</div>`).join("")}
+    <h4 class="sub">Stakes</h4>
+    <table><tr><th>bet</th><th>stake</th></tr>
+      ${Object.entries(p.stakes).map(([k,v])=>`<tr><td>${esc(k)}</td><td>${esc(v)}</td></tr>`).join("")}</table>
+    <div class="r" style="font-size:.75rem;color:var(--dim);margin-top:8px">${esc(p.money)}</div>
+  </div>
+  <div class="card">
+    <div class="label">Back-run, 1 Jan → now</div>
+    <div class="v gold" style="font-size:1.3rem;font-weight:900">${fmt(s.start)} → ${fmt(s.end)}</div>
+    <div class="r" style="font-size:.75rem;color:var(--dim);margin-top:6px">
+      ${s.bets} bets · ROI ${s.roi>=0?"+":""}${s.roi}% · win rate ${s.win_rate}% · W${s.won} P${s.placed} L${s.lost}</div>
+    <div class="r" style="font-size:.72rem;color:var(--dim);margin-top:4px">Fitted to the season so far — the plan reads the same data it back-runs on. New months keep it honest.</div>
+  </div>`;
+}
+
+async function watch(){
+  const t = todayStr();
+  if(t !== lastSeenDay){ lastSeenDay = t; DAYS = []; loaded.clear(); await init(true); return; }
+  if(SEL !== t || VIEW !== "sheet") return;
+  if(day) await refreshDay(true);
+}
+
+window.addEventListener("beforeinstallprompt", e=>{
+  e.preventDefault(); deferredPrompt=e; document.getElementById("instBtn").style.display="";
+});
+function doInstall(){ if(deferredPrompt){ deferredPrompt.prompt(); deferredPrompt=null; document.getElementById("instBtn").style.display="none"; } }
+
+async function init(quiet){
+  jget("data/stats.json").then(j=>{ stats=j; if(VIEW==="patt") renderPatterns(); if(VIEW==="plan") renderPlan(); }).catch(()=>{});
+  try{
+    const idx = await jget("data/index.json");
+    DAYS = idx.days || [];
+  }catch(e){ DAYS = []; }
+  if(!DAYS.includes(todayStr())) DAYS.unshift(todayStr());
+  const hash = (location.hash || "").replace("#", "");
+  SEL = (hash && DAYS.includes(hash)) ? hash
+      : (DAYS.includes(todayStr()) ? todayStr() : DAYS[0] || todayStr());
+  await loadDay(SEL, quiet);
+}
+
+init();
+setInterval(watch, 60000);
+
+/* keep the last row clear of the fixed footer */
+const footerEl = document.querySelector("footer.actions");
+function fitFooter(){ document.body.style.paddingBottom = (footerEl.offsetHeight + 20) + "px"; }
+window.addEventListener("resize", fitFooter);
+if(window.ResizeObserver) new ResizeObserver(fitFooter).observe(footerEl);
+fitFooter();
+
+if("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js?v="+Date.now(), { updateViaCache: "none" }).catch(()=>{});
+</script>
+</body>
+</html>

@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-04",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "16:10",
+      "meeting": "Bangor-on-Dee",
+      "picks": [
+        {
+          "horse": "Ballynoe Boy",
+          "stars": 4,
+          "odds": "3/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 139.45,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.27,
+          "ret": 1.08,
+          "bank_after": 28.0
+        },
+        {
+          "horse": "Ashdown Forest",
+          "stars": 5,
+          "odds": "3/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 103.45,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.27,
+          "ret": 0.0,
+          "bank_after": 27.73
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "16:10",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Dante's Inferno",
+      "odds": "9/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:54",
+      "meeting": "Kempton",
+      "horse": "Suggy",
+      "odds": "3/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:54",
+      "meeting": "Kempton",
+      "horse": "Elan D'or",
+      "odds": "14/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:24",
+      "meeting": "Kempton",
+      "horse": "Mythical Composer",
+      "odds": "20/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:24",
+      "meeting": "Kempton",
+      "horse": "Naasma",
+      "odds": "18/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 2,
+    "settled": 2,
+    "won": 1,
+    "placed": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.54,
+  "returned": 1.08,
+  "bank": {
+    "start": 27.19,
+    "end": 27.73,
+    "next_stake": 0.28,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

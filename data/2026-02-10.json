@@ -1,0 +1,489 @@
+{
+  "date": "2026-02-10",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "14:35",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Apache Tribe",
+          "stars": 5,
+          "odds": "4/6",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 113,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.11,
+          "ret": 0.18,
+          "bank_after": 11.46
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:18",
+      "meeting": "Lingfield",
+      "horse": "Global Warning",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:18",
+      "meeting": "Lingfield",
+      "horse": "Ashford Hill",
+      "odds": "13/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:35",
+      "meeting": "Ayr",
+      "horse": "So Many Roads",
+      "odds": "9/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:35",
+      "meeting": "Ayr",
+      "horse": "Burning It Up",
+      "odds": "2/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:35",
+      "meeting": "Ayr",
+      "horse": "The Jeweller's Pet",
+      "odds": "17/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:48",
+      "meeting": "Lingfield",
+      "horse": "Diomed Spirit",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:48",
+      "meeting": "Lingfield",
+      "horse": "Toolatetonegotiate",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:10",
+      "meeting": "Ffos Las",
+      "horse": "Esperti",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "14:10",
+      "meeting": "Ffos Las",
+      "horse": "One Last Glance",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "14:10",
+      "meeting": "Ffos Las",
+      "horse": "River Voyage",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "14:35",
+      "meeting": "Ayr",
+      "horse": "Dubhain",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:35",
+      "meeting": "Ayr",
+      "horse": "Nopresentliketime",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Ffos Las",
+      "horse": "Limerick Lass",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Ffos Las",
+      "horse": "Kom Tu Voudras",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Ffos Las",
+      "horse": "Midnight Venture",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "15:10",
+      "meeting": "Ffos Las",
+      "horse": "Blue Run",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "15:10",
+      "meeting": "Ffos Las",
+      "horse": "Leader Crik",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "15:10",
+      "meeting": "Ffos Las",
+      "horse": "Walk Of Faith",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "15:18",
+      "meeting": "Lingfield",
+      "horse": "Harry Brown",
+      "odds": "11/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:18",
+      "meeting": "Lingfield",
+      "horse": "Coolagh Magic",
+      "odds": "22/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Ayr",
+      "horse": "Kasanova's Dream",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Ayr",
+      "horse": "Better Be Definite",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Ayr",
+      "horse": "Shoeshine Boy",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:40",
+      "meeting": "Ffos Las",
+      "horse": "Admiral Stewart",
+      "odds": null,
+      "apps": [
+        "D",
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "15:40",
+      "meeting": "Ffos Las",
+      "horse": "Saint Cyr De Pail",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "15:40",
+      "meeting": "Ffos Las",
+      "horse": "Dexterity",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "16:05",
+      "meeting": "Ayr",
+      "horse": "Swallows Song",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:05",
+      "meeting": "Ayr",
+      "horse": "Torosay",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:05",
+      "meeting": "Ayr",
+      "horse": "Jirko",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:10",
+      "meeting": "Ffos Las",
+      "horse": "Stattler",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "16:10",
+      "meeting": "Ffos Las",
+      "horse": "Good Boy Bobby",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "16:10",
+      "meeting": "Ffos Las",
+      "horse": "Beacon Edge",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "16:18",
+      "meeting": "Lingfield",
+      "horse": "Gearing's Point",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:40",
+      "meeting": "Ffos Las",
+      "horse": "Livingit Du Large",
+      "odds": null,
+      "apps": [
+        "D",
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "16:40",
+      "meeting": "Ffos Las",
+      "horse": "One Eye On Vegas",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "16:40",
+      "meeting": "Ffos Las",
+      "horse": "Fresh Speculation",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "17:45",
+      "meeting": "Newcastle",
+      "horse": "The Tunguska Event",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:45",
+      "meeting": "Newcastle",
+      "horse": "Container Express",
+      "odds": "8/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:15",
+      "meeting": "Newcastle",
+      "horse": "Francesi",
+      "odds": "3/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:15",
+      "meeting": "Newcastle",
+      "horse": "Tasever",
+      "odds": "3/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:15",
+      "meeting": "Newcastle",
+      "horse": "Wyvern",
+      "odds": "10/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:15",
+      "meeting": "Newcastle",
+      "horse": "Spartan Fighter",
+      "odds": "7/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:15",
+      "meeting": "Newcastle",
+      "horse": "Judgment Call",
+      "odds": "6/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:15",
+      "meeting": "Newcastle",
+      "horse": "Captain Vallo",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 1,
+    "placed": 0,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.11,
+  "returned": 0.18,
+  "bank": {
+    "start": 11.39,
+    "end": 11.46,
+    "next_stake": 0.11,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

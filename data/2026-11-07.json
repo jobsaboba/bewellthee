@@ -1,0 +1,1496 @@
+{
+  "date": "2026-11-07",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "11:55",
+      "meeting": "Doncaster",
+      "picks": [
+        {
+          "horse": "Stanage",
+          "stars": 4,
+          "odds": "10/3",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 55,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.22,
+          "ret": 0.0,
+          "bank_after": 59.89
+        }
+      ]
+    },
+    {
+      "time": "12:15",
+      "meeting": "Uttoxeter",
+      "picks": [
+        {
+          "horse": "Lunar Trix",
+          "stars": 5,
+          "odds": "8/11",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 108.38,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.6,
+          "ret": 0.0,
+          "bank_after": 59.29
+        }
+      ]
+    },
+    {
+      "time": "13:35",
+      "meeting": "Doncaster",
+      "picks": [
+        {
+          "horse": "Bladey Lady",
+          "stars": 4,
+          "odds": "9/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 57,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.19,
+          "ret": 0.0,
+          "bank_after": 58.1
+        }
+      ]
+    },
+    {
+      "time": "13:50",
+      "meeting": "Gowran Park",
+      "picks": [
+        {
+          "horse": "Huntin Boots",
+          "stars": 4,
+          "odds": "2/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 93.50999999999999,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.16,
+          "ret": 3.48,
+          "bank_after": 60.42
+        }
+      ]
+    },
+    {
+      "time": "13:55",
+      "meeting": "Uttoxeter",
+      "picks": [
+        {
+          "horse": "Roger Pol",
+          "stars": 3,
+          "odds": "13/2",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 129.91,
+          "pos": 0,
+          "res": null,
+          "stake": 1.21,
+          "ret": null,
+          "bank_after": 60.42
+        },
+        {
+          "horse": "Diamond Geezer",
+          "stars": 4,
+          "odds": "10/3",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 84.85,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.21,
+          "ret": 0.0,
+          "bank_after": 59.21
+        }
+      ]
+    },
+    {
+      "time": "14:05",
+      "meeting": "Southwell",
+      "picks": [
+        {
+          "horse": "Union Island",
+          "stars": 2,
+          "odds": "16/1",
+          "apps": [
+            "G",
+            "J",
+            "S"
+          ],
+          "napps": 3,
+          "reason": "3-app medal",
+          "score": 29,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.78,
+          "ret": 0.0,
+          "bank_after": 57.43
+        }
+      ]
+    },
+    {
+      "time": "14:40",
+      "meeting": "Southwell",
+      "picks": [
+        {
+          "horse": "Highland Ranger",
+          "stars": 4,
+          "odds": "6/4",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 133,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.15,
+          "ret": 2.88,
+          "bank_after": 59.16
+        }
+      ]
+    },
+    {
+      "time": "14:45",
+      "meeting": "Doncaster",
+      "picks": [
+        {
+          "horse": "Felicitas",
+          "stars": 4,
+          "odds": "10/3",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 67,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.18,
+          "ret": 0.0,
+          "bank_after": 57.98
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Aintree",
+      "picks": [
+        {
+          "horse": "Our Guide",
+          "stars": 5,
+          "odds": "10/3",
+          "apps": [
+            "D",
+            "G",
+            "J"
+          ],
+          "napps": 3,
+          "reason": "3-app medal",
+          "score": 172.85,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.74,
+          "ret": 0.0,
+          "bank_after": 56.24
+        }
+      ]
+    },
+    {
+      "time": "15:05",
+      "meeting": "Uttoxeter",
+      "picks": [
+        {
+          "horse": "Nala The Lioness",
+          "stars": 3,
+          "odds": "4/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 46.0,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.12,
+          "ret": 0.0,
+          "bank_after": 55.12
+        }
+      ]
+    },
+    {
+      "time": "15:13",
+      "meeting": "Southwell",
+      "picks": [
+        {
+          "horse": "Blue Samuna",
+          "stars": 2,
+          "odds": "11/2",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 68.8,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.1,
+          "ret": 0.0,
+          "bank_after": 54.02
+        }
+      ]
+    },
+    {
+      "time": "15:25",
+      "meeting": "Doncaster",
+      "picks": [
+        {
+          "horse": "Alfred Wincham",
+          "stars": 5,
+          "odds": "3/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 105,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.54,
+          "ret": 2.16,
+          "bank_after": 55.64
+        },
+        {
+          "horse": "Solarize",
+          "stars": 4,
+          "odds": "11/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 55,
+          "pos": 4,
+          "res": "PLACE",
+          "stake": 1.08,
+          "ret": 0.0,
+          "bank_after": 54.56
+        }
+      ]
+    },
+    {
+      "time": "15:30",
+      "meeting": "Gowran Park",
+      "picks": [
+        {
+          "horse": "A Snow White Park",
+          "stars": 4,
+          "odds": "4/5",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 98.5,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.09,
+          "ret": 0.0,
+          "bank_after": 53.47
+        }
+      ]
+    },
+    {
+      "time": "15:40",
+      "meeting": "Uttoxeter",
+      "picks": [
+        {
+          "horse": "Chicks For Free",
+          "stars": 4,
+          "odds": "10/11",
+          "apps": [
+            "D",
+            "G",
+            "J"
+          ],
+          "napps": 3,
+          "reason": "3-app medal",
+          "score": 271.56,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.6,
+          "ret": 3.05,
+          "bank_after": 54.92
+        }
+      ]
+    },
+    {
+      "time": "15:50",
+      "meeting": "Southwell",
+      "picks": [
+        {
+          "horse": "Al Alami",
+          "stars": 4,
+          "odds": "6/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 65.8,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 1.1,
+          "ret": 0.0,
+          "bank_after": 53.82
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "11:55",
+      "meeting": "Doncaster",
+      "horse": "Ghisa",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "11:55",
+      "meeting": "Doncaster",
+      "horse": "Miss Lady Grace",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:10",
+      "meeting": "Gowran Park",
+      "horse": "Sixandahalf",
+      "odds": "8/15",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:15",
+      "meeting": "Uttoxeter",
+      "horse": "Fleu Du Glaye",
+      "odds": "10/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:15",
+      "meeting": "Uttoxeter",
+      "horse": "Chicker",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:25",
+      "meeting": "Doncaster",
+      "horse": "King's School",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:25",
+      "meeting": "Doncaster",
+      "horse": "Thunder Roar",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:25",
+      "meeting": "Doncaster",
+      "horse": "Golden Strike",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:25",
+      "meeting": "Doncaster",
+      "horse": "Beauty Choice",
+      "odds": "10/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:45",
+      "meeting": "Gowran Park",
+      "horse": "Build A Bridge",
+      "odds": "6/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:45",
+      "meeting": "Gowran Park",
+      "horse": "Princess Aveen",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:45",
+      "meeting": "Gowran Park",
+      "horse": "King Of Westeros",
+      "odds": "28/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:45",
+      "meeting": "Gowran Park",
+      "horse": "Clody Diamond",
+      "odds": "14/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:50",
+      "meeting": "Uttoxeter",
+      "horse": "Cinquenta",
+      "odds": "7/4",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:55",
+      "meeting": "Kelso",
+      "horse": "King Horse",
+      "odds": "6/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:55",
+      "meeting": "Kelso",
+      "horse": "Les's Legacy",
+      "odds": "9/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:55",
+      "meeting": "Kelso",
+      "horse": "Old Comrades",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:15",
+      "meeting": "Aintree",
+      "horse": "Kadastral",
+      "odds": "9/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:15",
+      "meeting": "Aintree",
+      "horse": "Javert Allen",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:15",
+      "meeting": "Aintree",
+      "horse": "Sans Bruit",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:25",
+      "meeting": "Uttoxeter",
+      "horse": "Senator",
+      "odds": "9/4",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:25",
+      "meeting": "Uttoxeter",
+      "horse": "Moyganny Phil",
+      "odds": "7/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Kelso",
+      "horse": "Billable Grant",
+      "odds": "9/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Kelso",
+      "horse": "Lester Mail",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Kelso",
+      "horse": "Annual Invitation",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:35",
+      "meeting": "Doncaster",
+      "horse": "My Boo Boo",
+      "odds": "13/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:35",
+      "meeting": "Doncaster",
+      "horse": "Redline",
+      "odds": "18/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:50",
+      "meeting": "Gowran Park",
+      "horse": "Baila Conmigo",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:50",
+      "meeting": "Gowran Park",
+      "horse": "Morris From Mayo",
+      "odds": "250/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:55",
+      "meeting": "Uttoxeter",
+      "horse": "Harbour Light",
+      "odds": "6/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:05",
+      "meeting": "Southwell",
+      "horse": "Titainium",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:05",
+      "meeting": "Southwell",
+      "horse": "Burford Beauty",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:05",
+      "meeting": "Southwell",
+      "horse": "Keats House",
+      "odds": "4/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:10",
+      "meeting": "Doncaster",
+      "horse": "Goldmoyne",
+      "odds": "28/1",
+      "apps": [
+        "G",
+        "J"
+      ],
+      "why": "medal over 12/1"
+    },
+    {
+      "time": "14:10",
+      "meeting": "Doncaster",
+      "horse": "Cherry Baker",
+      "odds": "80/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:10",
+      "meeting": "Doncaster",
+      "horse": "Coul Angel",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:10",
+      "meeting": "Doncaster",
+      "horse": "Copacabana Sands",
+      "odds": "20/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:10",
+      "meeting": "Doncaster",
+      "horse": "Zen Diva",
+      "odds": "8/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:10",
+      "meeting": "Doncaster",
+      "horse": "Midnight Tango",
+      "odds": "20/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:20",
+      "meeting": "Gowran Park",
+      "horse": "Got The Honours",
+      "odds": "5/4",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Uttoxeter",
+      "horse": "Molto Bene",
+      "odds": "5/4",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Southwell",
+      "horse": "Imperial Court",
+      "odds": "14/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Southwell",
+      "horse": "Ring Of Music",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Southwell",
+      "horse": "Deputy General",
+      "odds": "9/2",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Southwell",
+      "horse": "Berkshire Tango",
+      "odds": "7/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Southwell",
+      "horse": "Seddeeg",
+      "odds": "10/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:40",
+      "meeting": "Southwell",
+      "horse": "Iron Curtain",
+      "odds": "12/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:45",
+      "meeting": "Doncaster",
+      "horse": "Prosperity",
+      "odds": "10/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:45",
+      "meeting": "Doncaster",
+      "horse": "Garden Party",
+      "odds": "100/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:45",
+      "meeting": "Doncaster",
+      "horse": "Revoir",
+      "odds": "6/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:45",
+      "meeting": "Doncaster",
+      "horse": "Wadooda",
+      "odds": "8/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:45",
+      "meeting": "Doncaster",
+      "horse": "Ribbon Of Sea",
+      "odds": "7/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:45",
+      "meeting": "Doncaster",
+      "horse": "Together Now",
+      "odds": "10/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:45",
+      "meeting": "Doncaster",
+      "horse": "Zgharta",
+      "odds": "14/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:55",
+      "meeting": "Gowran Park",
+      "horse": "Cocofred",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:55",
+      "meeting": "Gowran Park",
+      "horse": "Bell Ex Too",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:55",
+      "meeting": "Gowran Park",
+      "horse": "Figero",
+      "odds": "16/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:00",
+      "meeting": "Aintree",
+      "horse": "Park Princess",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:00",
+      "meeting": "Aintree",
+      "horse": "French Ship",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:05",
+      "meeting": "Uttoxeter",
+      "horse": "Amberelli",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:05",
+      "meeting": "Uttoxeter",
+      "horse": "Sevarana",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:13",
+      "meeting": "Southwell",
+      "horse": "Age Of Baroque",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:13",
+      "meeting": "Southwell",
+      "horse": "Fools Rush In",
+      "odds": "20/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:13",
+      "meeting": "Southwell",
+      "horse": "Ridger",
+      "odds": "6/5",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:13",
+      "meeting": "Southwell",
+      "horse": "Crown The Future",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:25",
+      "meeting": "Doncaster",
+      "horse": "Nobody Knows",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:25",
+      "meeting": "Doncaster",
+      "horse": "Lord Melbourne",
+      "odds": "10/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:25",
+      "meeting": "Doncaster",
+      "horse": "Too Soon",
+      "odds": "14/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:30",
+      "meeting": "Gowran Park",
+      "horse": "Bearami Creek",
+      "odds": "16/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:30",
+      "meeting": "Gowran Park",
+      "horse": "Demanding Gerry",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Aintree",
+      "horse": "Bluey",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Aintree",
+      "horse": "Boombawn",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Aintree",
+      "horse": "Knight Of Allen",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Aintree",
+      "horse": "Southoftheborder",
+      "odds": "12/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Aintree",
+      "horse": "Hercule Du Seuil",
+      "odds": "20/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:40",
+      "meeting": "Uttoxeter",
+      "horse": "Wise Maiden",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:40",
+      "meeting": "Uttoxeter",
+      "horse": "Moral Compass",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:40",
+      "meeting": "Uttoxeter",
+      "horse": "Supastrong",
+      "odds": "6/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:45",
+      "meeting": "Kelso",
+      "horse": "Dream's Ka",
+      "odds": "11/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:45",
+      "meeting": "Kelso",
+      "horse": "Moon Over America",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:45",
+      "meeting": "Kelso",
+      "horse": "Nells Son",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:50",
+      "meeting": "Southwell",
+      "horse": "Palms Oasis",
+      "odds": "2/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:50",
+      "meeting": "Southwell",
+      "horse": "Kitty Rey",
+      "odds": "200/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:55",
+      "meeting": "Doncaster",
+      "horse": "Flash Harry",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:55",
+      "meeting": "Doncaster",
+      "horse": "Fine Interview",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:55",
+      "meeting": "Doncaster",
+      "horse": "Pilu",
+      "odds": "17/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:55",
+      "meeting": "Doncaster",
+      "horse": "Brighton Boy",
+      "odds": "7/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:55",
+      "meeting": "Doncaster",
+      "horse": "Call To Action",
+      "odds": "10/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:00",
+      "meeting": "Gowran Park",
+      "horse": "Talas Kera",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:00",
+      "meeting": "Gowran Park",
+      "horse": "Poetic Focus",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:00",
+      "meeting": "Gowran Park",
+      "horse": "Santa Paula",
+      "odds": "40/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:25",
+      "meeting": "Southwell",
+      "horse": "Thanks Dad",
+      "odds": "14/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:25",
+      "meeting": "Southwell",
+      "horse": "Piperstown",
+      "odds": "33/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:25",
+      "meeting": "Southwell",
+      "horse": "Auntie Jo",
+      "odds": "25/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:25",
+      "meeting": "Southwell",
+      "horse": "Tam Lin",
+      "odds": "2/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:25",
+      "meeting": "Southwell",
+      "horse": "Blackjack",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Southwell",
+      "horse": "Go On My Son",
+      "odds": "4/6",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Southwell",
+      "horse": "Butterfly Beach",
+      "odds": "9/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Southwell",
+      "horse": "Nando Tornado",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:30",
+      "meeting": "Southwell",
+      "horse": "Call Margot",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:30",
+      "meeting": "Southwell",
+      "horse": "Leading Times",
+      "odds": "16/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:30",
+      "meeting": "Southwell",
+      "horse": "Bona Fortuna",
+      "odds": "5/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:30",
+      "meeting": "Southwell",
+      "horse": "South Shore",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Southwell",
+      "horse": "Clipsham Noble",
+      "odds": "2/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Southwell",
+      "horse": "Sahm Naif",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Southwell",
+      "horse": "Masego",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "horse": "Fram Castle",
+      "odds": "85/40",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "horse": "Sycamore Gap",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "horse": "Jack Langley",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 17,
+    "settled": 16,
+    "won": 4,
+    "placed": 6,
+    "lost": 6,
+    "pending": 1
+  },
+  "staked": 18.86,
+  "returned": 11.57,
+  "bank": {
+    "start": 61.11,
+    "end": 53.82,
+    "next_stake": 0.54,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

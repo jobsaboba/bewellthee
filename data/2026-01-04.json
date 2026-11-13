@@ -1,0 +1,237 @@
+{
+  "date": "2026-01-04",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "13:45",
+      "meeting": "Chepstow",
+      "picks": [
+        {
+          "horse": "Modern Man",
+          "stars": 4,
+          "odds": "10/3",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 120.88,
+          "pos": 0,
+          "res": null,
+          "stake": 0.11,
+          "ret": null,
+          "bank_after": 11.23
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:45",
+      "meeting": "Chepstow",
+      "horse": "Roe And Co",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "12:45",
+      "meeting": "Chepstow",
+      "horse": "Maximum Offers",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "12:45",
+      "meeting": "Chepstow",
+      "horse": "River Voyage",
+      "odds": null,
+      "apps": [
+        "G"
+      ],
+      "why": "no price"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Southwell",
+      "horse": "Gressington",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Southwell",
+      "horse": "How Impressive",
+      "odds": "15/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:45",
+      "meeting": "Chepstow",
+      "horse": "Vol Royale",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:45",
+      "meeting": "Chepstow",
+      "horse": "Constantinian",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:00",
+      "meeting": "Southwell",
+      "horse": "Hint Of The Jungle",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:00",
+      "meeting": "Southwell",
+      "horse": "Ziggy's Triton",
+      "odds": "3/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:00",
+      "meeting": "Southwell",
+      "horse": "Blinky",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:20",
+      "meeting": "Chepstow",
+      "horse": "Laughing John",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:20",
+      "meeting": "Chepstow",
+      "horse": "Tzarmix",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:20",
+      "meeting": "Chepstow",
+      "horse": "Reina Del Mar",
+      "odds": "20/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Southwell",
+      "horse": "Juno Star",
+      "odds": "7/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Southwell",
+      "horse": "Arlington",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Southwell",
+      "horse": "Forest Gunner",
+      "odds": "11/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:55",
+      "meeting": "Chepstow",
+      "horse": "Cool Customer",
+      "odds": "6/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:55",
+      "meeting": "Chepstow",
+      "horse": "Trojan Tale",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:55",
+      "meeting": "Chepstow",
+      "horse": "Dukeboxrock",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 0,
+    "won": 0,
+    "placed": 0,
+    "lost": 0,
+    "pending": 1
+  },
+  "staked": 0,
+  "returned": 0,
+  "bank": {
+    "start": 11.23,
+    "end": 11.23,
+    "next_stake": 0.11,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

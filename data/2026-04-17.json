@@ -1,0 +1,347 @@
+{
+  "date": "2026-04-17",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "12:45",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Castle Ivers",
+          "stars": 5,
+          "odds": "4/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 150.0,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 0.13,
+          "ret": 0.0,
+          "bank_after": 13.22
+        }
+      ]
+    },
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Hoe Joly Smoke",
+          "stars": 3,
+          "odds": "9/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 129.45,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.13,
+          "ret": 0.0,
+          "bank_after": 13.09
+        }
+      ]
+    },
+    {
+      "time": "15:43",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Hidden History",
+          "stars": 2,
+          "odds": "11/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 106.45,
+          "pos": 0,
+          "res": null,
+          "stake": 0.13,
+          "ret": null,
+          "bank_after": 13.09
+        },
+        {
+          "horse": "Woodland Park",
+          "stars": 3,
+          "odds": "7/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 105.0,
+          "pos": 0,
+          "res": null,
+          "stake": 0.13,
+          "ret": null,
+          "bank_after": 13.09
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:45",
+      "meeting": "Ayr",
+      "horse": "Bibe Mus",
+      "odds": "17/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:45",
+      "meeting": "Ayr",
+      "horse": "Newtown Rambler",
+      "odds": "11/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:08",
+      "meeting": "Wolverhampton",
+      "horse": "Twilight Madness",
+      "odds": "7/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:08",
+      "meeting": "Wolverhampton",
+      "horse": "Due Date",
+      "odds": "28/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:20",
+      "meeting": "Ayr",
+      "horse": "Marty Mcfly",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:20",
+      "meeting": "Ayr",
+      "horse": "Risk De Pluie",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:20",
+      "meeting": "Ayr",
+      "horse": "Pleasington",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:55",
+      "meeting": "Ayr",
+      "horse": "Penn Avenue",
+      "odds": "16/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:55",
+      "meeting": "Ayr",
+      "horse": "Dropematthestation",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:55",
+      "meeting": "Ayr",
+      "horse": "Lirion",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:18",
+      "meeting": "Wolverhampton",
+      "horse": "Diamond Bay",
+      "odds": "10/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "horse": "Califet En Vol",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Ayr",
+      "horse": "Il Ridoto",
+      "odds": "22/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:53",
+      "meeting": "Wolverhampton",
+      "horse": "Accrual",
+      "odds": "15/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:05",
+      "meeting": "Ayr",
+      "horse": "The Four Sixes",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:05",
+      "meeting": "Ayr",
+      "horse": "Spectacularsunrise",
+      "odds": "11/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:05",
+      "meeting": "Ayr",
+      "horse": "Came From Nowhere",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:43",
+      "meeting": "Ayr",
+      "horse": "Billy Boi Blue",
+      "odds": "33/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:15",
+      "meeting": "Ayr",
+      "horse": "Summergrounds",
+      "odds": "14/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:15",
+      "meeting": "Ayr",
+      "horse": "Rickety Gate",
+      "odds": "25/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:15",
+      "meeting": "Ayr",
+      "horse": "Balboa",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:35",
+      "meeting": "Wolverhampton",
+      "horse": "Port Noir",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:35",
+      "meeting": "Wolverhampton",
+      "horse": "Arlecchino's Rex",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:35",
+      "meeting": "Wolverhampton",
+      "horse": "Bossy Parker",
+      "odds": "11/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 4,
+    "settled": 2,
+    "won": 0,
+    "placed": 0,
+    "lost": 2,
+    "pending": 2
+  },
+  "staked": 0.26,
+  "returned": 0.0,
+  "bank": {
+    "start": 13.35,
+    "end": 13.09,
+    "next_stake": 0.13,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

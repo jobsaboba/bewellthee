@@ -1,0 +1,190 @@
+{
+  "date": "2026-03-31",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "13:45",
+      "meeting": "Bangor-on-Dee",
+      "picks": [
+        {
+          "horse": "Coumeenoole",
+          "stars": 4,
+          "odds": "15/8",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 119.45,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.24,
+          "ret": 0.69,
+          "bank_after": 12.59
+        }
+      ]
+    },
+    {
+      "time": "14:50",
+      "meeting": "Bangor-on-Dee",
+      "picks": [
+        {
+          "horse": "Palamon",
+          "stars": 3,
+          "odds": "1/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 117.45,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.13,
+          "ret": 0.26,
+          "bank_after": 12.72
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:45",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Escort'kheops",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:45",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Parliamo",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:50",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Nativehill",
+      "odds": "20/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:50",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Busty Boy",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:20",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Three Zambezi's",
+      "odds": "5/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:20",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Subtle Fortune",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:20",
+      "meeting": "Bangor-on-Dee",
+      "horse": "The Scorpion King",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:30",
+      "meeting": "Wolverhampton",
+      "horse": "Giorgio M",
+      "odds": "15/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:30",
+      "meeting": "Wolverhampton",
+      "horse": "Habrdi",
+      "odds": "17/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:30",
+      "meeting": "Wolverhampton",
+      "horse": "Al Muqdad",
+      "odds": "10/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:00",
+      "meeting": "Wolverhampton",
+      "horse": "Marinakis",
+      "odds": "12/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Wolverhampton",
+      "horse": "Knight Of Magic",
+      "odds": "15/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 2,
+    "settled": 2,
+    "won": 2,
+    "placed": 0,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.37,
+  "returned": 0.95,
+  "bank": {
+    "start": 12.14,
+    "end": 12.72,
+    "next_stake": 0.13,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

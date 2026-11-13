@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-31",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "12:43",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "The Skecher",
+          "stars": 5,
+          "odds": "10/11",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 110,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.46,
+          "ret": 0.88,
+          "bank_after": 46.4
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:43",
+      "meeting": "Ayr",
+      "horse": "Majordomo",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:43",
+      "meeting": "Ayr",
+      "horse": "King Kubala",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:18",
+      "meeting": "Ayr",
+      "horse": "Didntgotwenty",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:18",
+      "meeting": "Ayr",
+      "horse": "Torosay",
+      "odds": "13/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:18",
+      "meeting": "Ayr",
+      "horse": "Cave Hill",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:28",
+      "meeting": "Ayr",
+      "horse": "Tommy Combats",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:28",
+      "meeting": "Ayr",
+      "horse": "Halftheworldaway",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:28",
+      "meeting": "Ayr",
+      "horse": "Cavalier Du Luy",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:03",
+      "meeting": "Ayr",
+      "horse": "She's Notjoeking",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:03",
+      "meeting": "Ayr",
+      "horse": "Pure Gold",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:03",
+      "meeting": "Ayr",
+      "horse": "Ginger Mail",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:00",
+      "meeting": "Southwell",
+      "horse": "Mercurius Power",
+      "odds": "8/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:00",
+      "meeting": "Southwell",
+      "horse": "Dumfries",
+      "odds": "18/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:10",
+      "meeting": "Ayr",
+      "horse": "Ck O'mara",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:10",
+      "meeting": "Ayr",
+      "horse": "Better Be Definite",
+      "odds": "10/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:10",
+      "meeting": "Ayr",
+      "horse": "Bollin Matilda",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:35",
+      "meeting": "Southwell",
+      "horse": "Hear The Drums",
+      "odds": "18/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 1,
+    "placed": 0,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.46,
+  "returned": 0.88,
+  "bank": {
+    "start": 45.98,
+    "end": 46.4,
+    "next_stake": 0.46,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "date": "2026-09-24",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "14:59",
+      "meeting": "Perth",
+      "picks": [
+        {
+          "horse": "Divilabother",
+          "stars": 3,
+          "odds": "13/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 105.81,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.29,
+          "ret": 0.0,
+          "bank_after": 28.26
+        },
+        {
+          "horse": "Letterston Lady",
+          "stars": 4,
+          "odds": "9/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 104.0,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.29,
+          "ret": 0.0,
+          "bank_after": 27.97
+        }
+      ]
+    },
+    {
+      "time": "16:10",
+      "meeting": "Perth",
+      "picks": [
+        {
+          "horse": "Gortmore Lady",
+          "stars": 4,
+          "odds": "9/4",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 83.0,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.56,
+          "ret": 0.0,
+          "bank_after": 27.41
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:49",
+      "meeting": "Perth",
+      "horse": "Elemental Eye",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:49",
+      "meeting": "Perth",
+      "horse": "Expert Analysis",
+      "odds": "5/6",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:49",
+      "meeting": "Perth",
+      "horse": "Struth",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:24",
+      "meeting": "Perth",
+      "horse": "Upfordebate",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:24",
+      "meeting": "Perth",
+      "horse": "Wasdell Dundalk",
+      "odds": "25/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:24",
+      "meeting": "Perth",
+      "horse": "Juke Hill",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:59",
+      "meeting": "Perth",
+      "horse": "Medieval Gold",
+      "odds": "9/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:22",
+      "meeting": "Southwell",
+      "horse": "Soames Forsyte",
+      "odds": "10/3",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:22",
+      "meeting": "Southwell",
+      "horse": "Mercurius Power",
+      "odds": "10/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:22",
+      "meeting": "Southwell",
+      "horse": "Al Suil Eile",
+      "odds": "22/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:34",
+      "meeting": "Perth",
+      "horse": "Jetovango",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:34",
+      "meeting": "Perth",
+      "horse": "Steps In The Sand",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:34",
+      "meeting": "Perth",
+      "horse": "Reflection Of You",
+      "odds": "15/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:10",
+      "meeting": "Perth",
+      "horse": "Malangen",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:10",
+      "meeting": "Perth",
+      "horse": "Tigress Lilly",
+      "odds": "9/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:30",
+      "meeting": "Southwell",
+      "horse": "Enpassant",
+      "odds": "16/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Southwell",
+      "horse": "Shaw Park",
+      "odds": "11/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "horse": "Guernsey Angel",
+      "odds": "14/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 3,
+    "settled": 3,
+    "won": 0,
+    "placed": 2,
+    "lost": 1,
+    "pending": 0
+  },
+  "staked": 1.14,
+  "returned": 0.0,
+  "bank": {
+    "start": 28.55,
+    "end": 27.41,
+    "next_stake": 0.27,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

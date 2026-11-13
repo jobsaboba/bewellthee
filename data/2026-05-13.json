@@ -1,0 +1,199 @@
+{
+  "date": "2026-05-13",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "13:00",
+      "meeting": "Perth",
+      "picks": [
+        {
+          "horse": "Kaydence",
+          "stars": 5,
+          "odds": "11/10",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 100.0,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.16,
+          "ret": 0.0,
+          "bank_after": 15.65
+        }
+      ]
+    },
+    {
+      "time": "14:43",
+      "meeting": "Perth",
+      "picks": [
+        {
+          "horse": "The Flying Poet",
+          "stars": 4,
+          "odds": "7/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 118.0,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.16,
+          "ret": 0.44,
+          "bank_after": 15.93
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:00",
+      "meeting": "Perth",
+      "horse": "Lowlands",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:00",
+      "meeting": "Perth",
+      "horse": "Poppies In July",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:08",
+      "meeting": "Perth",
+      "horse": "Manowest",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:08",
+      "meeting": "Perth",
+      "horse": "Suspected",
+      "odds": "13/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:08",
+      "meeting": "Perth",
+      "horse": "Buy Some Time",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:43",
+      "meeting": "Perth",
+      "horse": "Aill Dubh",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:43",
+      "meeting": "Perth",
+      "horse": "Sir Carnegie",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:55",
+      "meeting": "Perth",
+      "horse": "Dublinofficecallin",
+      "odds": "11/10",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:55",
+      "meeting": "Perth",
+      "horse": "Gonnino",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:55",
+      "meeting": "Perth",
+      "horse": "Prince Nino",
+      "odds": "66/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:25",
+      "meeting": "Perth",
+      "horse": "Loro White",
+      "odds": "10/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:25",
+      "meeting": "Perth",
+      "horse": "Malangen",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:25",
+      "meeting": "Perth",
+      "horse": "Knockeranna Rose",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 2,
+    "settled": 2,
+    "won": 1,
+    "placed": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.32,
+  "returned": 0.44,
+  "bank": {
+    "start": 15.81,
+    "end": 15.93,
+    "next_stake": 0.16,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "date": "2026-04-23",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "15:10",
+      "meeting": "Perth",
+      "picks": [
+        {
+          "horse": "Mister Ursus",
+          "stars": 4,
+          "odds": "2/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 115.0,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.13,
+          "ret": 0.39,
+          "bank_after": 12.86
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:10",
+      "meeting": "Perth",
+      "horse": "King Jon Oliver",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:10",
+      "meeting": "Perth",
+      "horse": "A King Of Magic",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:10",
+      "meeting": "Perth",
+      "horse": "Largy Meadow",
+      "odds": "10/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:40",
+      "meeting": "Perth",
+      "horse": "Letterston Lily",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:40",
+      "meeting": "Perth",
+      "horse": "Karton Plein",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:40",
+      "meeting": "Perth",
+      "horse": "Buy Some Time",
+      "odds": "11/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:10",
+      "meeting": "Perth",
+      "horse": "Someone's Wish",
+      "odds": "33/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:10",
+      "meeting": "Perth",
+      "horse": "A Different Kind",
+      "odds": "10/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:40",
+      "meeting": "Perth",
+      "horse": "Shadowfax Of Rohan",
+      "odds": "1/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:40",
+      "meeting": "Perth",
+      "horse": "Canavan",
+      "odds": "9/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:40",
+      "meeting": "Perth",
+      "horse": "Sao Carlos",
+      "odds": "80/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:15",
+      "meeting": "Perth",
+      "horse": "Inis Oirr",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:15",
+      "meeting": "Perth",
+      "horse": "Casual Observer",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:15",
+      "meeting": "Perth",
+      "horse": "Burgundy Man",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:45",
+      "meeting": "Dundalk",
+      "horse": "Rampage",
+      "odds": "3/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:45",
+      "meeting": "Dundalk",
+      "horse": "Comfort Line",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:45",
+      "meeting": "Dundalk",
+      "horse": "Master Garvey",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:45",
+      "meeting": "Dundalk",
+      "horse": "San Andreas",
+      "odds": "11/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Southwell",
+      "horse": "Bomb Squad",
+      "odds": "3/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:00",
+      "meeting": "Southwell",
+      "horse": "Fools Rush In",
+      "odds": "20/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:15",
+      "meeting": "Dundalk",
+      "horse": "Doctor Grace",
+      "odds": "13/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:15",
+      "meeting": "Dundalk",
+      "horse": "Barretstown",
+      "odds": "18/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 1,
+    "placed": 0,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.13,
+  "returned": 0.39,
+  "bank": {
+    "start": 12.6,
+    "end": 12.86,
+    "next_stake": 0.13,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

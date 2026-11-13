@@ -1,0 +1,118 @@
+{
+  "date": "2026-03-16",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "16:30",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "Double Click",
+          "stars": 3,
+          "odds": "11/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 167.81,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.24,
+          "ret": 0.0,
+          "bank_after": 11.68
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "16:00",
+      "meeting": "Ffos Las",
+      "horse": "Loughderg Rocco",
+      "odds": "12/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:00",
+      "meeting": "Ffos Las",
+      "horse": "Alfie's Princess",
+      "odds": "6/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:00",
+      "meeting": "Ffos Las",
+      "horse": "Big City Roller",
+      "odds": "17/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:30",
+      "meeting": "Ffos Las",
+      "horse": "Up To Trix",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:30",
+      "meeting": "Ffos Las",
+      "horse": "Jukebox Fury",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "horse": "Mumayaz",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "19:30",
+      "meeting": "Wolverhampton",
+      "horse": "Twilight Madness",
+      "odds": "9/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 1,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.24,
+  "returned": 0.0,
+  "bank": {
+    "start": 11.92,
+    "end": 11.68,
+    "next_stake": 0.12,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

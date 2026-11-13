@@ -1,0 +1,535 @@
+{
+  "date": "2026-11-12",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "11:43",
+      "meeting": "Thurles",
+      "picks": [
+        {
+          "horse": "Whispering Willow",
+          "stars": 5,
+          "odds": "3/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 44.510000000000005,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 2.49,
+          "ret": 0.0,
+          "bank_after": 122.05
+        }
+      ]
+    },
+    {
+      "time": "12:06",
+      "meeting": "Market Rasen",
+      "picks": [
+        {
+          "horse": "Ballydine Boy",
+          "stars": 5,
+          "odds": "4/5",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 212.32,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.22,
+          "ret": 0.0,
+          "bank_after": 120.83
+        },
+        {
+          "horse": "Northern Olympian",
+          "stars": 4,
+          "odds": "3/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 137.51,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.22,
+          "ret": 4.88,
+          "bank_after": 124.49
+        },
+        {
+          "horse": "Yafaarr",
+          "stars": 3,
+          "odds": "10/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 76.0,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 2.44,
+          "ret": 0.0,
+          "bank_after": 122.05
+        }
+      ]
+    },
+    {
+      "time": "12:41",
+      "meeting": "Market Rasen",
+      "picks": [
+        {
+          "horse": "Ivor Bear",
+          "stars": 4,
+          "odds": "11/8",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 164.74,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.22,
+          "ret": 0.0,
+          "bank_after": 120.83
+        },
+        {
+          "horse": "Supreme Force",
+          "stars": 4,
+          "odds": "4/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 100.27,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 2.44,
+          "ret": 0.0,
+          "bank_after": 118.39
+        }
+      ]
+    },
+    {
+      "time": "13:05",
+      "meeting": "Hereford",
+      "picks": [
+        {
+          "horse": "Governors Rock",
+          "stars": 5,
+          "odds": "10/11",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 130.51999999999998,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.18,
+          "ret": 2.25,
+          "bank_after": 119.46
+        },
+        {
+          "horse": "Thetype Istitle",
+          "stars": 2,
+          "odds": "8/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 75.0,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 2.37,
+          "ret": 0.0,
+          "bank_after": 117.09
+        }
+      ]
+    },
+    {
+      "time": "14:03",
+      "meeting": "Thurles",
+      "picks": [
+        {
+          "horse": "Gunnery Sergeant",
+          "stars": 5,
+          "odds": "6/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 105.45,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.17,
+          "ret": 2.92,
+          "bank_after": 118.84
+        }
+      ]
+    },
+    {
+      "time": "14:50",
+      "meeting": "Hereford",
+      "picks": [
+        {
+          "horse": "Seraphic",
+          "stars": 4,
+          "odds": "11/8",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 72.02,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 2.38,
+          "ret": 5.65,
+          "bank_after": 122.11
+        }
+      ]
+    },
+    {
+      "time": "15:01",
+      "meeting": "Market Rasen",
+      "picks": [
+        {
+          "horse": "Burning Embers",
+          "stars": 5,
+          "odds": "7/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 153.51,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.22,
+          "ret": 0.0,
+          "bank_after": 120.89
+        },
+        {
+          "horse": "Seasmoke",
+          "stars": 3,
+          "odds": "6/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 122.32,
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.22,
+          "ret": 0.0,
+          "bank_after": 119.67
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "11:43",
+      "meeting": "Thurles",
+      "horse": "Kimy",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "11:43",
+      "meeting": "Thurles",
+      "horse": "Might Be The One",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:18",
+      "meeting": "Thurles",
+      "horse": "Potters Pal",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:18",
+      "meeting": "Thurles",
+      "horse": "Stoneyford Lady",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:18",
+      "meeting": "Thurles",
+      "horse": "Orkneys Jack",
+      "odds": "33/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:30",
+      "meeting": "Hereford",
+      "horse": "Princess Of Habo",
+      "odds": "13/8",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:30",
+      "meeting": "Hereford",
+      "horse": "Antiquarian",
+      "odds": "16/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:41",
+      "meeting": "Market Rasen",
+      "horse": "Striking Midnight",
+      "odds": "20/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:53",
+      "meeting": "Thurles",
+      "horse": "Island Mccoo",
+      "odds": "10/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:05",
+      "meeting": "Hereford",
+      "horse": "Moscow Star",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:16",
+      "meeting": "Market Rasen",
+      "horse": "Tell The Tale",
+      "odds": "9/4",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:16",
+      "meeting": "Market Rasen",
+      "horse": "Chemoulin",
+      "odds": "3/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:16",
+      "meeting": "Market Rasen",
+      "horse": "Another High Five",
+      "odds": "11/2",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:16",
+      "meeting": "Market Rasen",
+      "horse": "Firm But Fair",
+      "odds": "15/2",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:03",
+      "meeting": "Thurles",
+      "horse": "Kiltinan",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:03",
+      "meeting": "Thurles",
+      "horse": "Beeverstown Boy",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:38",
+      "meeting": "Thurles",
+      "horse": "Fratas",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:50",
+      "meeting": "Hereford",
+      "horse": "Lucky Sevens",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:01",
+      "meeting": "Market Rasen",
+      "horse": "Bits Ballou",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:01",
+      "meeting": "Market Rasen",
+      "horse": "Reflection Of You",
+      "odds": "7/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:15",
+      "meeting": "Thurles",
+      "horse": "Daisy Fingall",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:15",
+      "meeting": "Thurles",
+      "horse": "Duke Otto",
+      "odds": "50/1",
+      "apps": [
+        "G",
+        "J"
+      ],
+      "why": "medal over 12/1"
+    },
+    {
+      "time": "15:15",
+      "meeting": "Thurles",
+      "horse": "Max Meridius",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:36",
+      "meeting": "Market Rasen",
+      "horse": "Tilehurst",
+      "odds": "11/2",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:48",
+      "meeting": "Thurles",
+      "horse": "Topothelane",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:48",
+      "meeting": "Thurles",
+      "horse": "Bowgate Street",
+      "odds": "11/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:48",
+      "meeting": "Thurles",
+      "horse": "Euro Maker",
+      "odds": "10/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 12,
+    "settled": 12,
+    "won": 4,
+    "placed": 3,
+    "lost": 5,
+    "pending": 0
+  },
+  "staked": 20.57,
+  "returned": 15.7,
+  "bank": {
+    "start": 124.54,
+    "end": 119.67,
+    "next_stake": 1.2,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

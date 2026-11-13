@@ -1,0 +1,158 @@
+{
+  "date": "2026-05-16",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "13:45",
+      "meeting": "Bangor-on-Dee",
+      "picks": [
+        {
+          "horse": "Dream's Ka",
+          "stars": 5,
+          "odds": "5/2",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 132.45,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.32,
+          "ret": 1.12,
+          "bank_after": 17.01
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "13:10",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Saint Jeannais",
+      "odds": "6/5",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:10",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Anxious Moments",
+      "odds": "80/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:10",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Mr Mojo Risin",
+      "odds": "1/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:45",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Mr Mahler",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:45",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Greer Hill",
+      "odds": "10/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:20",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Diamonds Galore",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:20",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Fasol",
+      "odds": "9/4",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:20",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Fromheretoeternity",
+      "odds": "10/3",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:30",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Slaney Opera",
+      "odds": "16/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:30",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Special John",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:30",
+      "meeting": "Bangor-on-Dee",
+      "horse": "Cahier's Den",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 1,
+    "placed": 0,
+    "lost": 0,
+    "pending": 0
+  },
+  "staked": 0.32,
+  "returned": 1.12,
+  "bank": {
+    "start": 16.21,
+    "end": 17.01,
+    "next_stake": 0.17,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

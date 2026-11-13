@@ -1,0 +1,632 @@
+{
+  "date": "2026-11-09",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "12:00",
+      "meeting": "Punchestown",
+      "picks": [
+        {
+          "horse": "Western Model",
+          "stars": 5,
+          "odds": "9/2",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 54,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.35,
+          "ret": 7.43,
+          "bank_after": 73.73
+        }
+      ]
+    },
+    {
+      "time": "12:20",
+      "meeting": "Carlisle",
+      "picks": [
+        {
+          "horse": "Poets Whisper",
+          "stars": 5,
+          "odds": "13/8",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 140.07999999999998,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.47,
+          "ret": 0.0,
+          "bank_after": 72.26
+        }
+      ]
+    },
+    {
+      "time": "13:00",
+      "meeting": "Punchestown",
+      "picks": [
+        {
+          "horse": "Smokin Aces",
+          "stars": 4,
+          "odds": "9/4",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 161.6,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.45,
+          "ret": 4.71,
+          "bank_after": 75.52
+        }
+      ]
+    },
+    {
+      "time": "13:10",
+      "meeting": "Stratford",
+      "picks": [
+        {
+          "horse": "Eastern Fire",
+          "stars": 5,
+          "odds": "8/15",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 162.78,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.51,
+          "ret": 2.32,
+          "bank_after": 76.33
+        }
+      ]
+    },
+    {
+      "time": "13:30",
+      "meeting": "Punchestown",
+      "picks": [
+        {
+          "horse": "Coexist",
+          "stars": 3,
+          "odds": "11/8",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 58,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.53,
+          "ret": 3.63,
+          "bank_after": 78.43
+        },
+        {
+          "horse": "Blissful Bonita",
+          "stars": 4,
+          "odds": "2/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 27,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 1.53,
+          "ret": 0.0,
+          "bank_after": 76.9
+        }
+      ]
+    },
+    {
+      "time": "13:40",
+      "meeting": "Stratford",
+      "picks": [
+        {
+          "horse": "Major Fortune",
+          "stars": 5,
+          "odds": "7/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 119.78,
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.77,
+          "ret": 0.0,
+          "bank_after": 76.13
+        },
+        {
+          "horse": "Sunshine Diamond",
+          "stars": 4,
+          "odds": "15/8",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 103.23,
+          "pos": 4,
+          "res": "LOSE",
+          "stake": 1.54,
+          "ret": 0.0,
+          "bank_after": 74.59
+        }
+      ]
+    },
+    {
+      "time": "14:03",
+      "meeting": "Punchestown",
+      "picks": [
+        {
+          "horse": "Bombay Pat",
+          "stars": 3,
+          "odds": "5/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 108,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 1.49,
+          "ret": 8.94,
+          "bank_after": 82.04
+        }
+      ]
+    },
+    {
+      "time": "14:27",
+      "meeting": "Carlisle",
+      "picks": [
+        {
+          "horse": "Nobotheratall",
+          "stars": 4,
+          "odds": "15/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 121.38,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.82,
+          "ret": 6.97,
+          "bank_after": 88.19
+        }
+      ]
+    },
+    {
+      "time": "15:35",
+      "meeting": "Carlisle",
+      "picks": [
+        {
+          "horse": "Lady Jetfire",
+          "stars": 5,
+          "odds": "5/6",
+          "apps": [
+            "D",
+            "G",
+            "J"
+          ],
+          "napps": 3,
+          "reason": "3-app medal",
+          "score": 266.65,
+          "pos": 1,
+          "res": "WIN",
+          "stake": 2.65,
+          "ret": 4.86,
+          "bank_after": 90.4
+        },
+        {
+          "horse": "Belle Noire",
+          "stars": 4,
+          "odds": "11/2",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 84.08,
+          "pos": 8,
+          "res": "LOSE",
+          "stake": 1.76,
+          "ret": 0.0,
+          "bank_after": 88.64
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:00",
+      "meeting": "Punchestown",
+      "horse": "Il Silenzio",
+      "odds": "11/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:00",
+      "meeting": "Punchestown",
+      "horse": "Moorish Castle",
+      "odds": "9/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:00",
+      "meeting": "Punchestown",
+      "horse": "Laska Du Breuil",
+      "odds": "16/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:20",
+      "meeting": "Carlisle",
+      "horse": "Teeshan",
+      "odds": "6/5",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:20",
+      "meeting": "Carlisle",
+      "horse": "Old Colony",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:30",
+      "meeting": "Punchestown",
+      "horse": "Good Option",
+      "odds": "7/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:40",
+      "meeting": "Stratford",
+      "horse": "Act Of Authority",
+      "odds": "1/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "12:50",
+      "meeting": "Carlisle",
+      "horse": "Parisencore",
+      "odds": "1/2",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:00",
+      "meeting": "Punchestown",
+      "horse": "Glenageary",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:00",
+      "meeting": "Punchestown",
+      "horse": "Ophelia Hall",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:10",
+      "meeting": "Stratford",
+      "horse": "Bath Taverness",
+      "odds": "40/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:10",
+      "meeting": "Stratford",
+      "horse": "Wallquatari",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:20",
+      "meeting": "Carlisle",
+      "horse": "Diamond White",
+      "odds": "5/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:20",
+      "meeting": "Carlisle",
+      "horse": "Disguisedlimit",
+      "odds": "28/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:20",
+      "meeting": "Carlisle",
+      "horse": "Bo Cruz",
+      "odds": "4/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:30",
+      "meeting": "Punchestown",
+      "horse": "Borora Aura",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:40",
+      "meeting": "Stratford",
+      "horse": "Lord Of Cheshire",
+      "odds": "9/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:03",
+      "meeting": "Punchestown",
+      "horse": "Leonard Vallis",
+      "odds": "13/8",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:03",
+      "meeting": "Punchestown",
+      "horse": "Werner",
+      "odds": "5/6",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:27",
+      "meeting": "Carlisle",
+      "horse": "Rossbridge",
+      "odds": "8/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:27",
+      "meeting": "Carlisle",
+      "horse": "Mr Caulfield",
+      "odds": "16/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:38",
+      "meeting": "Punchestown",
+      "horse": "Belle The Tigress",
+      "odds": "3/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:38",
+      "meeting": "Punchestown",
+      "horse": "Allo Al Khawaneej",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:38",
+      "meeting": "Punchestown",
+      "horse": "Sea Eagle",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:38",
+      "meeting": "Punchestown",
+      "horse": "Carrig Padraig",
+      "odds": "12/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:50",
+      "meeting": "Stratford",
+      "horse": "She Is For Me Boys",
+      "odds": "7/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:13",
+      "meeting": "Punchestown",
+      "horse": "Dedudefromhouston",
+      "odds": "14/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:13",
+      "meeting": "Punchestown",
+      "horse": "Brickfield Belle",
+      "odds": "4/9",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:13",
+      "meeting": "Punchestown",
+      "horse": "Viva Laa Vida",
+      "odds": "9/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:25",
+      "meeting": "Stratford",
+      "horse": "Exactly Right",
+      "odds": "11/2",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Carlisle",
+      "horse": "Lutece Borget",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:35",
+      "meeting": "Carlisle",
+      "horse": "Who's That Lady",
+      "odds": "5/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:45",
+      "meeting": "Punchestown",
+      "horse": "Head For Home",
+      "odds": "7/2",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:45",
+      "meeting": "Punchestown",
+      "horse": "The Ducks Walk",
+      "odds": "7/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:45",
+      "meeting": "Punchestown",
+      "horse": "Tudorista",
+      "odds": "5/1",
+      "apps": [
+        "G"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 12,
+    "settled": 12,
+    "won": 7,
+    "placed": 3,
+    "lost": 2,
+    "pending": 0
+  },
+  "staked": 17.87,
+  "returned": 38.86,
+  "bank": {
+    "start": 67.65,
+    "end": 88.64,
+    "next_stake": 0.89,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}

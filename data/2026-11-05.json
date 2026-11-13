@@ -1,0 +1,348 @@
+{
+  "date": "2026-11-05",
+  "generated": "2026-11-13T20:31:40+00:00",
+  "races": [
+    {
+      "time": "15:28",
+      "meeting": "Southwell",
+      "picks": [
+        {
+          "horse": "Orangesandlemons",
+          "stars": 3,
+          "odds": "10/1",
+          "apps": [
+            "J",
+            "S"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": null,
+          "pos": 11,
+          "res": "LOSE",
+          "stake": 1.11,
+          "ret": 0.0,
+          "bank_after": 54.25
+        }
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "time": "12:42",
+      "meeting": "Newbury",
+      "horse": "Non Stop",
+      "odds": "16/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:08",
+      "meeting": "Plumpton",
+      "horse": "Sweet Caryline",
+      "odds": "3/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:25",
+      "meeting": "Clonmel",
+      "horse": "Don't Hold Back",
+      "odds": "10/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:34",
+      "meeting": "Newcastle",
+      "horse": "Freshers Week",
+      "odds": "16/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:43",
+      "meeting": "Plumpton",
+      "horse": "Jenny France",
+      "odds": "11/10",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "13:57",
+      "meeting": "Chelmsford City",
+      "horse": "Lapidarist",
+      "odds": "12/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:20",
+      "meeting": "Southwell",
+      "horse": "Ten Cuidado",
+      "odds": "5/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:25",
+      "meeting": "Newbury",
+      "horse": "Moon Chime",
+      "odds": "10/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:30",
+      "meeting": "Chelmsford City",
+      "horse": "Makes Me Wonder",
+      "odds": "8/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:47",
+      "meeting": "Plumpton",
+      "horse": "Central Command",
+      "odds": "11/8",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:47",
+      "meeting": "Plumpton",
+      "horse": "Nicolai",
+      "odds": "66/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "14:53",
+      "meeting": "Southwell",
+      "horse": "Prince Of Calypso",
+      "odds": "12/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:05",
+      "meeting": "Chelmsford City",
+      "horse": "Wild Orchid",
+      "odds": "4/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:22",
+      "meeting": "Plumpton",
+      "horse": "Bel Ombre",
+      "odds": "11/10",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:28",
+      "meeting": "Southwell",
+      "horse": "Alessia Fernanda",
+      "odds": "11/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:28",
+      "meeting": "Southwell",
+      "horse": "Benacre",
+      "odds": "20/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "15:55",
+      "meeting": "Plumpton",
+      "horse": "Stroll On By",
+      "odds": "13/2",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:00",
+      "meeting": "Southwell",
+      "horse": "Rogue Inferno",
+      "odds": "25/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:15",
+      "meeting": "Chelmsford City",
+      "horse": "Hitched",
+      "odds": "20/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:30",
+      "meeting": "Southwell",
+      "horse": "Forbidden Colours",
+      "odds": "11/2",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "16:45",
+      "meeting": "Chelmsford City",
+      "horse": "Berkshire Dream",
+      "odds": "20/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Southwell",
+      "horse": "North Star Kodi",
+      "odds": "12/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Southwell",
+      "horse": "Get On That Baby",
+      "odds": "15/2",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:00",
+      "meeting": "Southwell",
+      "horse": "Ventura Power",
+      "odds": "25/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "17:30",
+      "meeting": "Southwell",
+      "horse": "Alanka",
+      "odds": "20/1",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:15",
+      "meeting": "Chelmsford City",
+      "horse": "Dark Side Thunder",
+      "odds": "4/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:15",
+      "meeting": "Chelmsford City",
+      "horse": "Far Too Fizzy",
+      "odds": "9/2",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "horse": "Ormolulu",
+      "odds": "8/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "horse": "Stanley Spencer",
+      "odds": "10/1",
+      "apps": [
+        "S"
+      ],
+      "why": "solo — no medal, score <100"
+    },
+    {
+      "time": "18:30",
+      "meeting": "Southwell",
+      "horse": "Prince Of Pillo",
+      "odds": "5/2",
+      "apps": [
+        "J"
+      ],
+      "why": "solo — no medal, score <100"
+    }
+  ],
+  "score": {
+    "bets": 1,
+    "settled": 1,
+    "won": 0,
+    "placed": 0,
+    "lost": 1,
+    "pending": 0
+  },
+  "staked": 1.11,
+  "returned": 0.0,
+  "bank": {
+    "start": 55.36,
+    "end": 54.25,
+    "next_stake": 0.54,
+    "season_start": 10.0,
+    "season_end": 107.53
+  }
+}
