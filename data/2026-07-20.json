@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "15:30",
@@ -24,88 +24,6 @@
           "bank_after": 24.11
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "14:30",
-      "meeting": "Ayr",
-      "horse": "Jordan Electrics",
-      "odds": "11/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:30",
-      "meeting": "Ayr",
-      "horse": "Lord Roxby",
-      "odds": "7/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:30",
-      "meeting": "Ayr",
-      "horse": "Dandy Magic",
-      "odds": "8/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:00",
-      "meeting": "Ayr",
-      "horse": "Runninsonofagun",
-      "odds": "9/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:00",
-      "meeting": "Ayr",
-      "horse": "Hale End",
-      "odds": "9/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:00",
-      "meeting": "Ayr",
-      "horse": "Krissy",
-      "odds": "13/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:30",
-      "meeting": "Ayr",
-      "horse": "Phantom Shadow",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:30",
-      "meeting": "Ayr",
-      "horse": "Sophiesticate",
-      "odds": "10/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

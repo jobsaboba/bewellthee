@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "13:15",
@@ -24,88 +24,6 @@
           "bank_after": 24.6
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "13:15",
-      "meeting": "Hamilton",
-      "horse": "Wee Mary",
-      "odds": "10/3",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:15",
-      "meeting": "Hamilton",
-      "horse": "Great Profit",
-      "odds": "9/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:15",
-      "meeting": "Chepstow",
-      "horse": "Norham",
-      "odds": "18/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:15",
-      "meeting": "Chepstow",
-      "horse": "Amber Ocean",
-      "odds": "5/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:15",
-      "meeting": "Chepstow",
-      "horse": "Blondie Larry",
-      "odds": "5/6",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:25",
-      "meeting": "Chepstow",
-      "horse": "Autumn Angel",
-      "odds": "7/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:25",
-      "meeting": "Chepstow",
-      "horse": "Ajrad",
-      "odds": "11/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:25",
-      "meeting": "Chepstow",
-      "horse": "Ravenglass",
-      "odds": "13/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

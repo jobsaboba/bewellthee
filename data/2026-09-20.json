@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "14:00",
@@ -24,118 +24,6 @@
           "bank_after": 29.28
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "14:00",
-      "meeting": "Hamilton",
-      "horse": "Fear And Fast",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:00",
-      "meeting": "Hamilton",
-      "horse": "Royal Duke",
-      "odds": "11/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:30",
-      "meeting": "Hamilton",
-      "horse": "Iris Dancer",
-      "odds": "16/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:30",
-      "meeting": "Hamilton",
-      "horse": "Thunderstorm Katie",
-      "odds": "3/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:30",
-      "meeting": "Hamilton",
-      "horse": "Persian Spirit",
-      "odds": "3/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:00",
-      "meeting": "Hamilton",
-      "horse": "Maximising",
-      "odds": "3/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:00",
-      "meeting": "Hamilton",
-      "horse": "Good Morning Alex",
-      "odds": "22/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:00",
-      "meeting": "Hamilton",
-      "horse": "Monoceros",
-      "odds": "4/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:30",
-      "meeting": "Hamilton",
-      "horse": "Motawaared",
-      "odds": "7/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:30",
-      "meeting": "Hamilton",
-      "horse": "Empirestateofmind",
-      "odds": "85/40",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:30",
-      "meeting": "Hamilton",
-      "horse": "Tee Aitch Aye",
-      "odds": "4/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

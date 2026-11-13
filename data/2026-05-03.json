@@ -1,6 +1,6 @@
 {
   "date": "2026-05-03",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "15:25",
@@ -24,118 +24,6 @@
           "bank_after": 14.78
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "14:53",
-      "meeting": "Hamilton",
-      "horse": "Polygram",
-      "odds": "11/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:53",
-      "meeting": "Hamilton",
-      "horse": "Native Instinct",
-      "odds": "2/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:53",
-      "meeting": "Hamilton",
-      "horse": "Izzari",
-      "odds": "10/3",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:25",
-      "meeting": "Hamilton",
-      "horse": "Ellie's De Vega",
-      "odds": "5/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:25",
-      "meeting": "Hamilton",
-      "horse": "Simba's Pride",
-      "odds": "15/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:00",
-      "meeting": "Hamilton",
-      "horse": "Mount Ruapehu",
-      "odds": "7/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:00",
-      "meeting": "Hamilton",
-      "horse": "Sir Benedict",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:00",
-      "meeting": "Hamilton",
-      "horse": "Hi Lord",
-      "odds": "13/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:35",
-      "meeting": "Hamilton",
-      "horse": "Alpine Sierra",
-      "odds": "6/5",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:35",
-      "meeting": "Hamilton",
-      "horse": "Newport",
-      "odds": "10/3",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:35",
-      "meeting": "Hamilton",
-      "horse": "Jaminoz",
-      "odds": "22/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

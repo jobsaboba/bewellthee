@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "12:50",
@@ -24,118 +24,6 @@
           "bank_after": 20.37
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "12:50",
-      "meeting": "Chepstow",
-      "horse": "Louie The Legend",
-      "odds": "9/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "12:50",
-      "meeting": "Chepstow",
-      "horse": "Tiger Beetle",
-      "odds": "17/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:20",
-      "meeting": "Chepstow",
-      "horse": "Little She",
-      "odds": "4/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:20",
-      "meeting": "Chepstow",
-      "horse": "Artavian",
-      "odds": "4/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:20",
-      "meeting": "Chepstow",
-      "horse": "San Francisco Bay",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:05",
-      "meeting": "Chepstow",
-      "horse": "Dinah Myte",
-      "odds": "5/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:05",
-      "meeting": "Chepstow",
-      "horse": "Ajrad",
-      "odds": "5/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:05",
-      "meeting": "Chepstow",
-      "horse": "Scenario",
-      "odds": "15/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:35",
-      "meeting": "Chepstow",
-      "horse": "Racing Demon",
-      "odds": "10/3",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:35",
-      "meeting": "Chepstow",
-      "horse": "Desert Charm",
-      "odds": "7/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:35",
-      "meeting": "Chepstow",
-      "horse": "Homeland",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

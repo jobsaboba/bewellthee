@@ -1,6 +1,6 @@
 {
   "date": "2026-04-22",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "12:40",
@@ -46,78 +46,6 @@
           "bank_after": 12.6
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "12:40",
-      "meeting": "Perth",
-      "horse": "Newbrook Diamond",
-      "odds": "11/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "12:40",
-      "meeting": "Perth",
-      "horse": "Expensive Emotion",
-      "odds": "25/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:40",
-      "meeting": "Perth",
-      "horse": "Jeteye",
-      "odds": "6/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:40",
-      "meeting": "Perth",
-      "horse": "Suspected",
-      "odds": "15/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:12",
-      "meeting": "Perth",
-      "horse": "Kells Priory",
-      "odds": "5/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:12",
-      "meeting": "Perth",
-      "horse": "Maillot Blanc",
-      "odds": "13/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:12",
-      "meeting": "Perth",
-      "horse": "Roi Du Roume",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

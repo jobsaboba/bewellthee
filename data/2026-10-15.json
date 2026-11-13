@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "11:55",
@@ -137,98 +137,6 @@
           "bank_after": 45.76
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "11:55",
-      "meeting": "Perth",
-      "horse": "Fearless Dragon",
-      "odds": "12/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "12:55",
-      "meeting": "Perth",
-      "horse": "Nikolavs Otto",
-      "odds": "5/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:05",
-      "meeting": "Perth",
-      "horse": "Marty Mcfly",
-      "odds": "18/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:05",
-      "meeting": "Perth",
-      "horse": "She's Notjoeking",
-      "odds": "12/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:40",
-      "meeting": "Perth",
-      "horse": "Tanking Along",
-      "odds": "4/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:30",
-      "meeting": "Southwell",
-      "horse": "Pride Eye",
-      "odds": "11/2",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "17:00",
-      "meeting": "Southwell",
-      "horse": "Turbo Command",
-      "odds": "14/1",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "17:30",
-      "meeting": "Southwell",
-      "horse": "Mickey Mongoose",
-      "odds": "9/1",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "18:30",
-      "meeting": "Southwell",
-      "horse": "Hunky Dory",
-      "odds": "28/1",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "14:20",
@@ -67,98 +67,6 @@
           "bank_after": 27.18
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "14:20",
-      "meeting": "Perth",
-      "horse": "Nobotheratall",
-      "odds": "12/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:20",
-      "meeting": "Perth",
-      "horse": "Try Them",
-      "odds": "5/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:20",
-      "meeting": "Perth",
-      "horse": "Lets Mingle",
-      "odds": "17/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:20",
-      "meeting": "Perth",
-      "horse": "Follow Charlie",
-      "odds": "3/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:50",
-      "meeting": "Perth",
-      "horse": "Down Around",
-      "odds": "7/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:50",
-      "meeting": "Perth",
-      "horse": "C'mon So",
-      "odds": "4/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "18:30",
-      "meeting": "Wolverhampton",
-      "horse": "Zipwire",
-      "odds": "14/1",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "19:00",
-      "meeting": "Wolverhampton",
-      "horse": "Helm Rock",
-      "odds": "10/1",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "19:30",
-      "meeting": "Wolverhampton",
-      "horse": "General Assembly",
-      "odds": "15/2",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

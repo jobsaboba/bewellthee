@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "14:00",
@@ -70,98 +70,6 @@
           "bank_after": 23.2
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "13:30",
-      "meeting": "Ayr",
-      "horse": "Brazen Idol",
-      "odds": "10/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:30",
-      "meeting": "Ayr",
-      "horse": "Our Absent Friends",
-      "odds": "12/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:30",
-      "meeting": "Ayr",
-      "horse": "Woohoo",
-      "odds": "2/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:00",
-      "meeting": "Ayr",
-      "horse": "Azuinthejungle",
-      "odds": "7/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:00",
-      "meeting": "Ayr",
-      "horse": "Taygar",
-      "odds": "4/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:30",
-      "meeting": "Ayr",
-      "horse": "Eagles Dream",
-      "odds": "28/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:30",
-      "meeting": "Ayr",
-      "horse": "Starliner",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:00",
-      "meeting": "Ayr",
-      "horse": "Tap Dancer",
-      "odds": "13/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:00",
-      "meeting": "Ayr",
-      "horse": "Monhammer",
-      "odds": "12/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

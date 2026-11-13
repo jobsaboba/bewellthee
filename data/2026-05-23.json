@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "12:50",
@@ -69,98 +69,6 @@
           "bank_after": 16.98
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "12:50",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Double Indemnity",
-      "odds": "4/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "12:50",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Chambers",
-      "odds": "20/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:00",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Orange Diamond",
-      "odds": "11/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:00",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Crystal Glance",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:45",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Camshaft",
-      "odds": "10/3",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:45",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Victoria Milano",
-      "odds": "4/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:45",
-      "meeting": "Bangor-on-Dee",
-      "horse": "La Cantate",
-      "odds": "6/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:20",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Magnifix Du Moulin",
-      "odds": "10/3",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:20",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Liberty Leader",
-      "odds": "28/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

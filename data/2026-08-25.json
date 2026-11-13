@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "13:15",
@@ -24,128 +24,6 @@
           "bank_after": 27.74
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "13:15",
-      "meeting": "Musselburgh",
-      "horse": "Inns And Out",
-      "odds": "7/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:15",
-      "meeting": "Musselburgh",
-      "horse": "Wild Orchid",
-      "odds": "11/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:15",
-      "meeting": "Musselburgh",
-      "horse": "Amber Hamur",
-      "odds": "6/5",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:15",
-      "meeting": "Musselburgh",
-      "horse": "Only Dream Big",
-      "odds": "7/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:15",
-      "meeting": "Musselburgh",
-      "horse": "Trucial Pearl",
-      "odds": "13/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:45",
-      "meeting": "Musselburgh",
-      "horse": "Vaguely Royal",
-      "odds": "4/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:45",
-      "meeting": "Musselburgh",
-      "horse": "Trojan Sun",
-      "odds": "8/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:45",
-      "meeting": "Musselburgh",
-      "horse": "Gallus Norman",
-      "odds": "14/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:15",
-      "meeting": "Musselburgh",
-      "horse": "Coconut Bay",
-      "odds": "5/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:15",
-      "meeting": "Musselburgh",
-      "horse": "Edmond Halley",
-      "odds": "2/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:15",
-      "meeting": "Musselburgh",
-      "horse": "Novak",
-      "odds": "7/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:02",
-      "meeting": "Lingfield",
-      "horse": "Backer Bilk",
-      "odds": "10/1",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

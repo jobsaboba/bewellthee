@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "18:36",
@@ -24,38 +24,6 @@
           "bank_after": 23.69
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "18:36",
-      "meeting": "Chepstow",
-      "horse": "Galactic Glow",
-      "odds": "7/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "18:36",
-      "meeting": "Chepstow",
-      "horse": "Denby's Dream",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "19:55",
-      "meeting": "Kempton",
-      "horse": "Opening Bat",
-      "odds": "9/1",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

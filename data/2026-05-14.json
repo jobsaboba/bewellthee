@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "16:28",
@@ -39,48 +39,6 @@
           "bank_after": 16.21
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "12:58",
-      "meeting": "Perth",
-      "horse": "Lexington Wood",
-      "odds": "4/7",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "12:58",
-      "meeting": "Perth",
-      "horse": "Hawthorn Road",
-      "odds": "66/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "12:58",
-      "meeting": "Perth",
-      "horse": "Way Maker",
-      "odds": "16/5",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:28",
-      "meeting": "Perth",
-      "horse": "Saint Cunning",
-      "odds": "5/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

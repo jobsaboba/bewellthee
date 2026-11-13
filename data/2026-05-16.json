@@ -1,6 +1,6 @@
 {
   "date": "2026-05-16",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "13:45",
@@ -24,118 +24,6 @@
           "bank_after": 17.01
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "13:10",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Saint Jeannais",
-      "odds": "6/5",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:10",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Anxious Moments",
-      "odds": "80/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:10",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Mr Mojo Risin",
-      "odds": "1/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:45",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Mr Mahler",
-      "odds": "4/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:45",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Greer Hill",
-      "odds": "10/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:20",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Diamonds Galore",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:20",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Fasol",
-      "odds": "9/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:20",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Fromheretoeternity",
-      "odds": "10/3",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:30",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Slaney Opera",
-      "odds": "16/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:30",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Special John",
-      "odds": "3/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:30",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Cahier's Den",
-      "odds": "7/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

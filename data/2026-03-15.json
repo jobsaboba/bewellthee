@@ -1,6 +1,6 @@
 {
   "date": "2026-03-15",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "14:10",
@@ -23,118 +23,6 @@
           "bank_after": 11.92
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "14:10",
-      "meeting": "Chepstow",
-      "horse": "Eremenko",
-      "odds": "4/6",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:10",
-      "meeting": "Chepstow",
-      "horse": "Camshaft",
-      "odds": "50/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:20",
-      "meeting": "Chepstow",
-      "horse": "Call Me Arthur",
-      "odds": "10/3",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:20",
-      "meeting": "Chepstow",
-      "horse": "Express Surprise",
-      "odds": "11/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:20",
-      "meeting": "Chepstow",
-      "horse": "The Big Reveal",
-      "odds": "7/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:55",
-      "meeting": "Chepstow",
-      "horse": "Analiese",
-      "odds": "7/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:55",
-      "meeting": "Chepstow",
-      "horse": "Rula Bula",
-      "odds": "9/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:55",
-      "meeting": "Chepstow",
-      "horse": "Flying Fortune",
-      "odds": "14/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "17:40",
-      "meeting": "Chepstow",
-      "horse": "Cool Customer",
-      "odds": "2/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "17:40",
-      "meeting": "Chepstow",
-      "horse": "Snufflepot",
-      "odds": "12/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "17:40",
-      "meeting": "Chepstow",
-      "horse": "L'aurige",
-      "odds": "6/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

@@ -1,6 +1,6 @@
 {
   "date": "2026-06-07",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "15:27",
@@ -61,98 +61,6 @@
           "bank_after": 19.59
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "13:42",
-      "meeting": "Perth",
-      "horse": "Allibaba",
-      "odds": "5/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:42",
-      "meeting": "Perth",
-      "horse": "Betteryouthanme",
-      "odds": "5/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:42",
-      "meeting": "Perth",
-      "horse": "Morandi Second",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:17",
-      "meeting": "Perth",
-      "horse": "Cosmic Soul",
-      "odds": "10/3",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:17",
-      "meeting": "Perth",
-      "horse": "Ravenscraig Castle",
-      "odds": "7/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:17",
-      "meeting": "Perth",
-      "horse": "Scots Poet",
-      "odds": "4/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:27",
-      "meeting": "Perth",
-      "horse": "Statuario",
-      "odds": "11/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:37",
-      "meeting": "Perth",
-      "horse": "Stiletto",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:37",
-      "meeting": "Perth",
-      "horse": "Luminaries",
-      "odds": "50/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

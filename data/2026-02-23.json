@@ -1,6 +1,6 @@
 {
   "date": "2026-02-23",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "16:00",
@@ -24,98 +24,6 @@
           "bank_after": 12.14
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "16:00",
-      "meeting": "Ayr",
-      "horse": "Balking",
-      "odds": "25/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:00",
-      "meeting": "Ayr",
-      "horse": "The Jeweller's Pet",
-      "odds": "7/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:25",
-      "meeting": "Wolverhampton",
-      "horse": "Twilight Madness",
-      "odds": "13/2",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:25",
-      "meeting": "Wolverhampton",
-      "horse": "Woodhay Whisper",
-      "odds": "8/1",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:25",
-      "meeting": "Wolverhampton",
-      "horse": "Midnight Call",
-      "odds": "11/1",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "18:00",
-      "meeting": "Wolverhampton",
-      "horse": "River Wharfe",
-      "odds": "5/1",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "18:00",
-      "meeting": "Wolverhampton",
-      "horse": "Von Krolock",
-      "odds": "11/2",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "18:00",
-      "meeting": "Wolverhampton",
-      "horse": "Porfin",
-      "odds": "10/1",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "18:30",
-      "meeting": "Wolverhampton",
-      "horse": "Fistral Beach",
-      "odds": "10/3",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

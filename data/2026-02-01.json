@@ -1,6 +1,6 @@
 {
   "date": "2026-02-01",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "14:30",
@@ -45,78 +45,6 @@
           "bank_after": 11.39
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "14:30",
-      "meeting": "Musselburgh",
-      "horse": "The G Wizard",
-      "odds": "10/3",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:30",
-      "meeting": "Musselburgh",
-      "horse": "Summergrounds",
-      "odds": "10/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:40",
-      "meeting": "Musselburgh",
-      "horse": "Double Powerful",
-      "odds": "10/3",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:40",
-      "meeting": "Musselburgh",
-      "horse": "Ahoy Senor",
-      "odds": "28/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:15",
-      "meeting": "Musselburgh",
-      "horse": "Take Chance",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:15",
-      "meeting": "Musselburgh",
-      "horse": "Dearkeithandkaty",
-      "odds": "10/3",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:15",
-      "meeting": "Musselburgh",
-      "horse": "Dunnet Head",
-      "odds": "20/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

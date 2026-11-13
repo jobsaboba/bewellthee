@@ -1,6 +1,6 @@
 {
   "date": "2026-03-16",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "16:30",
@@ -24,78 +24,6 @@
           "bank_after": 11.68
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "16:00",
-      "meeting": "Ffos Las",
-      "horse": "Loughderg Rocco",
-      "odds": "12/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:00",
-      "meeting": "Ffos Las",
-      "horse": "Alfie's Princess",
-      "odds": "6/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:00",
-      "meeting": "Ffos Las",
-      "horse": "Big City Roller",
-      "odds": "17/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:30",
-      "meeting": "Ffos Las",
-      "horse": "Up To Trix",
-      "odds": "5/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:30",
-      "meeting": "Ffos Las",
-      "horse": "Jukebox Fury",
-      "odds": "5/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "19:30",
-      "meeting": "Wolverhampton",
-      "horse": "Mumayaz",
-      "odds": "9/2",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "19:30",
-      "meeting": "Wolverhampton",
-      "horse": "Twilight Madness",
-      "odds": "9/1",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

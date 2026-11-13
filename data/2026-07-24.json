@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "16:52",
@@ -24,88 +24,6 @@
           "bank_after": 23.63
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "16:52",
-      "meeting": "Chepstow",
-      "horse": "Dissenter",
-      "odds": "15/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:52",
-      "meeting": "Chepstow",
-      "horse": "Beechwood Glory",
-      "odds": "11/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "18:36",
-      "meeting": "Chepstow",
-      "horse": "Prince Ali",
-      "odds": "11/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "18:36",
-      "meeting": "Chepstow",
-      "horse": "Knightmare",
-      "odds": "9/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "18:36",
-      "meeting": "Chepstow",
-      "horse": "Judge Frank",
-      "odds": "11/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "19:46",
-      "meeting": "Chepstow",
-      "horse": "Midnight Media",
-      "odds": "3/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "19:46",
-      "meeting": "Chepstow",
-      "horse": "Crimson Road",
-      "odds": "4/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "19:46",
-      "meeting": "Chepstow",
-      "horse": "City Escape",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

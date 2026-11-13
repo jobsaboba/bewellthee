@@ -1,6 +1,6 @@
 {
   "date": "2026-03-31",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "13:45",
@@ -46,128 +46,6 @@
           "bank_after": 12.72
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "13:45",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Escort'kheops",
-      "odds": "11/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:45",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Parliamo",
-      "odds": "6/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:50",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Nativehill",
-      "odds": "20/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:50",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Busty Boy",
-      "odds": "5/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:20",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Three Zambezi's",
-      "odds": "5/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:20",
-      "meeting": "Bangor-on-Dee",
-      "horse": "Subtle Fortune",
-      "odds": "8/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:20",
-      "meeting": "Bangor-on-Dee",
-      "horse": "The Scorpion King",
-      "odds": "15/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "17:30",
-      "meeting": "Wolverhampton",
-      "horse": "Giorgio M",
-      "odds": "15/2",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "17:30",
-      "meeting": "Wolverhampton",
-      "horse": "Habrdi",
-      "odds": "17/2",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "17:30",
-      "meeting": "Wolverhampton",
-      "horse": "Al Muqdad",
-      "odds": "10/1",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "18:00",
-      "meeting": "Wolverhampton",
-      "horse": "Marinakis",
-      "odds": "12/1",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "19:00",
-      "meeting": "Wolverhampton",
-      "horse": "Knight Of Magic",
-      "odds": "15/2",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

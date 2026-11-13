@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "13:28",
@@ -46,78 +46,6 @@
           "bank_after": 17.55
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "13:28",
-      "meeting": "Kelso",
-      "horse": "Chemistry",
-      "odds": "4/9",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:28",
-      "meeting": "Kelso",
-      "horse": "Terino",
-      "odds": "66/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:37",
-      "meeting": "Kelso",
-      "horse": "Vanilla Dancer",
-      "odds": "11/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:37",
-      "meeting": "Kelso",
-      "horse": "Travis Wheatley",
-      "odds": "7/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:37",
-      "meeting": "Kelso",
-      "horse": "Heart Above",
-      "odds": "13/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:22",
-      "meeting": "Kelso",
-      "horse": "Ip Up",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "16:22",
-      "meeting": "Kelso",
-      "horse": "Scots Poet",
-      "odds": "3/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

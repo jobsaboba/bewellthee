@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "15:38",
@@ -55,88 +55,6 @@
           "bank_after": 45.01
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "12:45",
-      "meeting": "Ffos Las",
-      "horse": "Roi Du Roume",
-      "odds": "7/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "12:45",
-      "meeting": "Ffos Las",
-      "horse": "Tell The Tale",
-      "odds": "3/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "12:45",
-      "meeting": "Ffos Las",
-      "horse": "Wannabe",
-      "odds": "4/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:55",
-      "meeting": "Ffos Las",
-      "horse": "Guard Your Dreams",
-      "odds": "10/3",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:55",
-      "meeting": "Ffos Las",
-      "horse": "The Boola Boss",
-      "odds": "5/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:55",
-      "meeting": "Ffos Las",
-      "horse": "Nocte Volatus",
-      "odds": "15/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "17:00",
-      "meeting": "Kempton",
-      "horse": "Bold Suitor",
-      "odds": "22/1",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "18:00",
-      "meeting": "Kempton",
-      "horse": "Chalk Mountain",
-      "odds": "4/1",
-      "apps": [
-        "S"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

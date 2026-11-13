@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "14:12",
@@ -24,118 +24,6 @@
           "bank_after": 44.13
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "13:02",
-      "meeting": "Chepstow",
-      "horse": "Ugo Bingo",
-      "odds": "6/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:02",
-      "meeting": "Chepstow",
-      "horse": "Makinbecon",
-      "odds": "13/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "13:02",
-      "meeting": "Chepstow",
-      "horse": "Sweet Honey B",
-      "odds": "11/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:12",
-      "meeting": "Chepstow",
-      "horse": "Bound For Glory",
-      "odds": "4/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:12",
-      "meeting": "Chepstow",
-      "horse": "Shengai Enki",
-      "odds": "40/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:47",
-      "meeting": "Chepstow",
-      "horse": "Leader Crik",
-      "odds": "7/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:47",
-      "meeting": "Chepstow",
-      "horse": "Jalisco Star",
-      "odds": "10/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "14:47",
-      "meeting": "Chepstow",
-      "horse": "Matty's Getaway",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:22",
-      "meeting": "Chepstow",
-      "horse": "Welsh Charger",
-      "odds": "3/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:22",
-      "meeting": "Chepstow",
-      "horse": "Stream Of Stars",
-      "odds": "4/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "15:22",
-      "meeting": "Chepstow",
-      "horse": "Glengouly",
-      "odds": "22/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {

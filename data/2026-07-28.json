@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated": "2026-11-13T20:31:40+00:00",
+  "generated": "2026-11-13T20:52:35+00:00",
   "races": [
     {
       "time": "17:00",
@@ -24,88 +24,6 @@
           "bank_after": 25.0
         }
       ]
-    }
-  ],
-  "skipped": [
-    {
-      "time": "17:00",
-      "meeting": "Ffos Las",
-      "horse": "Jazzy Bay",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "17:00",
-      "meeting": "Ffos Las",
-      "horse": "Cutlass",
-      "odds": "9/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "19:00",
-      "meeting": "Ffos Las",
-      "horse": "Zaraquelle",
-      "odds": "15/8",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "19:00",
-      "meeting": "Ffos Las",
-      "horse": "Pureis King",
-      "odds": "15/8",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "19:00",
-      "meeting": "Ffos Las",
-      "horse": "Just Adair",
-      "odds": "7/2",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "19:30",
-      "meeting": "Ffos Las",
-      "horse": "Legendsoftheland",
-      "odds": "15/8",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "19:30",
-      "meeting": "Ffos Las",
-      "horse": "Macarone",
-      "odds": "7/1",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
-    },
-    {
-      "time": "19:30",
-      "meeting": "Ffos Las",
-      "horse": "Diamondsinthesand",
-      "odds": "11/4",
-      "apps": [
-        "G"
-      ],
-      "why": "solo — no medal, score <100"
     }
   ],
   "score": {
