@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated": "2026-11-14T06:35:02+00:00",
+  "generated": "2026-11-14T13:00:48+00:00",
   "races": [
     {
       "time": "13:00",
@@ -226,23 +226,6 @@
       "meeting": "Dundalk",
       "picks": [
         {
-          "horse": "Eastern Peace",
-          "stars": 5,
-          "odds": "4/1",
-          "apps": [
-            "G",
-            "S"
-          ],
-          "napps": 2,
-          "reason": "medal",
-          "score": 51,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 2.59,
-          "ret": 0.0,
-          "bank_after": 127.13
-        },
-        {
           "horse": "Speckled Meadow",
           "stars": 4,
           "odds": "8/1",
@@ -257,26 +240,26 @@
           "res": "LOSE",
           "stake": 2.59,
           "ret": 0.0,
-          "bank_after": 124.54
+          "bank_after": 127.13
         }
       ]
     }
   ],
   "score": {
-    "bets": 12,
-    "settled": 12,
+    "bets": 11,
+    "settled": 11,
     "won": 4,
     "placed": 3,
-    "lost": 5,
+    "lost": 4,
     "pending": 0
   },
-  "staked": 32.31,
+  "staked": 29.72,
   "returned": 41.99,
   "bank": {
     "start": 114.86,
-    "end": 124.54,
-    "next_stake": 1.25,
+    "end": 127.13,
+    "next_stake": 1.27,
     "season_start": 10.0,
-    "season_end": 104.3
+    "season_end": 102.27
   }
 }

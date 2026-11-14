@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "generated": "2026-11-14T06:35:02+00:00",
+  "generated": "2026-11-14T13:00:48+00:00",
   "races": [
     {
       "time": "11:43",
@@ -19,9 +19,9 @@
           "score": 44.510000000000005,
           "pos": 4,
           "res": "LOSE",
-          "stake": 2.49,
+          "stake": 2.54,
           "ret": 0.0,
-          "bank_after": 122.05
+          "bank_after": 124.59
         }
       ]
     },
@@ -41,9 +41,9 @@
           "score": 212.32,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.22,
+          "stake": 1.25,
           "ret": 0.0,
-          "bank_after": 120.83
+          "bank_after": 123.34
         },
         {
           "horse": "Northern Olympian",
@@ -57,9 +57,9 @@
           "score": 137.51,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.22,
-          "ret": 4.88,
-          "bank_after": 124.49
+          "stake": 1.25,
+          "ret": 5.0,
+          "bank_after": 127.09
         },
         {
           "horse": "Yafaarr",
@@ -74,9 +74,9 @@
           "score": 76.0,
           "pos": 8,
           "res": "LOSE",
-          "stake": 2.44,
+          "stake": 2.49,
           "ret": 0.0,
-          "bank_after": 122.05
+          "bank_after": 124.6
         }
       ]
     },
@@ -96,9 +96,9 @@
           "score": 164.74,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.22,
+          "stake": 1.25,
           "ret": 0.0,
-          "bank_after": 120.83
+          "bank_after": 123.35
         },
         {
           "horse": "Supreme Force",
@@ -113,9 +113,9 @@
           "score": 100.27,
           "pos": 2,
           "res": "PLACE",
-          "stake": 2.44,
+          "stake": 2.49,
           "ret": 0.0,
-          "bank_after": 118.39
+          "bank_after": 120.86
         }
       ]
     },
@@ -135,9 +135,9 @@
           "score": 130.51999999999998,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.18,
-          "ret": 2.25,
-          "bank_after": 119.46
+          "stake": 1.21,
+          "ret": 2.31,
+          "bank_after": 121.96
         },
         {
           "horse": "Thetype Istitle",
@@ -152,9 +152,9 @@
           "score": 75.0,
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.37,
+          "stake": 2.42,
           "ret": 0.0,
-          "bank_after": 117.09
+          "bank_after": 119.54
         }
       ]
     },
@@ -174,9 +174,9 @@
           "score": 105.45,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.17,
-          "ret": 2.92,
-          "bank_after": 118.84
+          "stake": 1.2,
+          "ret": 3.0,
+          "bank_after": 121.34
         }
       ]
     },
@@ -197,9 +197,9 @@
           "score": 72.02,
           "pos": 1,
           "res": "WIN",
-          "stake": 2.38,
-          "ret": 5.65,
-          "bank_after": 122.11
+          "stake": 2.43,
+          "ret": 5.77,
+          "bank_after": 124.68
         }
       ]
     },
@@ -219,9 +219,9 @@
           "score": 153.51,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.22,
+          "stake": 1.25,
           "ret": 0.0,
-          "bank_after": 120.89
+          "bank_after": 123.43
         },
         {
           "horse": "Seasmoke",
@@ -235,9 +235,9 @@
           "score": 122.32,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.22,
+          "stake": 1.25,
           "ret": 0.0,
-          "bank_after": 119.67
+          "bank_after": 122.18
         }
       ]
     }
@@ -250,13 +250,13 @@
     "lost": 5,
     "pending": 0
   },
-  "staked": 20.57,
-  "returned": 15.7,
+  "staked": 21.03,
+  "returned": 16.08,
   "bank": {
-    "start": 124.54,
-    "end": 119.67,
-    "next_stake": 1.2,
+    "start": 127.13,
+    "end": 122.18,
+    "next_stake": 1.22,
     "season_start": 10.0,
-    "season_end": 104.3
+    "season_end": 102.27
   }
 }
