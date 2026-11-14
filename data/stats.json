@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T14:00:40+00:00",
+  "generated": "2026-11-14T14:30:40+00:00",
   "plan": {
     "name": "Bewellthee plan",
     "rules": [
@@ -17,15 +17,15 @@
   },
   "season": {
     "start": 10.0,
-    "end": 99.21,
+    "end": 98.71,
     "bets": 348,
-    "settled": 316,
-    "staked": 235.46,
-    "returned": 324.67,
-    "roi": 37.9,
-    "win_rate": 41,
-    "won": 128,
-    "placed": 85,
+    "settled": 319,
+    "staked": 239.42,
+    "returned": 328.13,
+    "roi": 37.1,
+    "win_rate": 40,
+    "won": 129,
+    "placed": 87,
     "lost": 103
   },
   "monthly": {
@@ -39,7 +39,7 @@
     "2026-08": 2.19,
     "2026-09": -0.33,
     "2026-10": 19.54,
-    "2026-11": 52.81
+    "2026-11": 52.31
   },
   "tables": {
     "combined": [
@@ -55,11 +55,11 @@
       {
         "key": "2/1–3/1",
         "n": 535,
-        "settled": 506,
-        "win%": 33,
+        "settled": 509,
+        "win%": 34,
         "place%": 33,
         "wp%": 67,
-        "roi": -0.9
+        "roi": -0.1
       },
       {
         "key": "20/1+",
@@ -73,20 +73,20 @@
       {
         "key": "3/1–6/1",
         "n": 1652,
-        "settled": 1576,
+        "settled": 1578,
         "win%": 20,
         "place%": 29,
         "wp%": 49,
-        "roi": -2.5
+        "roi": -2.2
       },
       {
         "key": "6/1–11/1",
         "n": 1008,
-        "settled": 922,
+        "settled": 924,
         "win%": 13,
         "place%": 24,
         "wp%": 37,
-        "roi": 13.9
+        "roi": 13.6
       },
       {
         "key": "odds-on/evs",
@@ -150,11 +150,11 @@
         {
           "key": "2/1–3/1",
           "n": 495,
-          "settled": 470,
-          "win%": 32,
+          "settled": 473,
+          "win%": 33,
           "place%": 35,
           "wp%": 67,
-          "roi": -3.5
+          "roi": -2.7
         },
         {
           "key": "20/1+",
@@ -168,20 +168,20 @@
         {
           "key": "3/1–6/1",
           "n": 870,
-          "settled": 823,
+          "settled": 824,
           "win%": 22,
           "place%": 29,
           "wp%": 52,
-          "roi": 11.3
+          "roi": 11.2
         },
         {
           "key": "6/1–11/1",
           "n": 386,
-          "settled": 345,
+          "settled": 347,
           "win%": 18,
           "place%": 23,
           "wp%": 41,
-          "roi": 50.0
+          "roi": 49.1
         },
         {
           "key": "odds-on/evs",
@@ -224,20 +224,20 @@
         {
           "key": "3/1–6/1",
           "n": 67,
-          "settled": 46,
-          "win%": 28,
+          "settled": 47,
+          "win%": 30,
           "place%": 28,
           "wp%": 57,
-          "roi": 34.8
+          "roi": 45.7
         },
         {
           "key": "6/1–11/1",
           "n": 74,
-          "settled": 32,
-          "win%": 19,
-          "place%": 12,
-          "wp%": 31,
-          "roi": 46.9
+          "settled": 33,
+          "win%": 18,
+          "place%": 15,
+          "wp%": 33,
+          "roi": 42.4
         },
         {
           "key": "odds-on/evs",
@@ -318,11 +318,11 @@
         {
           "key": "2/1–3/1",
           "n": 535,
-          "settled": 506,
-          "win%": 33,
+          "settled": 509,
+          "win%": 34,
           "place%": 33,
           "wp%": 67,
-          "roi": -0.9
+          "roi": -0.1
         },
         {
           "key": "20/1+",
@@ -336,20 +336,20 @@
         {
           "key": "3/1–6/1",
           "n": 1652,
-          "settled": 1576,
+          "settled": 1578,
           "win%": 20,
           "place%": 29,
           "wp%": 49,
-          "roi": -2.5
+          "roi": -2.2
         },
         {
           "key": "6/1–11/1",
           "n": 1008,
-          "settled": 922,
+          "settled": 924,
           "win%": 13,
           "place%": 24,
           "wp%": 37,
-          "roi": 13.9
+          "roi": 13.6
         },
         {
           "key": "odds-on/evs",
@@ -366,20 +366,20 @@
       {
         "key": "1 apps",
         "n": 4079,
-        "settled": 3709,
+        "settled": 3715,
         "win%": 17,
         "place%": 26,
         "wp%": 42,
-        "roi": 6.5
+        "roi": 6.7
       },
       {
         "key": "2 apps",
         "n": 172,
-        "settled": 153,
+        "settled": 154,
         "win%": 42,
-        "place%": 25,
+        "place%": 26,
         "wp%": 68,
-        "roi": 62.7
+        "roi": 61.7
       },
       {
         "key": "3 apps",
@@ -404,11 +404,11 @@
       {
         "key": "2/1–3/1",
         "n": 99,
-        "settled": 87,
+        "settled": 88,
         "win%": 53,
         "place%": 25,
         "wp%": 78,
-        "roi": 56.2
+        "roi": 58.4
       },
       {
         "key": "20/1+",
@@ -422,20 +422,20 @@
       {
         "key": "3/1–6/1",
         "n": 74,
-        "settled": 65,
-        "win%": 31,
-        "place%": 22,
-        "wp%": 52,
-        "roi": 48.2
+        "settled": 66,
+        "win%": 30,
+        "place%": 23,
+        "wp%": 53,
+        "roi": 46.0
       },
       {
         "key": "6/1–11/1",
         "n": 30,
-        "settled": 26,
+        "settled": 27,
         "win%": 19,
-        "place%": 27,
-        "wp%": 46,
-        "roi": 65.4
+        "place%": 30,
+        "wp%": 48,
+        "roi": 59.3
       },
       {
         "key": "odds-on/evs",
@@ -460,11 +460,11 @@
       {
         "key": "2/1–3/1",
         "n": 136,
-        "settled": 124,
+        "settled": 125,
         "win%": 50,
         "place%": 28,
         "wp%": 78,
-        "roi": 46.8
+        "roi": 48.4
       },
       {
         "key": "20/1+",
@@ -478,20 +478,20 @@
       {
         "key": "3/1–6/1",
         "n": 100,
-        "settled": 89,
+        "settled": 90,
         "win%": 29,
-        "place%": 27,
-        "wp%": 56,
-        "roi": 41.6
+        "place%": 28,
+        "wp%": 57,
+        "roi": 40.0
       },
       {
         "key": "6/1–11/1",
         "n": 47,
-        "settled": 42,
-        "win%": 17,
-        "place%": 24,
-        "wp%": 40,
-        "roi": 38.1
+        "settled": 43,
+        "win%": 16,
+        "place%": 26,
+        "wp%": 42,
+        "roi": 34.9
       },
       {
         "key": "odds-on/evs",
@@ -516,20 +516,20 @@
       {
         "key": "banker ≥100",
         "n": 179,
-        "settled": 158,
+        "settled": 160,
         "win%": 36,
         "place%": 30,
         "wp%": 66,
-        "roi": 81.0
+        "roi": 80.9
       },
       {
         "key": "medal",
         "n": 157,
-        "settled": 146,
+        "settled": 147,
         "win%": 44,
-        "place%": 26,
+        "place%": 27,
         "wp%": 70,
-        "roi": 35.6
+        "roi": 34.7
       }
     ]
   },
