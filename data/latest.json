@@ -1,44 +1,127 @@
 {
-  "date": "2026-11-13",
-  "generated": "2026-11-13T22:30:30+00:00",
+  "date": "2026-11-14",
+  "generated": "2026-11-14T06:35:02+00:00",
   "races": [
     {
-      "time": "12:20",
-      "meeting": "Southwell",
+      "time": "11:52",
+      "meeting": "Navan",
       "picks": [
         {
-          "horse": "Golly Gosh",
-          "stars": 5,
-          "odds": "8/11",
+          "horse": "The Irish Avatar",
+          "stars": 4,
+          "odds": "9/4",
           "apps": [
-            "D",
             "G"
           ],
-          "napps": 2,
-          "reason": "medal",
-          "score": 136.69,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 2.39,
-          "ret": 4.13,
-          "bank_after": 121.41
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 275.54,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
         },
         {
-          "horse": "Walkinthepresent",
+          "horse": "Charismatic Kid",
+          "stars": 5,
+          "odds": "10/11",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 149.51,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
+        }
+      ]
+    },
+    {
+      "time": "12:07",
+      "meeting": "Uttoxeter",
+      "picks": [
+        {
+          "horse": "Back In The Bay",
           "stars": 3,
-          "odds": "10/1",
+          "odds": "8/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 103.1,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
+        }
+      ]
+    },
+    {
+      "time": "12:20",
+      "meeting": "Windsor",
+      "picks": [
+        {
+          "horse": "Ti'mamzel",
+          "stars": 5,
+          "odds": "10/11",
+          "apps": [
+            "D",
+            "G",
+            "J"
+          ],
+          "napps": 3,
+          "reason": "3-app medal",
+          "score": 127.23,
+          "pos": 0,
+          "res": null,
+          "stake": 3.13,
+          "ret": null,
+          "bank_after": 104.3
+        },
+        {
+          "horse": "Jem's Lilly",
+          "stars": 4,
+          "odds": "2/1",
           "apps": [
             "G",
             "J"
           ],
           "napps": 2,
           "reason": "medal",
-          "score": 62.739999999999995,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 2.39,
-          "ret": 0.0,
-          "bank_after": 119.02
+          "score": 42.0,
+          "pos": 0,
+          "res": null,
+          "stake": 2.09,
+          "ret": null,
+          "bank_after": 104.3
+        }
+      ]
+    },
+    {
+      "time": "12:42",
+      "meeting": "Uttoxeter",
+      "picks": [
+        {
+          "horse": "Spanish Darling",
+          "stars": 5,
+          "odds": "4/9",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 106.75,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
         }
       ]
     },
@@ -47,52 +130,246 @@
       "meeting": "Cheltenham",
       "picks": [
         {
-          "horse": "Outmaster",
-          "stars": 4,
-          "odds": "7/1",
+          "horse": "Mix Match",
+          "stars": 3,
+          "odds": "10/1",
           "apps": [
-            "G"
+            "G",
+            "J"
           ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 126.0,
-          "pos": 18,
-          "res": "LOSE",
-          "stake": 1.19,
-          "ret": 0.0,
-          "bank_after": 117.83
+          "napps": 2,
+          "reason": "medal",
+          "score": 254.11,
+          "pos": 0,
+          "res": null,
+          "stake": 2.09,
+          "ret": null,
+          "bank_after": 104.3
         },
         {
-          "horse": "High Fibre",
-          "stars": 4,
-          "odds": "7/2",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 101.99000000000001,
-          "pos": 4,
-          "res": "PLACE",
-          "stake": 1.19,
-          "ret": 0.0,
-          "bank_after": 116.64
-        },
-        {
-          "horse": "Glancing Jack",
+          "horse": "Charles Darnay",
           "stars": 5,
-          "odds": "7/4",
+          "odds": "13/8",
           "apps": [
             "G"
           ],
           "napps": 1,
           "reason": "banker ≥100",
-          "score": 100.27,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 1.19,
-          "ret": 0.0,
-          "bank_after": 115.45
+          "score": 189.64,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
+        },
+        {
+          "horse": "Magnetude",
+          "stars": 3,
+          "odds": "8/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 106.73,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
+        }
+      ]
+    },
+    {
+      "time": "13:25",
+      "meeting": "Windsor",
+      "picks": [
+        {
+          "horse": "Kildinan Prince",
+          "stars": 5,
+          "odds": "4/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 130.36,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
+        },
+        {
+          "horse": "Doctor On Call",
+          "stars": 4,
+          "odds": "6/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 109.08,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
+        }
+      ]
+    },
+    {
+      "time": "13:35",
+      "meeting": "Navan",
+      "picks": [
+        {
+          "horse": "City Of Cork",
+          "stars": 4,
+          "odds": "3/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 201.94,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
+        },
+        {
+          "horse": "Thinkitdontjinxit",
+          "stars": 5,
+          "odds": "2/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 109.51,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
+        }
+      ]
+    },
+    {
+      "time": "14:07",
+      "meeting": "Navan",
+      "picks": [
+        {
+          "horse": "The Yellow Clay",
+          "stars": 4,
+          "odds": "3/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 113.51,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
+        }
+      ]
+    },
+    {
+      "time": "14:20",
+      "meeting": "Cheltenham",
+      "picks": [
+        {
+          "horse": "Torneo",
+          "stars": 3,
+          "odds": "8/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 177.11,
+          "pos": 0,
+          "res": null,
+          "stake": 2.09,
+          "ret": null,
+          "bank_after": 104.3
+        },
+        {
+          "horse": "Meetmebythesea",
+          "stars": 4,
+          "odds": "5/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 161.54,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
+        },
+        {
+          "horse": "Blueking D'oroux",
+          "stars": 5,
+          "odds": "4/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 128.26,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
+        }
+      ]
+    },
+    {
+      "time": "14:35",
+      "meeting": "Windsor",
+      "picks": [
+        {
+          "horse": "King Califet",
+          "stars": 5,
+          "odds": "2/1",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 135.36,
+          "pos": 0,
+          "res": null,
+          "stake": 2.09,
+          "ret": null,
+          "bank_after": 104.3
+        },
+        {
+          "horse": "Le Galli Bier",
+          "stars": 3,
+          "odds": "5/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 50.230000000000004,
+          "pos": 0,
+          "res": null,
+          "stake": 2.09,
+          "ret": null,
+          "bank_after": 104.3
         }
       ]
     },
@@ -101,24 +378,7 @@
       "meeting": "Cheltenham",
       "picks": [
         {
-          "horse": "Ga Law",
-          "stars": 3,
-          "odds": "6/1",
-          "apps": [
-            "G",
-            "J"
-          ],
-          "napps": 2,
-          "reason": "medal",
-          "score": 135.95,
-          "pos": 6,
-          "res": "LOSE",
-          "stake": 2.31,
-          "ret": 0.0,
-          "bank_after": 113.14
-        },
-        {
-          "horse": "Thunder Rock",
+          "horse": "Ace Of Spades",
           "stars": 4,
           "odds": "4/1",
           "apps": [
@@ -126,35 +386,66 @@
           ],
           "napps": 1,
           "reason": "banker ≥100",
-          "score": 105.11,
-          "pos": 1,
-          "res": "WIN",
-          "stake": 1.15,
-          "ret": 5.75,
-          "bank_after": 117.74
+          "score": 141.26,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
+        },
+        {
+          "horse": "Gold For Alec",
+          "stars": 3,
+          "odds": "5/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 102.81,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
         }
       ]
     },
     {
-      "time": "15:15",
-      "meeting": "Southwell",
+      "time": "15:18",
+      "meeting": "Navan",
       "picks": [
         {
-          "horse": "Promethean",
+          "horse": "Saint Baco",
           "stars": 4,
-          "odds": "10/1",
+          "odds": "7/2",
           "apps": [
-            "G",
-            "J"
+            "G"
           ],
-          "napps": 2,
-          "reason": "medal",
-          "score": 43.57,
-          "pos": 2,
-          "res": "PLACE",
-          "stake": 2.35,
-          "ret": 0.0,
-          "bank_after": 115.39
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 256.54,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
+        },
+        {
+          "horse": "Mighty Park",
+          "stars": 5,
+          "odds": "5/6",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 178.13,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
         }
       ]
     },
@@ -163,7 +454,7 @@
       "meeting": "Cheltenham",
       "picks": [
         {
-          "horse": "Ferocimo",
+          "horse": "Daylatedollarshort",
           "stars": 4,
           "odds": "11/4",
           "apps": [
@@ -171,82 +462,15 @@
           ],
           "napps": 1,
           "reason": "banker ≥100",
-          "score": 152.48000000000002,
-          "pos": 3,
-          "res": "PLACE",
-          "stake": 1.15,
-          "ret": 0.0,
-          "bank_after": 114.24
+          "score": 120.23,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
         },
         {
-          "horse": "Woodstock Octo",
-          "stars": 3,
-          "odds": "6/1",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 125.9,
-          "pos": 5,
-          "res": "LOSE",
-          "stake": 1.15,
-          "ret": 0.0,
-          "bank_after": 113.09
-        }
-      ]
-    },
-    {
-      "time": "16:00",
-      "meeting": "Cheltenham",
-      "picks": [
-        {
-          "horse": "Crooked Path",
-          "stars": 3,
-          "odds": "9/2",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 125.4,
-          "pos": 4,
-          "res": "PLACE",
-          "stake": 1.13,
-          "ret": 0.0,
-          "bank_after": 111.96
-        }
-      ]
-    },
-    {
-      "time": "18:00",
-      "meeting": "Dundalk",
-      "picks": [
-        {
-          "horse": "Sir Les Patterson",
-          "stars": 3,
-          "odds": "5/1",
-          "apps": [
-            "G",
-            "S"
-          ],
-          "napps": 2,
-          "reason": "medal",
-          "score": 77.81,
-          "pos": 4,
-          "res": "LOSE",
-          "stake": 2.24,
-          "ret": 0.0,
-          "bank_after": 109.72
-        }
-      ]
-    },
-    {
-      "time": "19:00",
-      "meeting": "Dundalk",
-      "picks": [
-        {
-          "horse": "Magna Gee Gee",
+          "horse": "Seamoon Story",
           "stars": 3,
           "odds": "10/1",
           "apps": [
@@ -255,52 +479,134 @@
           ],
           "napps": 2,
           "reason": "medal",
-          "score": 118.25,
-          "pos": 7,
-          "res": "LOSE",
-          "stake": 2.19,
-          "ret": 0.0,
-          "bank_after": 107.53
+          "score": 71.0,
+          "pos": 0,
+          "res": null,
+          "stake": 2.09,
+          "ret": null,
+          "bank_after": 104.3
         }
       ]
     },
     {
-      "time": "20:30",
-      "meeting": "Dundalk",
+      "time": "15:35",
+      "meeting": "Uttoxeter",
       "picks": [
         {
-          "horse": "Mothel Abbey",
-          "stars": 2,
-          "odds": "25/1",
+          "horse": "Lady Coco",
+          "stars": 3,
+          "odds": "9/2",
           "apps": [
             "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 162.0,
+          "pos": 0,
+          "res": null,
+          "stake": 2.09,
+          "ret": null,
+          "bank_after": 104.3
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "meeting": "Windsor",
+      "picks": [
+        {
+          "horse": "New Addington Boy",
+          "stars": 5,
+          "odds": "5/1",
+          "apps": [
             "G",
             "J"
           ],
-          "napps": 3,
-          "reason": "3-app medal",
-          "score": 105.25,
-          "pos": 8,
-          "res": "LOSE",
-          "stake": 3.23,
-          "ret": 0.0,
+          "napps": 2,
+          "reason": "medal",
+          "score": 50.230000000000004,
+          "pos": 0,
+          "res": null,
+          "stake": 2.09,
+          "ret": null,
+          "bank_after": 104.3
+        }
+      ]
+    },
+    {
+      "time": "15:53",
+      "meeting": "Navan",
+      "picks": [
+        {
+          "horse": "Kanzler",
+          "stars": 4,
+          "odds": "4/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 134.93,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
+        }
+      ]
+    },
+    {
+      "time": "16:00",
+      "meeting": "Cheltenham",
+      "picks": [
+        {
+          "horse": "Eastern Whisper",
+          "stars": 3,
+          "odds": "5/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 166.54,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
+          "bank_after": 104.3
+        },
+        {
+          "horse": "Elegantemente",
+          "stars": 5,
+          "odds": "9/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 156.64,
+          "pos": 0,
+          "res": null,
+          "stake": 1.04,
+          "ret": null,
           "bank_after": 104.3
         }
       ]
     }
   ],
   "score": {
-    "bets": 14,
-    "settled": 14,
-    "won": 2,
-    "placed": 5,
-    "lost": 7,
-    "pending": 0
+    "bets": 30,
+    "settled": 0,
+    "won": 0,
+    "placed": 0,
+    "lost": 0,
+    "pending": 30
   },
-  "staked": 25.25,
-  "returned": 9.88,
+  "staked": 0,
+  "returned": 0,
   "bank": {
-    "start": 119.67,
+    "start": 104.3,
     "end": 104.3,
     "next_stake": 1.04,
     "season_start": 10.0,
