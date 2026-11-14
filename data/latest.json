@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "generated": "2026-11-14T16:00:39+00:00",
+  "generated": "2026-11-14T16:30:39+00:00",
   "races": [
     {
       "time": "11:52",
@@ -402,6 +402,28 @@
       ]
     },
     {
+      "time": "15:53",
+      "meeting": "Navan",
+      "picks": [
+        {
+          "horse": "Kanzler",
+          "stars": 4,
+          "odds": "4/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 134.93,
+          "pos": 7,
+          "res": "LOSE",
+          "stake": 0.93,
+          "ret": 0.0,
+          "bank_after": 91.98
+        }
+      ]
+    },
+    {
       "time": "16:00",
       "meeting": "Cheltenham",
       "picks": [
@@ -415,11 +437,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 166.54,
-          "pos": 0,
-          "res": null,
-          "stake": 0.93,
-          "ret": null,
-          "bank_after": 92.91
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 0.92,
+          "ret": 0.0,
+          "bank_after": 91.06
         },
         {
           "horse": "Elegantemente",
@@ -431,30 +453,30 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 156.64,
-          "pos": 0,
-          "res": null,
-          "stake": 0.93,
-          "ret": null,
-          "bank_after": 92.91
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.92,
+          "ret": 2.99,
+          "bank_after": 93.13
         }
       ]
     }
   ],
   "score": {
-    "bets": 22,
-    "settled": 15,
-    "won": 2,
-    "placed": 6,
-    "lost": 7,
-    "pending": 7
+    "bets": 23,
+    "settled": 18,
+    "won": 3,
+    "placed": 7,
+    "lost": 8,
+    "pending": 5
   },
-  "staked": 19.97,
-  "returned": 6.4,
+  "staked": 22.74,
+  "returned": 9.39,
   "bank": {
     "start": 106.48,
-    "end": 92.91,
+    "end": 93.13,
     "next_stake": 0.93,
     "season_start": 10.0,
-    "season_end": 92.91
+    "season_end": 93.13
   }
 }
