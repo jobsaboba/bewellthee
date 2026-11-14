@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "generated": "2026-11-14T13:00:48+00:00",
+  "generated": "2026-11-14T13:30:39+00:00",
   "races": [
     {
       "time": "11:52",
@@ -99,11 +99,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 189.64,
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 1.02,
-          "ret": null,
-          "bank_after": 102.27
+          "ret": 0.0,
+          "bank_after": 101.25
         },
         {
           "horse": "Magnetude",
@@ -115,11 +115,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 106.73,
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 1.02,
-          "ret": null,
-          "bank_after": 102.27
+          "ret": 0.0,
+          "bank_after": 100.23
         }
       ]
     },
@@ -139,9 +139,9 @@
           "score": 130.36,
           "pos": 0,
           "res": null,
-          "stake": 1.02,
+          "stake": 1.0,
           "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         },
         {
           "horse": "Doctor On Call",
@@ -155,9 +155,9 @@
           "score": 109.08,
           "pos": 0,
           "res": null,
-          "stake": 1.02,
+          "stake": 1.0,
           "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         }
       ]
     },
@@ -177,9 +177,9 @@
           "score": 201.94,
           "pos": 0,
           "res": null,
-          "stake": 1.02,
+          "stake": 1.0,
           "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         },
         {
           "horse": "Thinkitdontjinxit",
@@ -193,9 +193,9 @@
           "score": 109.51,
           "pos": 0,
           "res": null,
-          "stake": 1.02,
+          "stake": 1.0,
           "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         }
       ]
     },
@@ -215,9 +215,9 @@
           "score": 113.51,
           "pos": 0,
           "res": null,
-          "stake": 1.02,
+          "stake": 1.0,
           "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         }
       ]
     },
@@ -238,9 +238,9 @@
           "score": 177.11,
           "pos": 0,
           "res": null,
-          "stake": 2.05,
+          "stake": 2.0,
           "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         },
         {
           "horse": "Meetmebythesea",
@@ -254,9 +254,9 @@
           "score": 161.54,
           "pos": 0,
           "res": null,
-          "stake": 1.02,
+          "stake": 1.0,
           "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         },
         {
           "horse": "Blueking D'oroux",
@@ -270,9 +270,9 @@
           "score": 128.26,
           "pos": 0,
           "res": null,
-          "stake": 1.02,
+          "stake": 1.0,
           "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         }
       ]
     },
@@ -293,9 +293,9 @@
           "score": 135.36,
           "pos": 0,
           "res": null,
-          "stake": 2.05,
+          "stake": 2.0,
           "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         },
         {
           "horse": "Le Galli Bier",
@@ -310,47 +310,9 @@
           "score": 50.230000000000004,
           "pos": 0,
           "res": null,
-          "stake": 2.05,
+          "stake": 2.0,
           "ret": null,
-          "bank_after": 102.27
-        }
-      ]
-    },
-    {
-      "time": "15:18",
-      "meeting": "Navan",
-      "picks": [
-        {
-          "horse": "Saint Baco",
-          "stars": 4,
-          "odds": "7/2",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 256.54,
-          "pos": 0,
-          "res": null,
-          "stake": 1.02,
-          "ret": null,
-          "bank_after": 102.27
-        },
-        {
-          "horse": "Mighty Park",
-          "stars": 5,
-          "odds": "5/6",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 178.13,
-          "pos": 0,
-          "res": null,
-          "stake": 1.02,
-          "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         }
       ]
     },
@@ -370,9 +332,9 @@
           "score": 120.23,
           "pos": 0,
           "res": null,
-          "stake": 1.02,
+          "stake": 1.0,
           "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         },
         {
           "horse": "Seamoon Story",
@@ -387,9 +349,9 @@
           "score": 71.0,
           "pos": 0,
           "res": null,
-          "stake": 2.05,
+          "stake": 2.0,
           "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         }
       ]
     },
@@ -410,9 +372,9 @@
           "score": 162.0,
           "pos": 0,
           "res": null,
-          "stake": 2.05,
+          "stake": 2.0,
           "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         }
       ]
     },
@@ -433,9 +395,9 @@
           "score": 50.230000000000004,
           "pos": 0,
           "res": null,
-          "stake": 2.05,
+          "stake": 2.0,
           "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         }
       ]
     },
@@ -455,9 +417,9 @@
           "score": 134.93,
           "pos": 0,
           "res": null,
-          "stake": 1.02,
+          "stake": 1.0,
           "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         }
       ]
     },
@@ -477,9 +439,9 @@
           "score": 166.54,
           "pos": 0,
           "res": null,
-          "stake": 1.02,
+          "stake": 1.0,
           "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         },
         {
           "horse": "Elegantemente",
@@ -493,28 +455,28 @@
           "score": 156.64,
           "pos": 0,
           "res": null,
-          "stake": 1.02,
+          "stake": 1.0,
           "ret": null,
-          "bank_after": 102.27
+          "bank_after": 100.23
         }
       ]
     }
   ],
   "score": {
-    "bets": 25,
-    "settled": 3,
+    "bets": 23,
+    "settled": 5,
     "won": 0,
-    "placed": 2,
-    "lost": 1,
-    "pending": 22
+    "placed": 3,
+    "lost": 2,
+    "pending": 18
   },
-  "staked": 4.21,
+  "staked": 6.25,
   "returned": 0.0,
   "bank": {
     "start": 106.48,
-    "end": 102.27,
-    "next_stake": 1.02,
+    "end": 100.23,
+    "next_stake": 1.0,
     "season_start": 10.0,
-    "season_end": 102.27
+    "season_end": 100.23
   }
 }
