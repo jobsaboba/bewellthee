@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated": "2026-11-15T05:35:02+00:00",
+  "generated": "2026-11-15T05:49:38+00:00",
   "races": [
     {
       "time": "12:20",
@@ -19,9 +19,9 @@
           "score": 136.69,
           "pos": 1,
           "res": "WIN",
-          "stake": 2.44,
-          "ret": 4.21,
-          "bank_after": 123.95
+          "stake": 2.49,
+          "ret": 4.3,
+          "bank_after": 126.55
         },
         {
           "horse": "Walkinthepresent",
@@ -36,9 +36,9 @@
           "score": 62.739999999999995,
           "pos": 6,
           "res": "LOSE",
-          "stake": 2.44,
+          "stake": 2.49,
           "ret": 0.0,
-          "bank_after": 121.51
+          "bank_after": 124.06
         }
       ]
     },
@@ -58,9 +58,9 @@
           "score": 126.0,
           "pos": 18,
           "res": "LOSE",
-          "stake": 1.22,
+          "stake": 1.24,
           "ret": 0.0,
-          "bank_after": 120.29
+          "bank_after": 122.82
         },
         {
           "horse": "High Fibre",
@@ -74,9 +74,9 @@
           "score": 101.99000000000001,
           "pos": 4,
           "res": "PLACE",
-          "stake": 1.22,
+          "stake": 1.24,
           "ret": 0.0,
-          "bank_after": 119.07
+          "bank_after": 121.58
         },
         {
           "horse": "Glancing Jack",
@@ -90,9 +90,9 @@
           "score": 100.27,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.22,
+          "stake": 1.24,
           "ret": 0.0,
-          "bank_after": 117.85
+          "bank_after": 120.34
         }
       ]
     },
@@ -113,9 +113,9 @@
           "score": 135.95,
           "pos": 6,
           "res": "LOSE",
-          "stake": 2.36,
+          "stake": 2.41,
           "ret": 0.0,
-          "bank_after": 115.49
+          "bank_after": 117.93
         },
         {
           "horse": "Thunder Rock",
@@ -129,9 +129,9 @@
           "score": 105.11,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.18,
-          "ret": 5.9,
-          "bank_after": 120.21
+          "stake": 1.2,
+          "ret": 6.0,
+          "bank_after": 122.73
         }
       ]
     },
@@ -152,9 +152,9 @@
           "score": 43.57,
           "pos": 2,
           "res": "PLACE",
-          "stake": 2.4,
+          "stake": 2.45,
           "ret": 0.0,
-          "bank_after": 117.81
+          "bank_after": 120.28
         }
       ]
     },
@@ -174,9 +174,9 @@
           "score": 152.48000000000002,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.18,
+          "stake": 1.2,
           "ret": 0.0,
-          "bank_after": 116.63
+          "bank_after": 119.08
         },
         {
           "horse": "Woodstock Octo",
@@ -190,9 +190,9 @@
           "score": 125.9,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.18,
+          "stake": 1.2,
           "ret": 0.0,
-          "bank_after": 115.45
+          "bank_after": 117.88
         }
       ]
     },
@@ -212,9 +212,9 @@
           "score": 125.4,
           "pos": 4,
           "res": "PLACE",
-          "stake": 1.15,
+          "stake": 1.18,
           "ret": 0.0,
-          "bank_after": 114.3
+          "bank_after": 116.7
         }
       ]
     },
@@ -235,9 +235,9 @@
           "score": 118.25,
           "pos": 7,
           "res": "LOSE",
-          "stake": 2.29,
+          "stake": 2.33,
           "ret": 0.0,
-          "bank_after": 112.01
+          "bank_after": 114.37
         }
       ]
     },
@@ -258,9 +258,9 @@
           "score": 71.28999999999999,
           "pos": 7,
           "res": "LOSE",
-          "stake": 2.24,
+          "stake": 2.29,
           "ret": 0.0,
-          "bank_after": 109.77
+          "bank_after": 112.08
         }
       ]
     },
@@ -282,9 +282,9 @@
           "score": 105.25,
           "pos": 8,
           "res": "LOSE",
-          "stake": 3.29,
+          "stake": 3.36,
           "ret": 0.0,
-          "bank_after": 106.48
+          "bank_after": 108.72
         }
       ]
     }
@@ -297,13 +297,13 @@
     "lost": 7,
     "pending": 0
   },
-  "staked": 25.81,
-  "returned": 10.11,
+  "staked": 26.32,
+  "returned": 10.3,
   "bank": {
-    "start": 122.18,
-    "end": 106.48,
-    "next_stake": 1.06,
+    "start": 124.74,
+    "end": 108.72,
+    "next_stake": 1.09,
     "season_start": 10.0,
-    "season_end": 90.33
+    "season_end": 92.21
   }
 }

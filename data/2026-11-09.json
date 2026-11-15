@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "generated": "2026-11-15T05:35:02+00:00",
+  "generated": "2026-11-15T05:49:38+00:00",
   "races": [
     {
       "time": "12:00",
@@ -19,9 +19,9 @@
           "score": 54,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.35,
-          "ret": 7.43,
-          "bank_after": 73.73
+          "stake": 1.38,
+          "ret": 7.59,
+          "bank_after": 75.29
         }
       ]
     },
@@ -42,9 +42,9 @@
           "score": 140.07999999999998,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.47,
+          "stake": 1.51,
           "ret": 0.0,
-          "bank_after": 72.26
+          "bank_after": 73.78
         }
       ]
     },
@@ -65,9 +65,9 @@
           "score": 161.6,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.45,
-          "ret": 4.71,
-          "bank_after": 75.52
+          "stake": 1.48,
+          "ret": 4.81,
+          "bank_after": 77.11
         }
       ]
     },
@@ -88,9 +88,9 @@
           "score": 162.78,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.51,
-          "ret": 2.32,
-          "bank_after": 76.33
+          "stake": 1.54,
+          "ret": 2.36,
+          "bank_after": 77.93
         }
       ]
     },
@@ -111,9 +111,9 @@
           "score": 58,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.53,
-          "ret": 3.63,
-          "bank_after": 78.43
+          "stake": 1.56,
+          "ret": 3.71,
+          "bank_after": 80.08
         },
         {
           "horse": "Blissful Bonita",
@@ -128,9 +128,9 @@
           "score": 27,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.53,
+          "stake": 1.56,
           "ret": 0.0,
-          "bank_after": 76.9
+          "bank_after": 78.52
         }
       ]
     },
@@ -150,9 +150,9 @@
           "score": 119.78,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.77,
+          "stake": 0.79,
           "ret": 0.0,
-          "bank_after": 76.13
+          "bank_after": 77.73
         },
         {
           "horse": "Sunshine Diamond",
@@ -167,9 +167,9 @@
           "score": 103.23,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.54,
+          "stake": 1.57,
           "ret": 0.0,
-          "bank_after": 74.59
+          "bank_after": 76.16
         }
       ]
     },
@@ -190,9 +190,9 @@
           "score": 108,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.49,
-          "ret": 8.94,
-          "bank_after": 82.04
+          "stake": 1.52,
+          "ret": 9.12,
+          "bank_after": 83.76
         }
       ]
     },
@@ -212,9 +212,9 @@
           "score": 121.38,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.82,
-          "ret": 6.97,
-          "bank_after": 88.19
+          "stake": 0.84,
+          "ret": 7.14,
+          "bank_after": 90.06
         }
       ]
     },
@@ -236,9 +236,9 @@
           "score": 266.65,
           "pos": 1,
           "res": "WIN",
-          "stake": 2.65,
-          "ret": 4.86,
-          "bank_after": 90.4
+          "stake": 2.7,
+          "ret": 4.95,
+          "bank_after": 92.31
         },
         {
           "horse": "Belle Noire",
@@ -253,9 +253,9 @@
           "score": 84.08,
           "pos": 8,
           "res": "LOSE",
-          "stake": 1.76,
+          "stake": 1.8,
           "ret": 0.0,
-          "bank_after": 88.64
+          "bank_after": 90.51
         }
       ]
     }
@@ -268,13 +268,13 @@
     "lost": 2,
     "pending": 0
   },
-  "staked": 17.87,
-  "returned": 38.86,
+  "staked": 18.25,
+  "returned": 39.68,
   "bank": {
-    "start": 67.65,
-    "end": 88.64,
-    "next_stake": 0.89,
+    "start": 69.08,
+    "end": 90.51,
+    "next_stake": 0.91,
     "season_start": 10.0,
-    "season_end": 90.33
+    "season_end": 92.21
   }
 }

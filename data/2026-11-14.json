@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "generated": "2026-11-15T05:35:02+00:00",
+  "generated": "2026-11-15T05:49:38+00:00",
   "races": [
     {
       "time": "11:52",
@@ -18,9 +18,9 @@
           "score": 275.54,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.06,
+          "stake": 1.09,
           "ret": 0.0,
-          "bank_after": 105.42
+          "bank_after": 107.63
         },
         {
           "horse": "Charismatic Kid",
@@ -34,9 +34,9 @@
           "score": 149.51,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.06,
+          "stake": 1.09,
           "ret": 0.0,
-          "bank_after": 104.36
+          "bank_after": 106.54
         }
       ]
     },
@@ -57,9 +57,9 @@
           "score": 42.0,
           "pos": 2,
           "res": "PLACE",
-          "stake": 2.09,
+          "stake": 2.13,
           "ret": 0.0,
-          "bank_after": 102.27
+          "bank_after": 104.41
         }
       ]
     },
@@ -79,9 +79,9 @@
           "score": 189.64,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.02,
+          "stake": 1.04,
           "ret": 0.0,
-          "bank_after": 101.25
+          "bank_after": 103.37
         },
         {
           "horse": "Magnetude",
@@ -95,9 +95,9 @@
           "score": 106.73,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.02,
+          "stake": 1.04,
           "ret": 0.0,
-          "bank_after": 100.23
+          "bank_after": 102.33
         }
       ]
     },
@@ -117,9 +117,9 @@
           "score": 130.36,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.0,
+          "stake": 1.02,
           "ret": 0.0,
-          "bank_after": 99.23
+          "bank_after": 101.31
         },
         {
           "horse": "Doctor On Call",
@@ -133,9 +133,9 @@
           "score": 109.08,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.0,
+          "stake": 1.02,
           "ret": 0.0,
-          "bank_after": 98.23
+          "bank_after": 100.29
         }
       ]
     },
@@ -155,9 +155,9 @@
           "score": 201.94,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.98,
+          "stake": 1.0,
           "ret": 0.0,
-          "bank_after": 97.25
+          "bank_after": 99.29
         },
         {
           "horse": "Thinkitdontjinxit",
@@ -171,9 +171,9 @@
           "score": 109.51,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.98,
-          "ret": 2.94,
-          "bank_after": 99.21
+          "stake": 1.0,
+          "ret": 3.0,
+          "bank_after": 101.29
         }
       ]
     },
@@ -194,9 +194,9 @@
           "score": 177.11,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.98,
+          "stake": 2.03,
           "ret": 0.0,
-          "bank_after": 97.23
+          "bank_after": 99.26
         },
         {
           "horse": "Meetmebythesea",
@@ -210,9 +210,9 @@
           "score": 161.54,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.99,
-          "ret": 3.46,
-          "bank_after": 99.7
+          "stake": 1.01,
+          "ret": 3.54,
+          "bank_after": 101.79
         },
         {
           "horse": "Blueking D'oroux",
@@ -226,9 +226,9 @@
           "score": 128.26,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.99,
+          "stake": 1.01,
           "ret": 0.0,
-          "bank_after": 98.71
+          "bank_after": 100.78
         }
       ]
     },
@@ -249,9 +249,9 @@
           "score": 50.230000000000004,
           "pos": 3,
           "res": "LOSE",
-          "stake": 1.97,
+          "stake": 2.02,
           "ret": 0.0,
-          "bank_after": 96.74
+          "bank_after": 98.76
         }
       ]
     },
@@ -271,9 +271,9 @@
           "score": 120.23,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.97,
+          "stake": 0.99,
           "ret": 0.0,
-          "bank_after": 95.77
+          "bank_after": 97.77
         },
         {
           "horse": "Seamoon Story",
@@ -288,9 +288,9 @@
           "score": 71.0,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.93,
+          "stake": 1.98,
           "ret": 0.0,
-          "bank_after": 93.84
+          "bank_after": 95.79
         }
       ]
     },
@@ -311,9 +311,9 @@
           "score": 162.0,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.88,
+          "stake": 1.92,
           "ret": 0.0,
-          "bank_after": 91.96
+          "bank_after": 93.87
         }
       ]
     },
@@ -334,9 +334,9 @@
           "score": 50.230000000000004,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.84,
+          "stake": 1.88,
           "ret": 0.0,
-          "bank_after": 90.12
+          "bank_after": 91.99
         }
       ]
     },
@@ -356,9 +356,9 @@
           "score": 134.93,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.9,
+          "stake": 0.92,
           "ret": 0.0,
-          "bank_after": 89.22
+          "bank_after": 91.07
         }
       ]
     },
@@ -378,9 +378,9 @@
           "score": 166.54,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.89,
+          "stake": 0.91,
           "ret": 0.0,
-          "bank_after": 88.33
+          "bank_after": 90.16
         },
         {
           "horse": "Elegantemente",
@@ -394,9 +394,9 @@
           "score": 156.64,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.89,
-          "ret": 2.89,
-          "bank_after": 90.33
+          "stake": 0.91,
+          "ret": 2.96,
+          "bank_after": 92.21
         }
       ]
     }
@@ -409,13 +409,13 @@
     "lost": 10,
     "pending": 0
   },
-  "staked": 25.44,
-  "returned": 9.29,
+  "staked": 26.01,
+  "returned": 9.5,
   "bank": {
-    "start": 106.48,
-    "end": 90.33,
-    "next_stake": 0.9,
+    "start": 108.72,
+    "end": 92.21,
+    "next_stake": 0.92,
     "season_start": 10.0,
-    "season_end": 90.33
+    "season_end": 92.21
   }
 }

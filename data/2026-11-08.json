@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "generated": "2026-11-15T05:35:02+00:00",
+  "generated": "2026-11-15T05:49:38+00:00",
   "races": [
     {
       "time": "12:30",
@@ -18,9 +18,9 @@
           "score": 113,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.54,
-          "ret": 0.68,
-          "bank_after": 53.96
+          "stake": 0.55,
+          "ret": 0.69,
+          "bank_after": 55.07
         }
       ]
     },
@@ -40,9 +40,9 @@
           "score": 108.0,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.54,
+          "stake": 0.55,
           "ret": 0.0,
-          "bank_after": 53.42
+          "bank_after": 54.52
         }
       ]
     },
@@ -62,9 +62,9 @@
           "score": 100,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.53,
-          "ret": 0.77,
-          "bank_after": 53.66
+          "stake": 0.55,
+          "ret": 0.79,
+          "bank_after": 54.76
         }
       ]
     },
@@ -85,9 +85,9 @@
           "score": 78,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.07,
-          "ret": 6.96,
-          "bank_after": 59.55
+          "stake": 1.1,
+          "ret": 7.15,
+          "bank_after": 60.81
         }
       ]
     },
@@ -107,9 +107,9 @@
           "score": 100.88,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.6,
-          "ret": 1.35,
-          "bank_after": 60.3
+          "stake": 0.61,
+          "ret": 1.37,
+          "bank_after": 61.57
         }
       ]
     },
@@ -130,9 +130,9 @@
           "score": 207.45,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.21,
-          "ret": 2.42,
-          "bank_after": 61.51
+          "stake": 1.23,
+          "ret": 2.46,
+          "bank_after": 62.8
         }
       ]
     },
@@ -152,9 +152,9 @@
           "score": 121.6,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.62,
-          "ret": 1.0,
-          "bank_after": 61.89
+          "stake": 0.63,
+          "ret": 1.02,
+          "bank_after": 63.19
         }
       ]
     },
@@ -176,9 +176,9 @@
           "score": 144.51,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.86,
-          "ret": 6.04,
-          "bank_after": 66.07
+          "stake": 1.9,
+          "ret": 6.17,
+          "bank_after": 67.46
         }
       ]
     },
@@ -199,9 +199,9 @@
           "score": 133,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.32,
-          "ret": 2.9,
-          "bank_after": 67.65
+          "stake": 1.35,
+          "ret": 2.97,
+          "bank_after": 69.08
         }
       ]
     }
@@ -214,13 +214,13 @@
     "lost": 0,
     "pending": 0
   },
-  "staked": 8.29,
-  "returned": 22.12,
+  "staked": 8.47,
+  "returned": 22.62,
   "bank": {
-    "start": 53.82,
-    "end": 67.65,
-    "next_stake": 0.68,
+    "start": 54.93,
+    "end": 69.08,
+    "next_stake": 0.69,
     "season_start": 10.0,
-    "season_end": 90.33
+    "season_end": 92.21
   }
 }

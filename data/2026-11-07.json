@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "generated": "2026-11-15T05:35:02+00:00",
+  "generated": "2026-11-15T05:49:38+00:00",
   "races": [
     {
       "time": "11:55",
@@ -19,9 +19,9 @@
           "score": 55,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.22,
+          "stake": 1.25,
           "ret": 0.0,
-          "bank_after": 59.89
+          "bank_after": 61.1
         }
       ]
     },
@@ -41,9 +41,9 @@
           "score": 108.38,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.6,
+          "stake": 0.61,
           "ret": 0.0,
-          "bank_after": 59.29
+          "bank_after": 60.49
         }
       ]
     },
@@ -64,9 +64,9 @@
           "score": 57,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.19,
+          "stake": 1.21,
           "ret": 0.0,
-          "bank_after": 58.1
+          "bank_after": 59.28
         }
       ]
     },
@@ -87,9 +87,9 @@
           "score": 93.50999999999999,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.16,
-          "ret": 3.48,
-          "bank_after": 60.42
+          "stake": 1.19,
+          "ret": 3.57,
+          "bank_after": 61.66
         }
       ]
     },
@@ -97,23 +97,6 @@
       "time": "13:55",
       "meeting": "Uttoxeter",
       "picks": [
-        {
-          "horse": "Roger Pol",
-          "stars": 3,
-          "odds": "13/2",
-          "apps": [
-            "G",
-            "J"
-          ],
-          "napps": 2,
-          "reason": "medal",
-          "score": 129.91,
-          "pos": 0,
-          "res": null,
-          "stake": 1.21,
-          "ret": null,
-          "bank_after": 60.42
-        },
         {
           "horse": "Diamond Geezer",
           "stars": 4,
@@ -127,9 +110,9 @@
           "score": 84.85,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.21,
+          "stake": 1.23,
           "ret": 0.0,
-          "bank_after": 59.21
+          "bank_after": 60.43
         }
       ]
     },
@@ -151,9 +134,9 @@
           "score": 29,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.78,
+          "stake": 1.81,
           "ret": 0.0,
-          "bank_after": 57.43
+          "bank_after": 58.62
         }
       ]
     },
@@ -174,9 +157,9 @@
           "score": 133,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.15,
-          "ret": 2.88,
-          "bank_after": 59.16
+          "stake": 1.17,
+          "ret": 2.92,
+          "bank_after": 60.37
         }
       ]
     },
@@ -197,9 +180,9 @@
           "score": 67,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.18,
+          "stake": 1.21,
           "ret": 0.0,
-          "bank_after": 57.98
+          "bank_after": 59.16
         }
       ]
     },
@@ -221,9 +204,9 @@
           "score": 172.85,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.74,
+          "stake": 1.77,
           "ret": 0.0,
-          "bank_after": 56.24
+          "bank_after": 57.39
         }
       ]
     },
@@ -244,9 +227,9 @@
           "score": 46.0,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.12,
+          "stake": 1.15,
           "ret": 0.0,
-          "bank_after": 55.12
+          "bank_after": 56.24
         }
       ]
     },
@@ -267,9 +250,9 @@
           "score": 68.8,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.1,
+          "stake": 1.12,
           "ret": 0.0,
-          "bank_after": 54.02
+          "bank_after": 55.12
         }
       ]
     },
@@ -289,9 +272,9 @@
           "score": 105,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.54,
-          "ret": 2.16,
-          "bank_after": 55.64
+          "stake": 0.55,
+          "ret": 2.2,
+          "bank_after": 56.77
         },
         {
           "horse": "Solarize",
@@ -306,9 +289,9 @@
           "score": 55,
           "pos": 4,
           "res": "PLACE",
-          "stake": 1.08,
+          "stake": 1.1,
           "ret": 0.0,
-          "bank_after": 54.56
+          "bank_after": 55.67
         }
       ]
     },
@@ -329,9 +312,9 @@
           "score": 98.5,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.09,
+          "stake": 1.11,
           "ret": 0.0,
-          "bank_after": 53.47
+          "bank_after": 54.56
         }
       ]
     },
@@ -353,9 +336,9 @@
           "score": 271.56,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.6,
-          "ret": 3.05,
-          "bank_after": 54.92
+          "stake": 1.64,
+          "ret": 3.13,
+          "bank_after": 56.05
         }
       ]
     },
@@ -376,28 +359,28 @@
           "score": 65.8,
           "pos": 8,
           "res": "LOSE",
-          "stake": 1.1,
+          "stake": 1.12,
           "ret": 0.0,
-          "bank_after": 53.82
+          "bank_after": 54.93
         }
       ]
     }
   ],
   "score": {
-    "bets": 17,
+    "bets": 16,
     "settled": 16,
     "won": 4,
     "placed": 6,
     "lost": 6,
-    "pending": 1
+    "pending": 0
   },
-  "staked": 18.86,
-  "returned": 11.57,
+  "staked": 19.24,
+  "returned": 11.82,
   "bank": {
-    "start": 61.11,
-    "end": 53.82,
-    "next_stake": 0.54,
+    "start": 62.35,
+    "end": 54.93,
+    "next_stake": 0.55,
     "season_start": 10.0,
-    "season_end": 90.33
+    "season_end": 92.21
   }
 }

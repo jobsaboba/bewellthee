@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated": "2026-11-15T05:35:02+00:00",
+  "generated": "2026-11-15T05:49:38+00:00",
   "races": [
     {
       "time": "12:30",
@@ -18,9 +18,9 @@
           "score": 111.76,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.89,
-          "ret": 36.49,
-          "bank_after": 124.24
+          "stake": 0.91,
+          "ret": 37.31,
+          "bank_after": 126.91
         }
       ]
     },
@@ -40,9 +40,9 @@
           "score": 130.99,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.24,
+          "stake": 1.27,
           "ret": 0.0,
-          "bank_after": 123.0
+          "bank_after": 125.64
         }
       ]
     },
@@ -62,9 +62,9 @@
           "score": 273.26,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.23,
-          "ret": 4.0,
-          "bank_after": 125.77
+          "stake": 1.26,
+          "ret": 4.09,
+          "bank_after": 128.47
         },
         {
           "horse": "Kel Histoire",
@@ -78,9 +78,9 @@
           "score": 137.24,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.23,
+          "stake": 1.26,
           "ret": 0.0,
-          "bank_after": 124.54
+          "bank_after": 127.21
         },
         {
           "horse": "Ballyfad",
@@ -94,9 +94,9 @@
           "score": 127.5,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.23,
+          "stake": 1.26,
           "ret": 0.0,
-          "bank_after": 123.31
+          "bank_after": 125.95
         }
       ]
     },
@@ -116,9 +116,9 @@
           "score": 127.0,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.23,
+          "stake": 1.26,
           "ret": 0.0,
-          "bank_after": 122.08
+          "bank_after": 124.69
         },
         {
           "horse": "Zaraquelle",
@@ -133,9 +133,9 @@
           "score": 72.8,
           "pos": 5,
           "res": "LOSE",
-          "stake": 2.47,
+          "stake": 2.52,
           "ret": 0.0,
-          "bank_after": 119.61
+          "bank_after": 122.17
         }
       ]
     },
@@ -155,9 +155,9 @@
           "score": 119.0,
           "pos": 8,
           "res": "LOSE",
-          "stake": 1.2,
+          "stake": 1.22,
           "ret": 0.0,
-          "bank_after": 118.41
+          "bank_after": 120.95
         },
         {
           "horse": "Everest The Brave",
@@ -172,9 +172,9 @@
           "score": 66.0,
           "pos": 2,
           "res": "PLACE",
-          "stake": 2.39,
+          "stake": 2.44,
           "ret": 0.0,
-          "bank_after": 116.02
+          "bank_after": 118.51
         }
       ]
     },
@@ -194,9 +194,9 @@
           "score": 111.0,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.16,
+          "stake": 1.19,
           "ret": 0.0,
-          "bank_after": 114.86
+          "bank_after": 117.32
         }
       ]
     },
@@ -217,9 +217,9 @@
           "score": 228.2,
           "pos": 0,
           "res": "VOID",
-          "stake": 2.3,
-          "ret": 2.3,
-          "bank_after": 114.86
+          "stake": 2.35,
+          "ret": 2.35,
+          "bank_after": 117.32
         },
         {
           "horse": "Mister Cessna",
@@ -233,9 +233,9 @@
           "score": 118.33,
           "pos": 0,
           "res": null,
-          "stake": 1.15,
+          "stake": 1.17,
           "ret": null,
-          "bank_after": 114.86
+          "bank_after": 117.32
         }
       ]
     }
@@ -248,13 +248,13 @@
     "lost": 5,
     "pending": 1
   },
-  "staked": 14.27,
-  "returned": 40.49,
+  "staked": 14.59,
+  "returned": 41.4,
   "bank": {
-    "start": 88.64,
-    "end": 114.86,
-    "next_stake": 1.15,
+    "start": 90.51,
+    "end": 117.32,
+    "next_stake": 1.17,
     "season_start": 10.0,
-    "season_end": 90.33
+    "season_end": 92.21
   }
 }
