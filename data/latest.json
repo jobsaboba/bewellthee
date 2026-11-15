@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "generated": "2026-11-15T13:30:35+00:00",
+  "generated": "2026-11-15T14:00:37+00:00",
   "races": [
     {
       "time": "12:10",
@@ -66,82 +66,6 @@
           "res": "PLACE",
           "stake": 0.89,
           "ret": 0.0,
-          "bank_after": 87.67
-        }
-      ]
-    },
-    {
-      "time": "13:43",
-      "meeting": "Fontwell",
-      "picks": [
-        {
-          "horse": "Alcaraz",
-          "stars": 2,
-          "odds": "50/1",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 102.0,
-          "pos": 0,
-          "res": null,
-          "stake": 0.88,
-          "ret": null,
-          "bank_after": 87.67
-        }
-      ]
-    },
-    {
-      "time": "13:50",
-      "meeting": "Navan",
-      "picks": [
-        {
-          "horse": "Sa Fureur",
-          "stars": 3,
-          "odds": "8/1",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 141.22,
-          "pos": 0,
-          "res": null,
-          "stake": 0.88,
-          "ret": null,
-          "bank_after": 87.67
-        },
-        {
-          "horse": "Sequoiaspirit",
-          "stars": 2,
-          "odds": "33/1",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 137.33,
-          "pos": 0,
-          "res": null,
-          "stake": 0.88,
-          "ret": null,
-          "bank_after": 87.67
-        },
-        {
-          "horse": "You Make Me Smile",
-          "stars": 3,
-          "odds": "10/1",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 126.86,
-          "pos": 0,
-          "res": null,
-          "stake": 0.88,
-          "ret": null,
           "bank_after": 87.67
         }
       ]
@@ -300,28 +224,6 @@
       ]
     },
     {
-      "time": "14:50",
-      "meeting": "Fontwell",
-      "picks": [
-        {
-          "horse": "Bertie Wooster",
-          "stars": 3,
-          "odds": "10/1",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 116.22,
-          "pos": 0,
-          "res": null,
-          "stake": 0.88,
-          "ret": null,
-          "bank_after": 87.67
-        }
-      ]
-    },
-    {
       "time": "15:00",
       "meeting": "Navan",
       "picks": [
@@ -471,12 +373,12 @@
     }
   ],
   "score": {
-    "bets": 24,
+    "bets": 19,
     "settled": 3,
     "won": 0,
     "placed": 2,
     "lost": 1,
-    "pending": 21
+    "pending": 16
   },
   "staked": 4.54,
   "returned": 0.0,
