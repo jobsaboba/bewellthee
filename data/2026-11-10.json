@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated": "2026-11-15T05:49:38+00:00",
+  "generated": "2026-11-15T13:01:54+00:00",
   "races": [
     {
       "time": "12:30",
@@ -199,54 +199,15 @@
           "bank_after": 117.32
         }
       ]
-    },
-    {
-      "time": "15:40",
-      "meeting": "Huntingdon",
-      "picks": [
-        {
-          "horse": "Gallivanted",
-          "stars": 5,
-          "odds": "2/1",
-          "apps": [
-            "G",
-            "J"
-          ],
-          "napps": 2,
-          "reason": "medal",
-          "score": 228.2,
-          "pos": 0,
-          "res": "VOID",
-          "stake": 2.35,
-          "ret": 2.35,
-          "bank_after": 117.32
-        },
-        {
-          "horse": "Mister Cessna",
-          "stars": 3,
-          "odds": "16/1",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 118.33,
-          "pos": 0,
-          "res": null,
-          "stake": 1.17,
-          "ret": null,
-          "bank_after": 117.32
-        }
-      ]
     }
   ],
   "score": {
-    "bets": 12,
+    "bets": 10,
     "settled": 10,
     "won": 2,
     "placed": 3,
     "lost": 5,
-    "pending": 1
+    "pending": 0
   },
   "staked": 14.59,
   "returned": 41.4,
@@ -255,6 +216,6 @@
     "end": 117.32,
     "next_stake": 1.17,
     "season_start": 10.0,
-    "season_end": 92.21
+    "season_end": 88.56
   }
 }

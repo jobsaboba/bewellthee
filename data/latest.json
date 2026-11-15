@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "generated": "2026-11-15T05:49:38+00:00",
+  "generated": "2026-11-15T13:01:54+00:00",
   "races": [
     {
       "time": "12:10",
@@ -17,11 +17,11 @@
           "napps": 2,
           "reason": "medal",
           "score": 219.6,
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 1.84,
-          "ret": null,
-          "bank_after": 92.21
+          "ret": 0.0,
+          "bank_after": 90.37
         }
       ]
     },
@@ -40,11 +40,11 @@
           "napps": 2,
           "reason": "medal",
           "score": 98.0,
-          "pos": 0,
-          "res": null,
-          "stake": 1.84,
-          "ret": null,
-          "bank_after": 92.21
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 1.81,
+          "ret": 0.0,
+          "bank_after": 88.56
         }
       ]
     },
@@ -64,9 +64,9 @@
           "score": 150.3,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         },
         {
           "horse": "Mask Of Zorro",
@@ -80,31 +80,9 @@
           "score": 130.22,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
-        }
-      ]
-    },
-    {
-      "time": "13:25",
-      "meeting": "Cheltenham",
-      "picks": [
-        {
-          "horse": "Crystal Island",
-          "stars": 5,
-          "odds": "5/2",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 100.75999999999999,
-          "pos": 0,
-          "res": null,
-          "stake": 0.92,
-          "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         }
       ]
     },
@@ -124,9 +102,9 @@
           "score": 102.0,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         }
       ]
     },
@@ -146,9 +124,9 @@
           "score": 141.22,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         },
         {
           "horse": "Sequoiaspirit",
@@ -162,9 +140,9 @@
           "score": 137.33,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         },
         {
           "horse": "You Make Me Smile",
@@ -178,9 +156,9 @@
           "score": 126.86,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         }
       ]
     },
@@ -200,9 +178,9 @@
           "score": 150.65,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         },
         {
           "horse": "Highlands Legacy",
@@ -216,9 +194,9 @@
           "score": 123.45,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         },
         {
           "horse": "Classic Maestro",
@@ -232,9 +210,9 @@
           "score": 119.28999999999999,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         }
       ]
     },
@@ -255,9 +233,9 @@
           "score": 106.05,
           "pos": 0,
           "res": null,
-          "stake": 1.84,
+          "stake": 1.77,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         }
       ]
     },
@@ -277,9 +255,9 @@
           "score": 146.64,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         },
         {
           "horse": "Hens Tooth",
@@ -293,25 +271,9 @@
           "score": 145.46,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
-        },
-        {
-          "horse": "Espresso Milan",
-          "stars": 3,
-          "odds": "5/1",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 125.24000000000001,
-          "pos": 0,
-          "res": null,
-          "stake": 0.92,
-          "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         }
       ]
     },
@@ -319,22 +281,6 @@
       "time": "14:35",
       "meeting": "Cheltenham",
       "picks": [
-        {
-          "horse": "Havaila",
-          "stars": 5,
-          "odds": "3/1",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 165.52,
-          "pos": 0,
-          "res": null,
-          "stake": 0.92,
-          "ret": null,
-          "bank_after": 92.21
-        },
         {
           "horse": "Holokea",
           "stars": 3,
@@ -347,9 +293,9 @@
           "score": 141.62,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         },
         {
           "horse": "Resplendent Grey",
@@ -363,9 +309,9 @@
           "score": 125.85,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         }
       ]
     },
@@ -385,9 +331,9 @@
           "score": 116.22,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         }
       ]
     },
@@ -407,9 +353,9 @@
           "score": 169.22,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         },
         {
           "horse": "Sportinthepark",
@@ -424,9 +370,9 @@
           "score": 116.65,
           "pos": 0,
           "res": null,
-          "stake": 1.84,
+          "stake": 1.77,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         },
         {
           "horse": "Intense Raffles",
@@ -440,9 +386,9 @@
           "score": 109.65,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         }
       ]
     },
@@ -462,9 +408,9 @@
           "score": 171.91,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         },
         {
           "horse": "Let It Rain",
@@ -478,9 +424,9 @@
           "score": 132.65,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         },
         {
           "horse": "Iberico Lord",
@@ -494,9 +440,9 @@
           "score": 116.76,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         }
       ]
     },
@@ -517,9 +463,9 @@
           "score": 178.11,
           "pos": 0,
           "res": null,
-          "stake": 1.84,
+          "stake": 1.77,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         },
         {
           "horse": "New Grange",
@@ -533,28 +479,28 @@
           "score": 133.54,
           "pos": 0,
           "res": null,
-          "stake": 0.92,
+          "stake": 0.89,
           "ret": null,
-          "bank_after": 92.21
+          "bank_after": 88.56
         }
       ]
     }
   ],
   "score": {
-    "bets": 28,
-    "settled": 0,
+    "bets": 25,
+    "settled": 2,
     "won": 0,
-    "placed": 0,
-    "lost": 0,
-    "pending": 28
+    "placed": 1,
+    "lost": 1,
+    "pending": 23
   },
-  "staked": 0,
-  "returned": 0,
+  "staked": 3.65,
+  "returned": 0.0,
   "bank": {
     "start": 92.21,
-    "end": 92.21,
-    "next_stake": 0.92,
+    "end": 88.56,
+    "next_stake": 0.89,
     "season_start": 10.0,
-    "season_end": 92.21
+    "season_end": 88.56
   }
 }

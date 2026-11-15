@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "generated": "2026-11-15T05:49:38+00:00",
+  "generated": "2026-11-15T13:01:54+00:00",
   "races": [
     {
       "time": "11:52",
@@ -59,6 +59,23 @@
           "res": "PLACE",
           "stake": 2.13,
           "ret": 0.0,
+          "bank_after": 104.41
+        },
+        {
+          "horse": "Ti'mamzel",
+          "stars": 5,
+          "odds": "10/11",
+          "apps": [
+            "D",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 127.23,
+          "pos": 0,
+          "res": "NR",
+          "stake": 2.13,
+          "ret": 2.13,
           "bank_after": 104.41
         }
       ]
@@ -252,6 +269,22 @@
           "stake": 2.02,
           "ret": 0.0,
           "bank_after": 98.76
+        },
+        {
+          "horse": "King Califet",
+          "stars": 5,
+          "odds": "2/1",
+          "apps": [
+            "D"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 135.36,
+          "pos": 0,
+          "res": "?",
+          "stake": 1.01,
+          "ret": null,
+          "bank_after": 98.76
         }
       ]
     },
@@ -402,12 +435,12 @@
     }
   ],
   "score": {
-    "bets": 20,
+    "bets": 22,
     "settled": 20,
     "won": 3,
     "placed": 7,
     "lost": 10,
-    "pending": 0
+    "pending": 2
   },
   "staked": 26.01,
   "returned": 9.5,
@@ -416,6 +449,6 @@
     "end": 92.21,
     "next_stake": 0.92,
     "season_start": 10.0,
-    "season_end": 92.21
+    "season_end": 88.56
   }
 }
