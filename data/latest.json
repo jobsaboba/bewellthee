@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "generated": "2026-11-15T15:30:42+00:00",
+  "generated": "2026-11-15T16:00:43+00:00",
   "races": [
     {
       "time": "12:10",
@@ -352,11 +352,11 @@
           "napps": 2,
           "reason": "medal",
           "score": 178.11,
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 1.78,
-          "ret": null,
-          "bank_after": 88.81
+          "ret": 0.0,
+          "bank_after": 87.03
         },
         {
           "horse": "New Grange",
@@ -368,30 +368,30 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 133.54,
-          "pos": 0,
-          "res": null,
+          "pos": 8,
+          "res": "LOSE",
           "stake": 0.89,
-          "ret": null,
-          "bank_after": 88.81
+          "ret": 0.0,
+          "bank_after": 86.14
         }
       ]
     }
   ],
   "score": {
     "bets": 19,
-    "settled": 17,
+    "settled": 19,
     "won": 2,
-    "placed": 6,
-    "lost": 9,
-    "pending": 2
+    "placed": 7,
+    "lost": 10,
+    "pending": 0
   },
-  "staked": 17.42,
+  "staked": 20.09,
   "returned": 14.02,
   "bank": {
     "start": 92.21,
-    "end": 88.81,
-    "next_stake": 0.89,
+    "end": 86.14,
+    "next_stake": 0.86,
     "season_start": 10.0,
-    "season_end": 88.81
+    "season_end": 86.14
   }
 }
