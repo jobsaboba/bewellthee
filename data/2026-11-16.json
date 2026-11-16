@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "generated": "2026-11-16T20:00:42+00:00",
+  "generated": "2026-11-16T20:31:01+00:00",
   "races": [
     {
       "time": "13:15",
@@ -360,7 +360,7 @@
           "napps": 2,
           "reason": "medal",
           "score": 165.26,
-          "pos": 0,
+          "pos": 4,
           "res": "LOSE",
           "stake": 1.66,
           "ret": 0.0,
@@ -400,10 +400,10 @@
           "reason": "medal",
           "score": 250.0,
           "pos": 0,
-          "res": null,
+          "res": "LOSE",
           "stake": 1.61,
-          "ret": null,
-          "bank_after": 80.62
+          "ret": 0.0,
+          "bank_after": 79.01
         },
         {
           "horse": "Mr Nugget",
@@ -418,10 +418,10 @@
           "reason": "3-app medal",
           "score": 132.0,
           "pos": 0,
-          "res": null,
+          "res": "PLACE",
           "stake": 2.42,
-          "ret": null,
-          "bank_after": 80.62
+          "ret": 0.0,
+          "bank_after": 76.59
         },
         {
           "horse": "Farasi Lane",
@@ -433,11 +433,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 151.0,
-          "pos": 0,
-          "res": null,
+          "pos": 7,
+          "res": "LOSE",
           "stake": 0.81,
-          "ret": null,
-          "bank_after": 80.62
+          "ret": 0.0,
+          "bank_after": 75.78
         }
       ]
     },
@@ -457,9 +457,9 @@
           "score": 156.67000000000002,
           "pos": 0,
           "res": null,
-          "stake": 0.81,
+          "stake": 0.76,
           "ret": null,
-          "bank_after": 80.62
+          "bank_after": 75.78
         },
         {
           "horse": "It's A Love Thing",
@@ -473,28 +473,28 @@
           "score": 144.0,
           "pos": 0,
           "res": null,
-          "stake": 0.81,
+          "stake": 0.76,
           "ret": null,
-          "bank_after": 80.62
+          "bank_after": 75.78
         }
       ]
     }
   ],
   "score": {
     "bets": 25,
-    "settled": 20,
+    "settled": 23,
     "won": 3,
-    "placed": 4,
-    "lost": 13,
-    "pending": 5
+    "placed": 5,
+    "lost": 15,
+    "pending": 2
   },
-  "staked": 24.89,
+  "staked": 29.73,
   "returned": 19.37,
   "bank": {
     "start": 86.14,
-    "end": 80.62,
-    "next_stake": 0.81,
+    "end": 75.78,
+    "next_stake": 0.76,
     "season_start": 10.0,
-    "season_end": 80.62
+    "season_end": 75.78
   }
 }
