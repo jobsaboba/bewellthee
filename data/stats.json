@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T18:00:44+00:00",
+  "generated": "2026-11-16T18:30:45+00:00",
   "plan": {
     "name": "Bewellthee plan",
     "rules": [
@@ -17,16 +17,16 @@
   },
   "season": {
     "start": 10.0,
-    "end": 92.01,
+    "end": 90.17,
     "bets": 375,
-    "settled": 356,
-    "staked": 287.13,
+    "settled": 357,
+    "staked": 288.97,
     "returned": 369.14,
-    "roi": 28.6,
+    "roi": 27.7,
     "win_rate": 38,
     "won": 135,
     "placed": 98,
-    "lost": 123
+    "lost": 124
   },
   "monthly": {
     "2026-01": 1.63,
@@ -39,7 +39,7 @@
     "2026-08": 2.19,
     "2026-09": -0.33,
     "2026-10": 19.54,
-    "2026-11": 45.61
+    "2026-11": 43.77
   },
   "tables": {
     "combined": [
@@ -82,20 +82,20 @@
       {
         "key": "6/1–11/1",
         "n": 1004,
-        "settled": 947,
+        "settled": 949,
         "win%": 13,
         "place%": 24,
         "wp%": 37,
-        "roi": 13.7
+        "roi": 13.5
       },
       {
         "key": "odds-on/evs",
         "n": 82,
-        "settled": 80,
-        "win%": 50,
+        "settled": 81,
+        "win%": 49,
         "place%": 41,
-        "wp%": 91,
-        "roi": -20.1
+        "wp%": 90,
+        "roi": -21.1
       }
     ],
     "apps": {
@@ -177,20 +177,20 @@
         {
           "key": "6/1–11/1",
           "n": 374,
-          "settled": 370,
+          "settled": 372,
           "win%": 17,
           "place%": 24,
-          "wp%": 42,
-          "roi": 47.2
+          "wp%": 41,
+          "roi": 46.4
         },
         {
           "key": "odds-on/evs",
           "n": 78,
-          "settled": 77,
+          "settled": 78,
           "win%": 49,
-          "place%": 43,
-          "wp%": 92,
-          "roi": -21.3
+          "place%": 42,
+          "wp%": 91,
+          "roi": -22.3
         }
       ],
       "J": [
@@ -298,11 +298,11 @@
         {
           "key": "odds-on/evs",
           "n": 23,
-          "settled": 21,
-          "win%": 86,
-          "place%": 10,
-          "wp%": 95,
-          "roi": 34.7
+          "settled": 22,
+          "win%": 82,
+          "place%": 9,
+          "wp%": 91,
+          "roi": 28.6
         }
       ],
       "B": [
@@ -345,20 +345,20 @@
         {
           "key": "6/1–11/1",
           "n": 1004,
-          "settled": 947,
+          "settled": 949,
           "win%": 13,
           "place%": 24,
           "wp%": 37,
-          "roi": 13.7
+          "roi": 13.5
         },
         {
           "key": "odds-on/evs",
           "n": 82,
-          "settled": 80,
-          "win%": 50,
+          "settled": 81,
+          "win%": 49,
           "place%": 41,
-          "wp%": 91,
-          "roi": -20.1
+          "wp%": 90,
+          "roi": -21.1
         }
       ]
     },
@@ -366,20 +366,20 @@
       {
         "key": "1 apps",
         "n": 3994,
-        "settled": 3798,
+        "settled": 3800,
         "win%": 17,
         "place%": 26,
         "wp%": 42,
-        "roi": 6.0
+        "roi": 5.9
       },
       {
         "key": "2 apps",
         "n": 174,
-        "settled": 168,
+        "settled": 169,
         "win%": 39,
         "place%": 27,
         "wp%": 66,
-        "roi": 51.8
+        "roi": 50.9
       },
       {
         "key": "3 apps",
@@ -440,11 +440,11 @@
       {
         "key": "odds-on/evs",
         "n": 39,
-        "settled": 38,
-        "win%": 68,
+        "settled": 39,
+        "win%": 67,
         "place%": 26,
-        "wp%": 95,
-        "roi": 9.3
+        "wp%": 92,
+        "roi": 6.4
       }
     ],
     "plan_by_band": [
@@ -496,11 +496,11 @@
       {
         "key": "odds-on/evs",
         "n": 46,
-        "settled": 44,
-        "win%": 68,
+        "settled": 45,
+        "win%": 67,
         "place%": 27,
-        "wp%": 95,
-        "roi": 8.1
+        "wp%": 93,
+        "roi": 5.7
       }
     ],
     "plan_by_reason": [
@@ -525,11 +525,11 @@
       {
         "key": "medal",
         "n": 162,
-        "settled": 158,
+        "settled": 159,
         "win%": 41,
         "place%": 27,
         "wp%": 68,
-        "roi": 29.1
+        "roi": 28.3
       }
     ]
   },
