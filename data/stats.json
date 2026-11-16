@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T16:30:30+00:00",
+  "generated": "2026-11-16T17:00:39+00:00",
   "plan": {
     "name": "Bewellthee plan",
     "rules": [
@@ -73,20 +73,20 @@
       {
         "key": "3/1–6/1",
         "n": 1646,
-        "settled": 1610,
+        "settled": 1611,
         "win%": 20,
         "place%": 30,
         "wp%": 49,
-        "roi": -2.8
+        "roi": -2.9
       },
       {
         "key": "6/1–11/1",
         "n": 1004,
-        "settled": 944,
+        "settled": 945,
         "win%": 13,
         "place%": 24,
         "wp%": 37,
-        "roi": 13.2
+        "roi": 14.0
       },
       {
         "key": "odds-on/evs",
@@ -168,20 +168,20 @@
         {
           "key": "3/1–6/1",
           "n": 855,
-          "settled": 849,
+          "settled": 850,
           "win%": 22,
           "place%": 30,
           "wp%": 52,
-          "roi": 10.4
+          "roi": 10.3
         },
         {
           "key": "6/1–11/1",
           "n": 374,
-          "settled": 367,
+          "settled": 368,
           "win%": 17,
           "place%": 24,
           "wp%": 41,
-          "roi": 46.2
+          "roi": 48.0
         },
         {
           "key": "odds-on/evs",
@@ -336,20 +336,20 @@
         {
           "key": "3/1–6/1",
           "n": 1646,
-          "settled": 1610,
+          "settled": 1611,
           "win%": 20,
           "place%": 30,
           "wp%": 49,
-          "roi": -2.8
+          "roi": -2.9
         },
         {
           "key": "6/1–11/1",
           "n": 1004,
-          "settled": 944,
+          "settled": 945,
           "win%": 13,
           "place%": 24,
           "wp%": 37,
-          "roi": 13.2
+          "roi": 14.0
         },
         {
           "key": "odds-on/evs",
@@ -366,11 +366,11 @@
       {
         "key": "1 apps",
         "n": 3994,
-        "settled": 3791,
-        "win%": 16,
+        "settled": 3793,
+        "win%": 17,
         "place%": 26,
         "wp%": 42,
-        "roi": 5.8
+        "roi": 6.0
       },
       {
         "key": "2 apps",
