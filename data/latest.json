@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T19:00:52+00:00",
+  "generated": "2026-11-17T19:32:10+00:00",
   "races": [
     {
       "time": "11:50",
@@ -300,7 +300,7 @@
           "napps": 2,
           "reason": "medal",
           "score": 167.76,
-          "pos": 0,
+          "pos": 13,
           "res": "LOSE",
           "stake": 1.54,
           "ret": 0.0,
@@ -338,11 +338,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 189.29,
-          "pos": 0,
-          "res": null,
+          "pos": 11,
+          "res": "LOSE",
           "stake": 0.75,
-          "ret": null,
-          "bank_after": 74.9
+          "ret": 0.0,
+          "bank_after": 74.15
         },
         {
           "horse": "Yaahobby",
@@ -354,11 +354,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 139.14,
-          "pos": 0,
-          "res": null,
+          "pos": 7,
+          "res": "LOSE",
           "stake": 0.75,
-          "ret": null,
-          "bank_after": 74.9
+          "ret": 0.0,
+          "bank_after": 73.4
         },
         {
           "horse": "Red Hat Eagle",
@@ -370,11 +370,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 133.0,
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.75,
-          "ret": null,
-          "bank_after": 74.9
+          "ret": 0.0,
+          "bank_after": 72.65
         }
       ]
     },
@@ -394,28 +394,28 @@
           "score": 126.0,
           "pos": 0,
           "res": null,
-          "stake": 0.75,
+          "stake": 0.73,
           "ret": null,
-          "bank_after": 74.9
+          "bank_after": 72.65
         }
       ]
     }
   ],
   "score": {
     "bets": 20,
-    "settled": 15,
+    "settled": 18,
     "won": 2,
-    "placed": 6,
-    "lost": 7,
-    "pending": 5
+    "placed": 7,
+    "lost": 9,
+    "pending": 2
   },
-  "staked": 16.05,
+  "staked": 18.3,
   "returned": 12.13,
   "bank": {
     "start": 78.82,
-    "end": 74.9,
-    "next_stake": 0.75,
+    "end": 72.65,
+    "next_stake": 0.73,
     "season_start": 10.0,
-    "season_end": 74.9
+    "season_end": 72.65
   }
 }
