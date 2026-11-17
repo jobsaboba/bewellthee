@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T14:00:50+00:00",
+  "generated": "2026-11-17T14:30:46+00:00",
   "races": [
     {
       "time": "11:50",
@@ -83,44 +83,6 @@
           "res": "LOSE",
           "stake": 1.58,
           "ret": 0.0,
-          "bank_after": 77.55
-        }
-      ]
-    },
-    {
-      "time": "13:55",
-      "meeting": "Carlisle",
-      "picks": [
-        {
-          "horse": "Wasdell Dundalk",
-          "stars": 2,
-          "odds": "25/1",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 168.57999999999998,
-          "pos": 0,
-          "res": null,
-          "stake": 0.78,
-          "ret": null,
-          "bank_after": 77.55
-        },
-        {
-          "horse": "Shoeshine Boy",
-          "stars": 2,
-          "odds": "12/1",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 132.0,
-          "pos": 0,
-          "res": null,
-          "stake": 0.78,
-          "ret": null,
           "bank_after": 77.55
         }
       ]
@@ -440,12 +402,12 @@
     }
   ],
   "score": {
-    "bets": 22,
+    "bets": 20,
     "settled": 4,
     "won": 1,
     "placed": 1,
     "lost": 2,
-    "pending": 18
+    "pending": 16
   },
   "staked": 5.48,
   "returned": 4.21,
