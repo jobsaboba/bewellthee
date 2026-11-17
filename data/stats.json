@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T17:00:47+00:00",
+  "generated": "2026-11-17T17:31:51+00:00",
   "plan": {
     "name": "Bewellthee plan",
     "rules": [
@@ -82,11 +82,11 @@
       {
         "key": "6/1–11/1",
         "n": 1014,
-        "settled": 961,
+        "settled": 962,
         "win%": 13,
         "place%": 24,
         "wp%": 37,
-        "roi": 13.9
+        "roi": 13.8
       },
       {
         "key": "odds-on/evs",
@@ -130,11 +130,11 @@
         {
           "key": "6/1–11/1",
           "n": 575,
-          "settled": 559,
+          "settled": 560,
           "win%": 10,
           "place%": 25,
           "wp%": 35,
-          "roi": -10.6
+          "roi": -10.8
         }
       ],
       "G": [
@@ -345,11 +345,11 @@
         {
           "key": "6/1–11/1",
           "n": 1014,
-          "settled": 961,
+          "settled": 962,
           "win%": 13,
           "place%": 24,
           "wp%": 37,
-          "roi": 13.9
+          "roi": 13.8
         },
         {
           "key": "odds-on/evs",
@@ -366,11 +366,11 @@
       {
         "key": "1 apps",
         "n": 4043,
-        "settled": 3844,
+        "settled": 3845,
         "win%": 16,
         "place%": 26,
         "wp%": 42,
-        "roi": 5.7
+        "roi": 5.6
       },
       {
         "key": "2 apps",
