@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T16:30:34+00:00",
+  "generated": "2026-11-17T17:00:47+00:00",
   "races": [
     {
       "time": "11:50",
@@ -201,11 +201,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 164.0,
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.72,
-          "ret": null,
-          "bank_after": 72.23
+          "ret": 7.92,
+          "bank_after": 79.43
         },
         {
           "horse": "Beaumadier",
@@ -217,11 +217,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 134.0,
-          "pos": 0,
-          "res": null,
+          "pos": 11,
+          "res": "LOSE",
           "stake": 0.72,
-          "ret": null,
-          "bank_after": 72.23
+          "ret": 0.0,
+          "bank_after": 78.71
         },
         {
           "horse": "Jax Edge",
@@ -233,11 +233,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 131.76,
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.72,
-          "ret": null,
-          "bank_after": 72.23
+          "ret": 0.0,
+          "bank_after": 77.99
         }
       ]
     },
@@ -257,9 +257,9 @@
           "score": 122.0,
           "pos": 0,
           "res": null,
-          "stake": 0.72,
+          "stake": 0.78,
           "ret": null,
-          "bank_after": 72.23
+          "bank_after": 77.99
         }
       ]
     },
@@ -279,9 +279,9 @@
           "score": 111.0,
           "pos": 0,
           "res": "?",
-          "stake": 0.72,
+          "stake": 0.78,
           "ret": null,
-          "bank_after": 72.23
+          "bank_after": 77.99
         }
       ]
     },
@@ -302,9 +302,9 @@
           "score": 167.76,
           "pos": 0,
           "res": null,
-          "stake": 1.44,
+          "stake": 1.56,
           "ret": null,
-          "bank_after": 72.23
+          "bank_after": 77.99
         },
         {
           "horse": "Anthropologist",
@@ -318,9 +318,9 @@
           "score": 130.09,
           "pos": 0,
           "res": null,
-          "stake": 0.72,
+          "stake": 0.78,
           "ret": null,
-          "bank_after": 72.23
+          "bank_after": 77.99
         }
       ]
     },
@@ -340,9 +340,9 @@
           "score": 189.29,
           "pos": 0,
           "res": null,
-          "stake": 0.72,
+          "stake": 0.78,
           "ret": null,
-          "bank_after": 72.23
+          "bank_after": 77.99
         },
         {
           "horse": "Yaahobby",
@@ -356,9 +356,9 @@
           "score": 139.14,
           "pos": 0,
           "res": null,
-          "stake": 0.72,
+          "stake": 0.78,
           "ret": null,
-          "bank_after": 72.23
+          "bank_after": 77.99
         },
         {
           "horse": "Red Hat Eagle",
@@ -372,9 +372,9 @@
           "score": 133.0,
           "pos": 0,
           "res": null,
-          "stake": 0.72,
+          "stake": 0.78,
           "ret": null,
-          "bank_after": 72.23
+          "bank_after": 77.99
         }
       ]
     },
@@ -394,28 +394,28 @@
           "score": 126.0,
           "pos": 0,
           "res": null,
-          "stake": 0.72,
+          "stake": 0.78,
           "ret": null,
-          "bank_after": 72.23
+          "bank_after": 77.99
         }
       ]
     }
   ],
   "score": {
     "bets": 20,
-    "settled": 9,
-    "won": 1,
-    "placed": 4,
-    "lost": 4,
-    "pending": 11
+    "settled": 12,
+    "won": 2,
+    "placed": 5,
+    "lost": 5,
+    "pending": 8
   },
-  "staked": 10.8,
-  "returned": 4.21,
+  "staked": 12.96,
+  "returned": 12.13,
   "bank": {
     "start": 78.82,
-    "end": 72.23,
-    "next_stake": 0.72,
+    "end": 77.99,
+    "next_stake": 0.78,
     "season_start": 10.0,
-    "season_end": 72.23
+    "season_end": 77.99
   }
 }
