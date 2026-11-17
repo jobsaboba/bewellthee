@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T18:30:44+00:00",
+  "generated": "2026-11-17T19:00:52+00:00",
   "races": [
     {
       "time": "11:50",
@@ -301,10 +301,10 @@
           "reason": "medal",
           "score": 167.76,
           "pos": 0,
-          "res": null,
+          "res": "LOSE",
           "stake": 1.54,
-          "ret": null,
-          "bank_after": 77.21
+          "ret": 0.0,
+          "bank_after": 75.67
         },
         {
           "horse": "Anthropologist",
@@ -316,11 +316,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 130.09,
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.77,
-          "ret": null,
-          "bank_after": 77.21
+          "ret": 0.0,
+          "bank_after": 74.9
         }
       ]
     },
@@ -340,9 +340,9 @@
           "score": 189.29,
           "pos": 0,
           "res": null,
-          "stake": 0.77,
+          "stake": 0.75,
           "ret": null,
-          "bank_after": 77.21
+          "bank_after": 74.9
         },
         {
           "horse": "Yaahobby",
@@ -356,9 +356,9 @@
           "score": 139.14,
           "pos": 0,
           "res": null,
-          "stake": 0.77,
+          "stake": 0.75,
           "ret": null,
-          "bank_after": 77.21
+          "bank_after": 74.9
         },
         {
           "horse": "Red Hat Eagle",
@@ -372,9 +372,9 @@
           "score": 133.0,
           "pos": 0,
           "res": null,
-          "stake": 0.77,
+          "stake": 0.75,
           "ret": null,
-          "bank_after": 77.21
+          "bank_after": 74.9
         }
       ]
     },
@@ -394,28 +394,28 @@
           "score": 126.0,
           "pos": 0,
           "res": null,
-          "stake": 0.77,
+          "stake": 0.75,
           "ret": null,
-          "bank_after": 77.21
+          "bank_after": 74.9
         }
       ]
     }
   ],
   "score": {
     "bets": 20,
-    "settled": 13,
+    "settled": 15,
     "won": 2,
-    "placed": 5,
-    "lost": 6,
-    "pending": 7
+    "placed": 6,
+    "lost": 7,
+    "pending": 5
   },
-  "staked": 13.74,
+  "staked": 16.05,
   "returned": 12.13,
   "bank": {
     "start": 78.82,
-    "end": 77.21,
-    "next_stake": 0.77,
+    "end": 74.9,
+    "next_stake": 0.75,
     "season_start": 10.0,
-    "season_end": 77.21
+    "season_end": 74.9
   }
 }
