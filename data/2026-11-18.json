@@ -1,0 +1,528 @@
+{
+  "date": "2026-11-18",
+  "generated": "2026-11-18T05:35:01+00:00",
+  "races": [
+    {
+      "time": "12:33",
+      "meeting": "Hexham",
+      "picks": [
+        {
+          "horse": "Lord Du Gouet",
+          "stars": 5,
+          "odds": "11/8",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 162.54,
+          "pos": 0,
+          "res": null,
+          "stake": 1.41,
+          "ret": null,
+          "bank_after": 70.49
+        },
+        {
+          "horse": "Order Driven",
+          "stars": 3,
+          "odds": "10/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 37.0,
+          "pos": 0,
+          "res": null,
+          "stake": 1.41,
+          "ret": null,
+          "bank_after": 70.49
+        }
+      ]
+    },
+    {
+      "time": "12:48",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "Blinded By Grace",
+          "stars": 4,
+          "odds": "4/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 50.36,
+          "pos": 0,
+          "res": null,
+          "stake": 1.41,
+          "ret": null,
+          "bank_after": 70.49
+        }
+      ]
+    },
+    {
+      "time": "13:18",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "Diamond Street",
+          "stars": 5,
+          "odds": "5/4",
+          "apps": [
+            "D",
+            "G"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 105.63,
+          "pos": 0,
+          "res": null,
+          "stake": 1.41,
+          "ret": null,
+          "bank_after": 70.49
+        }
+      ]
+    },
+    {
+      "time": "13:33",
+      "meeting": "Hexham",
+      "picks": [
+        {
+          "horse": "Wind Your Neck In",
+          "stars": 4,
+          "odds": "10/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 115.0,
+          "pos": 0,
+          "res": null,
+          "stake": 1.41,
+          "ret": null,
+          "bank_after": 70.49
+        }
+      ]
+    },
+    {
+      "time": "14:18",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "Wannabe",
+          "stars": 5,
+          "odds": "4/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 119.12,
+          "pos": 0,
+          "res": null,
+          "stake": 1.41,
+          "ret": null,
+          "bank_after": 70.49
+        }
+      ]
+    },
+    {
+      "time": "14:30",
+      "meeting": "Dundalk",
+      "picks": [
+        {
+          "horse": "Jazzy Dancer",
+          "stars": 4,
+          "odds": "5/1",
+          "apps": [
+            "G",
+            "S"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 141.79,
+          "pos": 0,
+          "res": null,
+          "stake": 1.41,
+          "ret": null,
+          "bank_after": 70.49
+        },
+        {
+          "horse": "The Bear Trap",
+          "stars": 5,
+          "odds": "7/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 165.0,
+          "pos": 0,
+          "res": null,
+          "stake": 0.7,
+          "ret": null,
+          "bank_after": 70.49
+        },
+        {
+          "horse": "Notforalongtime",
+          "stars": 3,
+          "odds": "33/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 137.0,
+          "pos": 0,
+          "res": null,
+          "stake": 0.7,
+          "ret": null,
+          "bank_after": 70.49
+        }
+      ]
+    },
+    {
+      "time": "14:48",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "Doagh",
+          "stars": 4,
+          "odds": "4/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 38.36,
+          "pos": 0,
+          "res": null,
+          "stake": 1.41,
+          "ret": null,
+          "bank_after": 70.49
+        }
+      ]
+    },
+    {
+      "time": "15:00",
+      "meeting": "Dundalk",
+      "picks": [
+        {
+          "horse": "Bucky Larson",
+          "stars": 2,
+          "odds": "25/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 136,
+          "pos": 0,
+          "res": null,
+          "stake": 0.7,
+          "ret": null,
+          "bank_after": 70.49
+        },
+        {
+          "horse": "Manhattan Dandy",
+          "stars": 3,
+          "odds": "20/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 106.7,
+          "pos": 0,
+          "res": null,
+          "stake": 0.7,
+          "ret": null,
+          "bank_after": 70.49
+        }
+      ]
+    },
+    {
+      "time": "15:18",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "Wispit Twob",
+          "stars": 4,
+          "odds": "9/4",
+          "apps": [
+            "D",
+            "G",
+            "J"
+          ],
+          "napps": 3,
+          "reason": "3-app medal",
+          "score": 100.36,
+          "pos": 0,
+          "res": null,
+          "stake": 2.11,
+          "ret": null,
+          "bank_after": 70.49
+        }
+      ]
+    },
+    {
+      "time": "15:48",
+      "meeting": "Ffos Las",
+      "picks": [
+        {
+          "horse": "Seasett",
+          "stars": 5,
+          "odds": "7/2",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 104.36,
+          "pos": 0,
+          "res": null,
+          "stake": 1.41,
+          "ret": null,
+          "bank_after": 70.49
+        }
+      ]
+    },
+    {
+      "time": "16:30",
+      "meeting": "Dundalk",
+      "picks": [
+        {
+          "horse": "Golddream",
+          "stars": 2,
+          "odds": "11/2",
+          "apps": [
+            "G",
+            "S"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 71.0,
+          "pos": 0,
+          "res": null,
+          "stake": 1.41,
+          "ret": null,
+          "bank_after": 70.49
+        }
+      ]
+    },
+    {
+      "time": "18:00",
+      "meeting": "Kempton",
+      "picks": [
+        {
+          "horse": "Divine Rhythm",
+          "stars": 5,
+          "odds": "7/2",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 83.28999999999999,
+          "pos": 0,
+          "res": null,
+          "stake": 1.41,
+          "ret": null,
+          "bank_after": 70.49
+        }
+      ]
+    },
+    {
+      "time": "19:00",
+      "meeting": "Kempton",
+      "picks": [
+        {
+          "horse": "Palladas",
+          "stars": 5,
+          "odds": "9/2",
+          "apps": [
+            "J",
+            "S"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": null,
+          "pos": 0,
+          "res": null,
+          "stake": 1.41,
+          "ret": null,
+          "bank_after": 70.49
+        },
+        {
+          "horse": "Two Tempting",
+          "stars": 3,
+          "odds": "16/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 146.0,
+          "pos": 0,
+          "res": null,
+          "stake": 0.7,
+          "ret": null,
+          "bank_after": 70.49
+        },
+        {
+          "horse": "Ebt's Guard",
+          "stars": 3,
+          "odds": "6/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 133.0,
+          "pos": 0,
+          "res": null,
+          "stake": 0.7,
+          "ret": null,
+          "bank_after": 70.49
+        }
+      ]
+    },
+    {
+      "time": "20:00",
+      "meeting": "Kempton",
+      "picks": [
+        {
+          "horse": "Bell Shot",
+          "stars": 2,
+          "odds": "14/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 169.0,
+          "pos": 0,
+          "res": null,
+          "stake": 0.7,
+          "ret": null,
+          "bank_after": 70.49
+        },
+        {
+          "horse": "Mister Bluebird",
+          "stars": 2,
+          "odds": "16/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 161.35,
+          "pos": 0,
+          "res": null,
+          "stake": 0.7,
+          "ret": null,
+          "bank_after": 70.49
+        },
+        {
+          "horse": "Caragio",
+          "stars": 4,
+          "odds": "5/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 145.32999999999998,
+          "pos": 0,
+          "res": null,
+          "stake": 0.7,
+          "ret": null,
+          "bank_after": 70.49
+        }
+      ]
+    },
+    {
+      "time": "20:30",
+      "meeting": "Kempton",
+      "picks": [
+        {
+          "horse": "Harlington",
+          "stars": 2,
+          "odds": "12/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 114.0,
+          "pos": 0,
+          "res": null,
+          "stake": 0.7,
+          "ret": null,
+          "bank_after": 70.49
+        },
+        {
+          "horse": "Youthful King",
+          "stars": 2,
+          "odds": "25/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 107.35,
+          "pos": 0,
+          "res": null,
+          "stake": 0.7,
+          "ret": null,
+          "bank_after": 70.49
+        },
+        {
+          "horse": "Crown Of Crowns",
+          "stars": 5,
+          "odds": "3/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 90.28999999999999,
+          "pos": 0,
+          "res": null,
+          "stake": 1.41,
+          "ret": null,
+          "bank_after": 70.49
+        }
+      ]
+    }
+  ],
+  "score": {
+    "bets": 25,
+    "settled": 0,
+    "won": 0,
+    "placed": 0,
+    "lost": 0,
+    "pending": 25
+  },
+  "staked": 0,
+  "returned": 0,
+  "bank": {
+    "start": 70.49,
+    "end": 70.49,
+    "next_stake": 0.7,
+    "season_start": 10.0,
+    "season_end": 70.49
+  }
+}

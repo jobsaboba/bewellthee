@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T22:30:33+00:00",
+  "generated": "2026-11-18T05:35:01+00:00",
   "races": [
     {
       "time": "11:50",
@@ -379,6 +379,29 @@
       ]
     },
     {
+      "time": "20:00",
+      "meeting": "Southwell",
+      "picks": [
+        {
+          "horse": "Miss Deeds",
+          "stars": 4,
+          "odds": "8/1",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": null,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.45,
+          "ret": 0.0,
+          "bank_after": 71.2
+        }
+      ]
+    },
+    {
       "time": "20:30",
       "meeting": "Southwell",
       "picks": [
@@ -394,28 +417,28 @@
           "score": 126.0,
           "pos": 12,
           "res": "LOSE",
-          "stake": 0.73,
+          "stake": 0.71,
           "ret": 0.0,
-          "bank_after": 71.92
+          "bank_after": 70.49
         }
       ]
     }
   ],
   "score": {
-    "bets": 20,
-    "settled": 19,
+    "bets": 21,
+    "settled": 20,
     "won": 2,
-    "placed": 7,
+    "placed": 8,
     "lost": 10,
     "pending": 1
   },
-  "staked": 19.03,
+  "staked": 20.46,
   "returned": 12.13,
   "bank": {
     "start": 78.82,
-    "end": 71.92,
-    "next_stake": 0.72,
+    "end": 70.49,
+    "next_stake": 0.7,
     "season_start": 10.0,
-    "season_end": 71.92
+    "season_end": 70.49
   }
 }
