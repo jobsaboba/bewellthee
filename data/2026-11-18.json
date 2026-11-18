@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated": "2026-11-18T20:31:07+00:00",
+  "generated": "2026-11-18T21:01:01+00:00",
   "races": [
     {
       "time": "12:33",
@@ -427,11 +427,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 114.0,
-          "pos": 0,
-          "res": null,
+          "pos": 12,
+          "res": "LOSE",
           "stake": 0.73,
-          "ret": null,
-          "bank_after": 72.67
+          "ret": 0.0,
+          "bank_after": 71.94
         },
         {
           "horse": "Youthful King",
@@ -443,11 +443,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 107.35,
-          "pos": 0,
-          "res": null,
+          "pos": 6,
+          "res": "LOSE",
           "stake": 0.73,
-          "ret": null,
-          "bank_after": 72.67
+          "ret": 0.0,
+          "bank_after": 71.21
         },
         {
           "horse": "Crown Of Crowns",
@@ -460,30 +460,30 @@
           "napps": 2,
           "reason": "medal",
           "score": 90.28999999999999,
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 1.45,
-          "ret": null,
-          "bank_after": 72.67
+          "ret": 0.0,
+          "bank_after": 69.76
         }
       ]
     }
   ],
   "score": {
     "bets": 23,
-    "settled": 20,
+    "settled": 23,
     "won": 5,
     "placed": 2,
-    "lost": 13,
-    "pending": 3
+    "lost": 16,
+    "pending": 0
   },
-  "staked": 22.62,
+  "staked": 25.53,
   "returned": 24.8,
   "bank": {
     "start": 70.49,
-    "end": 72.67,
-    "next_stake": 0.73,
+    "end": 69.76,
+    "next_stake": 0.7,
     "season_start": 10.0,
-    "season_end": 72.67
+    "season_end": 69.76
   }
 }
