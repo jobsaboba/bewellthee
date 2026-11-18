@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "generated": "2026-11-18T05:35:01+00:00",
+  "generated": "2026-11-18T13:00:53+00:00",
   "races": [
     {
       "time": "12:33",
@@ -17,11 +17,11 @@
           "napps": 2,
           "reason": "medal",
           "score": 162.54,
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 1.41,
-          "ret": null,
-          "bank_after": 70.49
+          "ret": 3.35,
+          "bank_after": 72.43
         },
         {
           "horse": "Order Driven",
@@ -34,11 +34,11 @@
           "napps": 2,
           "reason": "medal",
           "score": 37.0,
-          "pos": 0,
-          "res": null,
+          "pos": 9,
+          "res": "LOSE",
           "stake": 1.41,
-          "ret": null,
-          "bank_after": 70.49
+          "ret": 0.0,
+          "bank_after": 71.02
         }
       ]
     },
@@ -57,11 +57,11 @@
           "napps": 2,
           "reason": "medal",
           "score": 50.36,
-          "pos": 0,
-          "res": null,
-          "stake": 1.41,
-          "ret": null,
-          "bank_after": 70.49
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 1.42,
+          "ret": 0.0,
+          "bank_after": 69.6
         }
       ]
     },
@@ -82,9 +82,9 @@
           "score": 105.63,
           "pos": 0,
           "res": null,
-          "stake": 1.41,
+          "stake": 1.39,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         }
       ]
     },
@@ -105,9 +105,9 @@
           "score": 115.0,
           "pos": 0,
           "res": null,
-          "stake": 1.41,
+          "stake": 1.39,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         }
       ]
     },
@@ -128,9 +128,9 @@
           "score": 119.12,
           "pos": 0,
           "res": null,
-          "stake": 1.41,
+          "stake": 1.39,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         }
       ]
     },
@@ -151,9 +151,9 @@
           "score": 141.79,
           "pos": 0,
           "res": null,
-          "stake": 1.41,
+          "stake": 1.39,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         },
         {
           "horse": "The Bear Trap",
@@ -169,7 +169,7 @@
           "res": null,
           "stake": 0.7,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         },
         {
           "horse": "Notforalongtime",
@@ -185,7 +185,7 @@
           "res": null,
           "stake": 0.7,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         }
       ]
     },
@@ -206,9 +206,9 @@
           "score": 38.36,
           "pos": 0,
           "res": null,
-          "stake": 1.41,
+          "stake": 1.39,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         }
       ]
     },
@@ -230,7 +230,7 @@
           "res": null,
           "stake": 0.7,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         },
         {
           "horse": "Manhattan Dandy",
@@ -246,7 +246,7 @@
           "res": null,
           "stake": 0.7,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         }
       ]
     },
@@ -268,9 +268,9 @@
           "score": 100.36,
           "pos": 0,
           "res": null,
-          "stake": 2.11,
+          "stake": 2.09,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         }
       ]
     },
@@ -291,9 +291,9 @@
           "score": 104.36,
           "pos": 0,
           "res": null,
-          "stake": 1.41,
+          "stake": 1.39,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         }
       ]
     },
@@ -314,9 +314,9 @@
           "score": 71.0,
           "pos": 0,
           "res": null,
-          "stake": 1.41,
+          "stake": 1.39,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         }
       ]
     },
@@ -337,9 +337,9 @@
           "score": 83.28999999999999,
           "pos": 0,
           "res": null,
-          "stake": 1.41,
+          "stake": 1.39,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         }
       ]
     },
@@ -360,9 +360,9 @@
           "score": null,
           "pos": 0,
           "res": null,
-          "stake": 1.41,
+          "stake": 1.39,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         },
         {
           "horse": "Two Tempting",
@@ -378,7 +378,7 @@
           "res": null,
           "stake": 0.7,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         },
         {
           "horse": "Ebt's Guard",
@@ -394,7 +394,7 @@
           "res": null,
           "stake": 0.7,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         }
       ]
     },
@@ -416,23 +416,7 @@
           "res": null,
           "stake": 0.7,
           "ret": null,
-          "bank_after": 70.49
-        },
-        {
-          "horse": "Mister Bluebird",
-          "stars": 2,
-          "odds": "16/1",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 161.35,
-          "pos": 0,
-          "res": null,
-          "stake": 0.7,
-          "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         },
         {
           "horse": "Caragio",
@@ -448,7 +432,7 @@
           "res": null,
           "stake": 0.7,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         }
       ]
     },
@@ -470,7 +454,7 @@
           "res": null,
           "stake": 0.7,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         },
         {
           "horse": "Youthful King",
@@ -486,7 +470,7 @@
           "res": null,
           "stake": 0.7,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         },
         {
           "horse": "Crown Of Crowns",
@@ -501,28 +485,28 @@
           "score": 90.28999999999999,
           "pos": 0,
           "res": null,
-          "stake": 1.41,
+          "stake": 1.39,
           "ret": null,
-          "bank_after": 70.49
+          "bank_after": 69.6
         }
       ]
     }
   ],
   "score": {
-    "bets": 25,
-    "settled": 0,
-    "won": 0,
+    "bets": 24,
+    "settled": 3,
+    "won": 1,
     "placed": 0,
-    "lost": 0,
-    "pending": 25
+    "lost": 2,
+    "pending": 21
   },
-  "staked": 0,
-  "returned": 0,
+  "staked": 4.24,
+  "returned": 3.35,
   "bank": {
     "start": 70.49,
-    "end": 70.49,
+    "end": 69.6,
     "next_stake": 0.7,
     "season_start": 10.0,
-    "season_end": 70.49
+    "season_end": 69.6
   }
 }
