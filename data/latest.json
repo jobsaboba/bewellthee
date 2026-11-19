@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "generated": "2026-11-19T15:30:50+00:00",
+  "generated": "2026-11-19T16:00:55+00:00",
   "races": [
     {
       "time": "11:57",
@@ -511,11 +511,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 118.7,
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.49,
-          "ret": null,
-          "bank_after": 49.38
+          "ret": 0.94,
+          "bank_after": 49.83
         },
         {
           "horse": "Marhaba Ghaiyyath",
@@ -527,11 +527,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 108.0,
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.49,
-          "ret": null,
-          "bank_after": 49.38
+          "ret": 0.0,
+          "bank_after": 49.34
         }
       ]
     },
@@ -549,11 +549,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 207.51,
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.49,
-          "ret": null,
-          "bank_after": 49.38
+          "ret": 0.0,
+          "bank_after": 48.85
         },
         {
           "horse": "Pearl Eye",
@@ -565,11 +565,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 140.0,
-          "pos": 0,
-          "res": null,
+          "pos": 8,
+          "res": "LOSE",
           "stake": 0.49,
-          "ret": null,
-          "bank_after": 49.38
+          "ret": 0.0,
+          "bank_after": 48.36
         }
       ]
     },
@@ -587,11 +587,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 222.07,
-          "pos": 0,
-          "res": null,
-          "stake": 0.49,
-          "ret": null,
-          "bank_after": 49.38
+          "pos": 3,
+          "res": "LOSE",
+          "stake": 0.48,
+          "ret": 0.0,
+          "bank_after": 47.88
         }
       ]
     },
@@ -612,9 +612,9 @@
           "score": 145.25,
           "pos": 0,
           "res": null,
-          "stake": 0.99,
+          "stake": 0.96,
           "ret": null,
-          "bank_after": 49.38
+          "bank_after": 47.88
         },
         {
           "horse": "Luminare",
@@ -628,9 +628,9 @@
           "score": 128.64,
           "pos": 0,
           "res": null,
-          "stake": 0.49,
+          "stake": 0.48,
           "ret": null,
-          "bank_after": 49.38
+          "bank_after": 47.88
         },
         {
           "horse": "Pol Roger",
@@ -644,9 +644,9 @@
           "score": 118.0,
           "pos": 0,
           "res": null,
-          "stake": 0.49,
+          "stake": 0.48,
           "ret": null,
-          "bank_after": 49.38
+          "bank_after": 47.88
         }
       ]
     },
@@ -666,9 +666,9 @@
           "score": 136.69,
           "pos": 0,
           "res": null,
-          "stake": 0.49,
+          "stake": 0.48,
           "ret": null,
-          "bank_after": 49.38
+          "bank_after": 47.88
         },
         {
           "horse": "Starmade",
@@ -682,9 +682,9 @@
           "score": 111.50999999999999,
           "pos": 0,
           "res": null,
-          "stake": 0.49,
+          "stake": 0.48,
           "ret": null,
-          "bank_after": 49.38
+          "bank_after": 47.88
         }
       ]
     },
@@ -705,9 +705,9 @@
           "score": 170.88,
           "pos": 0,
           "res": null,
-          "stake": 0.99,
+          "stake": 0.96,
           "ret": null,
-          "bank_after": 49.38
+          "bank_after": 47.88
         },
         {
           "horse": "Our Absent Friends",
@@ -721,28 +721,28 @@
           "score": 164.41,
           "pos": 0,
           "res": null,
-          "stake": 0.49,
+          "stake": 0.48,
           "ret": null,
-          "bank_after": 49.38
+          "bank_after": 47.88
         }
       ]
     }
   ],
   "score": {
     "bets": 38,
-    "settled": 26,
-    "won": 2,
-    "placed": 6,
-    "lost": 18,
-    "pending": 12
+    "settled": 31,
+    "won": 3,
+    "placed": 8,
+    "lost": 20,
+    "pending": 7
   },
-  "staked": 15.35,
-  "returned": 3.82,
+  "staked": 17.79,
+  "returned": 4.76,
   "bank": {
     "start": 60.91,
-    "end": 49.38,
-    "next_stake": 0.49,
+    "end": 47.88,
+    "next_stake": 0.48,
     "season_start": 10.0,
-    "season_end": 49.38
+    "season_end": 47.88
   }
 }
