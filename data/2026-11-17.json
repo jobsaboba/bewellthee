@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-19T05:35:01+00:00",
+  "generated": "2026-11-19T13:00:54+00:00",
   "races": [
     {
       "time": "11:50",
@@ -19,9 +19,9 @@
           "score": 170.57999999999998,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.58,
+          "stake": 1.56,
           "ret": 0.0,
-          "bank_after": 77.24
+          "bank_after": 76.42
         },
         {
           "horse": "Baron Du Brizais",
@@ -35,9 +35,9 @@
           "score": 132.62,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.79,
+          "stake": 0.78,
           "ret": 0.0,
-          "bank_after": 76.45
+          "bank_after": 75.64
         }
       ]
     },
@@ -58,9 +58,9 @@
           "score": 45.9,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.53,
-          "ret": 4.21,
-          "bank_after": 79.13
+          "stake": 1.51,
+          "ret": 4.15,
+          "bank_after": 78.28
         }
       ]
     },
@@ -81,9 +81,9 @@
           "score": 130.57999999999998,
           "pos": 8,
           "res": "LOSE",
-          "stake": 1.58,
+          "stake": 1.57,
           "ret": 0.0,
-          "bank_after": 77.55
+          "bank_after": 76.71
         }
       ]
     },
@@ -104,9 +104,9 @@
           "score": 243.57999999999998,
           "pos": 4,
           "res": "PLACE",
-          "stake": 1.55,
+          "stake": 1.53,
           "ret": 0.0,
-          "bank_after": 76.0
+          "bank_after": 75.18
         },
         {
           "horse": "Rewired",
@@ -120,9 +120,9 @@
           "score": 226.0,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.78,
+          "stake": 0.77,
           "ret": 0.0,
-          "bank_after": 75.22
+          "bank_after": 74.41
         },
         {
           "horse": "Double Digits",
@@ -136,9 +136,9 @@
           "score": 167.25,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.78,
+          "stake": 0.77,
           "ret": 0.0,
-          "bank_after": 74.44
+          "bank_after": 73.64
         }
       ]
     },
@@ -160,7 +160,7 @@
           "res": "LOSE",
           "stake": 0.74,
           "ret": 0.0,
-          "bank_after": 73.7
+          "bank_after": 72.9
         }
       ]
     },
@@ -181,9 +181,9 @@
           "score": 41,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.47,
+          "stake": 1.46,
           "ret": 0.0,
-          "bank_after": 72.23
+          "bank_after": 71.44
         }
       ]
     },
@@ -203,9 +203,9 @@
           "score": 164.0,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.72,
-          "ret": 7.92,
-          "bank_after": 79.43
+          "stake": 0.71,
+          "ret": 7.81,
+          "bank_after": 78.54
         },
         {
           "horse": "Beaumadier",
@@ -219,9 +219,9 @@
           "score": 134.0,
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.72,
+          "stake": 0.71,
           "ret": 0.0,
-          "bank_after": 78.71
+          "bank_after": 77.83
         },
         {
           "horse": "Jax Edge",
@@ -235,9 +235,9 @@
           "score": 131.76,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.72,
+          "stake": 0.71,
           "ret": 0.0,
-          "bank_after": 77.99
+          "bank_after": 77.12
         }
       ]
     },
@@ -257,9 +257,9 @@
           "score": 122.0,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.78,
+          "stake": 0.77,
           "ret": 0.0,
-          "bank_after": 77.21
+          "bank_after": 76.35
         }
       ]
     },
@@ -279,9 +279,9 @@
           "score": 111.0,
           "pos": 0,
           "res": "?",
-          "stake": 0.77,
+          "stake": 0.76,
           "ret": null,
-          "bank_after": 77.21
+          "bank_after": 76.35
         }
       ]
     },
@@ -290,37 +290,21 @@
       "meeting": "Southwell",
       "picks": [
         {
-          "horse": "Down To The Kid",
-          "stars": 2,
-          "odds": "10/1",
+          "horse": "Anthropologist",
+          "stars": 5,
+          "odds": "11/2",
           "apps": [
             "G",
             "S"
           ],
           "napps": 2,
           "reason": "medal",
-          "score": 167.76,
-          "pos": 13,
-          "res": "LOSE",
-          "stake": 1.54,
-          "ret": 0.0,
-          "bank_after": 75.67
-        },
-        {
-          "horse": "Anthropologist",
-          "stars": 5,
-          "odds": "5/2",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
           "score": 130.09,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.77,
+          "stake": 1.53,
           "ret": 0.0,
-          "bank_after": 74.9
+          "bank_after": 74.82
         }
       ]
     },
@@ -342,7 +326,7 @@
           "res": "LOSE",
           "stake": 0.75,
           "ret": 0.0,
-          "bank_after": 74.15
+          "bank_after": 74.07
         },
         {
           "horse": "Yaahobby",
@@ -358,7 +342,7 @@
           "res": "LOSE",
           "stake": 0.75,
           "ret": 0.0,
-          "bank_after": 73.4
+          "bank_after": 73.32
         },
         {
           "horse": "Red Hat Eagle",
@@ -374,7 +358,7 @@
           "res": "PLACE",
           "stake": 0.75,
           "ret": 0.0,
-          "bank_after": 72.65
+          "bank_after": 72.57
         }
       ]
     },
@@ -397,7 +381,7 @@
           "res": "PLACE",
           "stake": 1.45,
           "ret": 0.0,
-          "bank_after": 71.2
+          "bank_after": 71.12
         }
       ]
     },
@@ -405,6 +389,40 @@
       "time": "20:30",
       "meeting": "Southwell",
       "picks": [
+        {
+          "horse": "Amazonian Dream",
+          "stars": 5,
+          "odds": "5/1",
+          "apps": [
+            "G",
+            "S"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 175.76,
+          "pos": 2,
+          "res": "PLACE",
+          "stake": 1.42,
+          "ret": 0.0,
+          "bank_after": 69.7
+        },
+        {
+          "horse": "Aberama Gold",
+          "stars": 3,
+          "odds": "13/2",
+          "apps": [
+            "G",
+            "S"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 277.0,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 1.42,
+          "ret": 0.0,
+          "bank_after": 68.28
+        },
         {
           "horse": "Judgment Call",
           "stars": 2,
@@ -419,26 +437,26 @@
           "res": "LOSE",
           "stake": 0.71,
           "ret": 0.0,
-          "bank_after": 70.49
+          "bank_after": 67.57
         }
       ]
     }
   ],
   "score": {
-    "bets": 21,
-    "settled": 20,
+    "bets": 22,
+    "settled": 21,
     "won": 2,
-    "placed": 8,
+    "placed": 9,
     "lost": 10,
     "pending": 1
   },
-  "staked": 20.46,
-  "returned": 12.13,
+  "staked": 22.37,
+  "returned": 11.96,
   "bank": {
-    "start": 78.82,
-    "end": 70.49,
-    "next_stake": 0.7,
+    "start": 77.98,
+    "end": 67.57,
+    "next_stake": 0.68,
     "season_start": 10.0,
-    "season_end": 69.76
+    "season_end": 60.43
   }
 }
