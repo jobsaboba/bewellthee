@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "generated": "2026-11-19T13:00:54+00:00",
+  "generated": "2026-11-19T13:30:50+00:00",
   "races": [
     {
       "time": "11:57",
@@ -152,11 +152,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 186.95,
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.6,
-          "ret": null,
-          "bank_after": 60.43
+          "ret": 0.0,
+          "bank_after": 59.83
         },
         {
           "horse": "Capricciose",
@@ -168,11 +168,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 158.25,
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 0.6,
-          "ret": null,
-          "bank_after": 60.43
+          "ret": 0.0,
+          "bank_after": 59.23
         }
       ]
     },
@@ -192,9 +192,9 @@
           "score": 245.56,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         },
         {
           "horse": "Nocte Volatus",
@@ -209,9 +209,9 @@
           "score": 242.76,
           "pos": 0,
           "res": null,
-          "stake": 1.21,
+          "stake": 1.18,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         },
         {
           "horse": "Sure Touch",
@@ -225,9 +225,9 @@
           "score": 225.95,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         }
       ]
     },
@@ -247,9 +247,9 @@
           "score": 148.55,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         }
       ]
     },
@@ -269,9 +269,9 @@
           "score": 140.64,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         },
         {
           "horse": "Pierian",
@@ -285,9 +285,9 @@
           "score": 124.51,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         },
         {
           "horse": "Likealot",
@@ -301,9 +301,9 @@
           "score": 105.78,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         }
       ]
     },
@@ -323,9 +323,9 @@
           "score": 150.95,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         },
         {
           "horse": "Betty's Daisy",
@@ -339,9 +339,9 @@
           "score": 111.28,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         },
         {
           "horse": "Miss Cynthia",
@@ -355,9 +355,9 @@
           "score": 103.0,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         }
       ]
     },
@@ -377,9 +377,9 @@
           "score": 186.0,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         }
       ]
     },
@@ -399,9 +399,9 @@
           "score": 132.0,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         },
         {
           "horse": "Sky Safari",
@@ -415,9 +415,9 @@
           "score": 119.28999999999999,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         }
       ]
     },
@@ -437,9 +437,9 @@
           "score": 247.26,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         },
         {
           "horse": "King Of War",
@@ -453,9 +453,9 @@
           "score": 128.07,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         }
       ]
     },
@@ -475,9 +475,9 @@
           "score": 142.25,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         },
         {
           "horse": "Galant Jewel",
@@ -491,9 +491,9 @@
           "score": 107.95,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         }
       ]
     },
@@ -513,9 +513,9 @@
           "score": 118.7,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         },
         {
           "horse": "Marhaba Ghaiyyath",
@@ -529,9 +529,9 @@
           "score": 108.0,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         }
       ]
     },
@@ -551,9 +551,9 @@
           "score": 207.51,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         },
         {
           "horse": "Pearl Eye",
@@ -567,9 +567,9 @@
           "score": 140.0,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         }
       ]
     },
@@ -589,9 +589,9 @@
           "score": 222.07,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         }
       ]
     },
@@ -612,9 +612,9 @@
           "score": 145.25,
           "pos": 0,
           "res": null,
-          "stake": 1.21,
+          "stake": 1.18,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         },
         {
           "horse": "Luminare",
@@ -628,9 +628,9 @@
           "score": 128.64,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         },
         {
           "horse": "Pol Roger",
@@ -644,9 +644,9 @@
           "score": 118.0,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         }
       ]
     },
@@ -666,9 +666,9 @@
           "score": 136.69,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         },
         {
           "horse": "Starmade",
@@ -682,9 +682,9 @@
           "score": 111.50999999999999,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         }
       ]
     },
@@ -705,9 +705,9 @@
           "score": 170.88,
           "pos": 0,
           "res": null,
-          "stake": 1.21,
+          "stake": 1.18,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         },
         {
           "horse": "Our Absent Friends",
@@ -721,28 +721,28 @@
           "score": 164.41,
           "pos": 0,
           "res": null,
-          "stake": 0.6,
+          "stake": 0.59,
           "ret": null,
-          "bank_after": 60.43
+          "bank_after": 59.23
         }
       ]
     }
   ],
   "score": {
     "bets": 38,
-    "settled": 7,
+    "settled": 9,
     "won": 2,
-    "placed": 2,
-    "lost": 3,
-    "pending": 31
+    "placed": 3,
+    "lost": 4,
+    "pending": 29
   },
-  "staked": 4.3,
+  "staked": 5.5,
   "returned": 3.82,
   "bank": {
     "start": 60.91,
-    "end": 60.43,
-    "next_stake": 0.6,
+    "end": 59.23,
+    "next_stake": 0.59,
     "season_start": 10.0,
-    "season_end": 60.43
+    "season_end": 59.23
   }
 }
