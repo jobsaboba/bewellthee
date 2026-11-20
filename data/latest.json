@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "generated": "2026-11-20T20:01:22+00:00",
+  "generated": "2026-11-20T20:31:26+00:00",
   "races": [
     {
       "time": "11:20",
@@ -535,7 +535,7 @@
           "napps": 2,
           "reason": "medal",
           "score": 111.0,
-          "pos": 0,
+          "pos": 9,
           "res": "LOSE",
           "stake": 0.99,
           "ret": 0.0,
@@ -552,7 +552,7 @@
           "napps": 2,
           "reason": "medal",
           "score": 145.0,
-          "pos": 0,
+          "pos": 4,
           "res": "LOSE",
           "stake": 0.99,
           "ret": 0.0,
@@ -576,10 +576,10 @@
           "reason": "medal",
           "score": 184.68,
           "pos": 0,
-          "res": null,
+          "res": "LOSE",
           "stake": 0.95,
-          "ret": null,
-          "bank_after": 47.57
+          "ret": 0.0,
+          "bank_after": 46.62
         },
         {
           "horse": "Sir Rodneyredblood",
@@ -591,11 +591,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 296.33,
-          "pos": 0,
-          "res": null,
+          "pos": 9,
+          "res": "LOSE",
           "stake": 0.48,
-          "ret": null,
-          "bank_after": 47.57
+          "ret": 0.0,
+          "bank_after": 46.14
         },
         {
           "horse": "Nordic Glory",
@@ -607,11 +607,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 195.33,
-          "pos": 0,
-          "res": null,
+          "pos": 10,
+          "res": "LOSE",
           "stake": 0.48,
-          "ret": null,
-          "bank_after": 47.57
+          "ret": 0.0,
+          "bank_after": 45.66
         }
       ]
     },
@@ -629,11 +629,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 170.67000000000002,
-          "pos": 0,
-          "res": null,
-          "stake": 0.48,
-          "ret": null,
-          "bank_after": 47.57
+          "pos": 3,
+          "res": "PLACE",
+          "stake": 0.46,
+          "ret": 0.0,
+          "bank_after": 45.2
         },
         {
           "horse": "Barretstown",
@@ -645,11 +645,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 104,
-          "pos": 0,
-          "res": null,
-          "stake": 0.48,
-          "ret": null,
-          "bank_after": 47.57
+          "pos": 13,
+          "res": "LOSE",
+          "stake": 0.46,
+          "ret": 0.0,
+          "bank_after": 44.74
         }
       ]
     },
@@ -669,44 +669,28 @@
           "score": 160.5,
           "pos": 0,
           "res": null,
-          "stake": 0.48,
+          "stake": 0.45,
           "ret": null,
-          "bank_after": 47.57
-        },
-        {
-          "horse": "Super Hit",
-          "stars": 3,
-          "odds": "7/1",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 108.69,
-          "pos": 0,
-          "res": null,
-          "stake": 0.48,
-          "ret": null,
-          "bank_after": 47.57
+          "bank_after": 44.74
         }
       ]
     }
   ],
   "score": {
-    "bets": 35,
-    "settled": 28,
+    "bets": 34,
+    "settled": 33,
     "won": 6,
-    "placed": 7,
-    "lost": 15,
-    "pending": 7
+    "placed": 8,
+    "lost": 19,
+    "pending": 1
   },
-  "staked": 17.35,
+  "staked": 20.18,
   "returned": 15.88,
   "bank": {
     "start": 49.04,
-    "end": 47.57,
-    "next_stake": 0.48,
+    "end": 44.74,
+    "next_stake": 0.45,
     "season_start": 10.0,
-    "season_end": 47.57
+    "season_end": 44.74
   }
 }
