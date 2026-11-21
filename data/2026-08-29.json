@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "generated": "2026-11-21T05:35:01+00:00",
+  "generated": "2026-11-21T13:02:24+00:00",
   "races": [
     {
       "time": "18:15",
@@ -41,6 +41,6 @@
     "end": 27.19,
     "next_stake": 0.27,
     "season_start": 10.0,
-    "season_end": 44.29
+    "season_end": 42.95
   }
 }
