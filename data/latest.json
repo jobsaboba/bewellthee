@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "generated": "2026-11-21T17:31:09+00:00",
+  "generated": "2026-11-21T18:01:13+00:00",
   "races": [
     {
       "time": "11:53",
@@ -849,11 +849,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 151.71,
-          "pos": 0,
-          "res": null,
+          "pos": 9,
+          "res": "LOSE",
           "stake": 0.37,
-          "ret": null,
-          "bank_after": 36.56
+          "ret": 0.0,
+          "bank_after": 36.19
         },
         {
           "horse": "Zuffolo",
@@ -865,11 +865,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 125.0,
-          "pos": 0,
-          "res": null,
+          "pos": 11,
+          "res": "LOSE",
           "stake": 0.37,
-          "ret": null,
-          "bank_after": 36.56
+          "ret": 0.0,
+          "bank_after": 35.82
         }
       ]
     },
@@ -890,9 +890,9 @@
           "score": 197.0,
           "pos": 0,
           "res": null,
-          "stake": 0.73,
+          "stake": 0.72,
           "ret": null,
-          "bank_after": 36.56
+          "bank_after": 35.82
         },
         {
           "horse": "Mount King",
@@ -906,9 +906,9 @@
           "score": 124.53999999999999,
           "pos": 0,
           "res": null,
-          "stake": 0.37,
+          "stake": 0.36,
           "ret": null,
-          "bank_after": 36.56
+          "bank_after": 35.82
         },
         {
           "horse": "Starliner",
@@ -922,9 +922,9 @@
           "score": 114.0,
           "pos": 0,
           "res": null,
-          "stake": 0.37,
+          "stake": 0.36,
           "ret": null,
-          "bank_after": 36.56
+          "bank_after": 35.82
         }
       ]
     },
@@ -944,9 +944,9 @@
           "score": 178.45,
           "pos": 0,
           "res": null,
-          "stake": 0.37,
+          "stake": 0.36,
           "ret": null,
-          "bank_after": 36.56
+          "bank_after": 35.82
         },
         {
           "horse": "Tasever",
@@ -960,9 +960,9 @@
           "score": 143.26,
           "pos": 0,
           "res": null,
-          "stake": 0.37,
+          "stake": 0.36,
           "ret": null,
-          "bank_after": 36.56
+          "bank_after": 35.82
         }
       ]
     },
@@ -983,9 +983,9 @@
           "score": 134.0,
           "pos": 0,
           "res": null,
-          "stake": 0.73,
+          "stake": 0.72,
           "ret": null,
-          "bank_after": 36.56
+          "bank_after": 35.82
         },
         {
           "horse": "Showtime Mahomes",
@@ -999,9 +999,9 @@
           "score": 158.38,
           "pos": 0,
           "res": null,
-          "stake": 0.37,
+          "stake": 0.36,
           "ret": null,
-          "bank_after": 36.56
+          "bank_after": 35.82
         },
         {
           "horse": "Bright",
@@ -1015,28 +1015,28 @@
           "score": 129.67000000000002,
           "pos": 0,
           "res": null,
-          "stake": 0.37,
+          "stake": 0.36,
           "ret": null,
-          "bank_after": 36.56
+          "bank_after": 35.82
         }
       ]
     }
   ],
   "score": {
     "bets": 54,
-    "settled": 44,
+    "settled": 46,
     "won": 5,
     "placed": 11,
-    "lost": 28,
-    "pending": 10
+    "lost": 30,
+    "pending": 8
   },
-  "staked": 20.29,
+  "staked": 21.03,
   "returned": 12.56,
   "bank": {
     "start": 44.29,
-    "end": 36.56,
-    "next_stake": 0.37,
+    "end": 35.82,
+    "next_stake": 0.36,
     "season_start": 10.0,
-    "season_end": 36.56
+    "season_end": 35.82
   }
 }
