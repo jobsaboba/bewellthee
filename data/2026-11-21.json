@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "generated": "2026-11-21T18:31:09+00:00",
+  "generated": "2026-11-21T19:02:24+00:00",
   "races": [
     {
       "time": "11:53",
@@ -888,7 +888,7 @@
           "napps": 2,
           "reason": "medal",
           "score": 197.0,
-          "pos": 0,
+          "pos": 5,
           "res": "LOSE",
           "stake": 0.72,
           "ret": 0.0,
@@ -942,11 +942,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 178.45,
-          "pos": 0,
-          "res": null,
+          "pos": 11,
+          "res": "LOSE",
           "stake": 0.34,
-          "ret": null,
-          "bank_after": 34.38
+          "ret": 0.0,
+          "bank_after": 34.04
         },
         {
           "horse": "Tasever",
@@ -958,11 +958,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 143.26,
-          "pos": 0,
-          "res": null,
+          "pos": 7,
+          "res": "LOSE",
           "stake": 0.34,
-          "ret": null,
-          "bank_after": 34.38
+          "ret": 0.0,
+          "bank_after": 33.7
         }
       ]
     },
@@ -983,9 +983,9 @@
           "score": 134.0,
           "pos": 0,
           "res": null,
-          "stake": 0.69,
+          "stake": 0.67,
           "ret": null,
-          "bank_after": 34.38
+          "bank_after": 33.7
         },
         {
           "horse": "Showtime Mahomes",
@@ -1001,7 +1001,7 @@
           "res": null,
           "stake": 0.34,
           "ret": null,
-          "bank_after": 34.38
+          "bank_after": 33.7
         },
         {
           "horse": "Bright",
@@ -1017,26 +1017,26 @@
           "res": null,
           "stake": 0.34,
           "ret": null,
-          "bank_after": 34.38
+          "bank_after": 33.7
         }
       ]
     }
   ],
   "score": {
     "bets": 54,
-    "settled": 49,
+    "settled": 51,
     "won": 5,
     "placed": 13,
-    "lost": 31,
-    "pending": 5
+    "lost": 33,
+    "pending": 3
   },
-  "staked": 22.47,
+  "staked": 23.15,
   "returned": 12.56,
   "bank": {
     "start": 44.29,
-    "end": 34.38,
+    "end": 33.7,
     "next_stake": 0.34,
     "season_start": 10.0,
-    "season_end": 34.38
+    "season_end": 33.7
   }
 }
