@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "generated": "2026-11-22T16:01:38+00:00",
+  "generated": "2026-11-22T16:31:17+00:00",
   "races": [
     {
       "time": "11:25",
@@ -670,23 +670,62 @@
           "bank_after": 24.97
         }
       ]
+    },
+    {
+      "time": "15:49",
+      "meeting": "Cork",
+      "picks": [
+        {
+          "horse": "King Of The Greys",
+          "stars": 4,
+          "odds": "9/2",
+          "apps": [
+            "G",
+            "J"
+          ],
+          "napps": 2,
+          "reason": "medal",
+          "score": 166.92000000000002,
+          "pos": 10,
+          "res": "LOSE",
+          "stake": 0.5,
+          "ret": 0.0,
+          "bank_after": 24.47
+        },
+        {
+          "horse": "Big Debates",
+          "stars": 3,
+          "odds": "7/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 126.5,
+          "pos": 9,
+          "res": "LOSE",
+          "stake": 0.25,
+          "ret": 0.0,
+          "bank_after": 24.22
+        }
+      ]
     }
   ],
   "score": {
-    "bets": 34,
-    "settled": 34,
+    "bets": 36,
+    "settled": 36,
     "won": 4,
     "placed": 14,
-    "lost": 16,
+    "lost": 18,
     "pending": 0
   },
-  "staked": 12.75,
+  "staked": 13.5,
   "returned": 5.25,
   "bank": {
     "start": 32.47,
-    "end": 24.97,
-    "next_stake": 0.25,
+    "end": 24.22,
+    "next_stake": 0.24,
     "season_start": 10.0,
-    "season_end": 24.97
+    "season_end": 24.22
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T16:01:38+00:00",
+  "generated": "2026-11-22T16:31:17+00:00",
   "plan": {
     "name": "Bewellthee plan",
     "rules": [
@@ -17,16 +17,16 @@
   },
   "season": {
     "start": 10.0,
-    "end": 24.97,
-    "bets": 578,
-    "settled": 572,
-    "staked": 429.42,
+    "end": 24.22,
+    "bets": 580,
+    "settled": 574,
+    "staked": 430.17,
     "returned": 444.39,
-    "roi": 3.5,
+    "roi": 3.3,
     "win_rate": 28,
     "won": 161,
     "placed": 154,
-    "lost": 257
+    "lost": 259
   },
   "monthly": {
     "2026-01": 1.63,
@@ -39,7 +39,7 @@
     "2026-08": 2.19,
     "2026-09": -0.33,
     "2026-10": 19.54,
-    "2026-11": -21.43
+    "2026-11": -22.18
   },
   "tables": {
     "combined": [
@@ -81,12 +81,12 @@
       },
       {
         "key": "6/1–11/1",
-        "n": 1131,
-        "settled": 1068,
+        "n": 1132,
+        "settled": 1069,
         "win%": 13,
         "place%": 24,
         "wp%": 37,
-        "roi": 14.5
+        "roi": 14.4
       },
       {
         "key": "odds-on/evs",
@@ -167,21 +167,21 @@
         },
         {
           "key": "3/1–6/1",
-          "n": 998,
-          "settled": 998,
+          "n": 999,
+          "settled": 999,
           "win%": 22,
           "place%": 30,
           "wp%": 51,
-          "roi": 7.8
+          "roi": 7.7
         },
         {
           "key": "6/1–11/1",
-          "n": 465,
-          "settled": 465,
+          "n": 466,
+          "settled": 466,
           "win%": 16,
           "place%": 23,
           "wp%": 39,
-          "roi": 37.5
+          "roi": 37.2
         },
         {
           "key": "odds-on/evs",
@@ -344,12 +344,12 @@
         },
         {
           "key": "6/1–11/1",
-          "n": 1131,
-          "settled": 1068,
+          "n": 1132,
+          "settled": 1069,
           "win%": 13,
           "place%": 24,
           "wp%": 37,
-          "roi": 14.5
+          "roi": 14.4
         },
         {
           "key": "odds-on/evs",
@@ -374,12 +374,12 @@
       },
       {
         "key": "2 apps",
-        "n": 250,
-        "settled": 249,
+        "n": 251,
+        "settled": 250,
         "win%": 30,
         "place%": 23,
         "wp%": 53,
-        "roi": 16.1
+        "roi": 15.6
       },
       {
         "key": "3 apps",
@@ -421,21 +421,21 @@
       },
       {
         "key": "3/1–6/1",
-        "n": 142,
-        "settled": 142,
-        "win%": 23,
+        "n": 143,
+        "settled": 143,
+        "win%": 22,
         "place%": 27,
         "wp%": 50,
-        "roi": 11.4
+        "roi": 10.6
       },
       {
         "key": "6/1–11/1",
-        "n": 85,
-        "settled": 85,
+        "n": 86,
+        "settled": 86,
         "win%": 12,
         "place%": 26,
-        "wp%": 38,
-        "roi": 3.5
+        "wp%": 37,
+        "roi": 2.3
       },
       {
         "key": "odds-on/evs",
@@ -477,21 +477,21 @@
       },
       {
         "key": "3/1–6/1",
-        "n": 179,
-        "settled": 177,
+        "n": 180,
+        "settled": 178,
         "win%": 23,
         "place%": 29,
         "wp%": 52,
-        "roi": 14.3
+        "roi": 13.7
       },
       {
         "key": "6/1–11/1",
-        "n": 107,
-        "settled": 106,
+        "n": 108,
+        "settled": 107,
         "win%": 11,
         "place%": 26,
-        "wp%": 38,
-        "roi": -2.8
+        "wp%": 37,
+        "roi": -3.7
       },
       {
         "key": "odds-on/evs",
@@ -515,27 +515,27 @@
       },
       {
         "key": "banker ≥100",
-        "n": 350,
-        "settled": 345,
+        "n": 351,
+        "settled": 346,
         "win%": 23,
         "place%": 28,
-        "wp%": 52,
-        "roi": 16.7
+        "wp%": 51,
+        "roi": 16.4
       },
       {
         "key": "medal",
-        "n": 213,
-        "settled": 212,
+        "n": 214,
+        "settled": 213,
         "win%": 35,
         "place%": 25,
         "wp%": 60,
-        "roi": 12.3
+        "roi": 11.8
       }
     ]
   },
   "sources": {
     "Sandstorm": 1936,
-    "Holy Grail": 2500,
+    "Holy Grail": 2502,
     "Jacobs Ladder": 433,
     "Double Bubble": 139,
     "Bollox (medals)": 0
