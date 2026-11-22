@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "generated": "2026-11-22T14:02:49+00:00",
+  "generated": "2026-11-22T14:31:22+00:00",
   "races": [
     {
       "time": "11:25",
@@ -335,6 +335,22 @@
       "meeting": "Cork",
       "picks": [
         {
+          "horse": "Bambino Fever",
+          "stars": 4,
+          "odds": "7/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 180.1,
+          "pos": 5,
+          "res": "LOSE",
+          "stake": 0.29,
+          "ret": 0.0,
+          "bank_after": 28.53
+        },
+        {
           "horse": "Place De La Nation",
           "stars": 5,
           "odds": "11/4",
@@ -348,7 +364,7 @@
           "res": "PLACE",
           "stake": 0.29,
           "ret": 0.0,
-          "bank_after": 28.53
+          "bank_after": 28.24
         },
         {
           "horse": "Carrigmoornaspruce",
@@ -364,7 +380,7 @@
           "res": "PLACE",
           "stake": 0.29,
           "ret": 0.0,
-          "bank_after": 28.24
+          "bank_after": 27.95
         }
       ]
     },
@@ -372,22 +388,6 @@
       "time": "14:19",
       "meeting": "Cork",
       "picks": [
-        {
-          "horse": "A Wave Of The Sea",
-          "stars": 2,
-          "odds": "12/1",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 158.0,
-          "pos": 0,
-          "res": null,
-          "stake": 0.28,
-          "ret": null,
-          "bank_after": 28.24
-        },
         {
           "horse": "Watch The Weather",
           "stars": 3,
@@ -398,11 +398,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 136.81,
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.28,
-          "ret": null,
-          "bank_after": 28.24
+          "ret": 0.0,
+          "bank_after": 27.67
         },
         {
           "horse": "El Champo",
@@ -414,11 +414,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 113.0,
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.28,
-          "ret": null,
-          "bank_after": 28.24
+          "ret": 0.0,
+          "bank_after": 27.39
         }
       ]
     },
@@ -439,9 +439,9 @@
           "score": 123.28999999999999,
           "pos": 0,
           "res": null,
-          "stake": 0.56,
+          "stake": 0.55,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         }
       ]
     },
@@ -461,9 +461,9 @@
           "score": 139.15,
           "pos": 0,
           "res": null,
-          "stake": 0.28,
+          "stake": 0.27,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         },
         {
           "horse": "He Knows Better",
@@ -478,9 +478,9 @@
           "score": 105.9,
           "pos": 0,
           "res": null,
-          "stake": 0.56,
+          "stake": 0.55,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         }
       ]
     },
@@ -500,9 +500,9 @@
           "score": 180.82,
           "pos": 0,
           "res": null,
-          "stake": 0.28,
+          "stake": 0.27,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         },
         {
           "horse": "Uzincso",
@@ -516,9 +516,9 @@
           "score": 147.47,
           "pos": 0,
           "res": null,
-          "stake": 0.28,
+          "stake": 0.27,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         },
         {
           "horse": "Manton Road",
@@ -532,9 +532,9 @@
           "score": 120.0,
           "pos": 0,
           "res": null,
-          "stake": 0.28,
+          "stake": 0.27,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         }
       ]
     },
@@ -554,9 +554,9 @@
           "score": 327.77,
           "pos": 0,
           "res": null,
-          "stake": 0.28,
+          "stake": 0.27,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         },
         {
           "horse": "Fact To File",
@@ -570,9 +570,9 @@
           "score": 193.76999999999998,
           "pos": 0,
           "res": null,
-          "stake": 0.28,
+          "stake": 0.27,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         },
         {
           "horse": "Impaire Et Passe",
@@ -586,9 +586,9 @@
           "score": 184.75,
           "pos": 0,
           "res": null,
-          "stake": 0.28,
+          "stake": 0.27,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         }
       ]
     },
@@ -608,9 +608,9 @@
           "score": 114.45,
           "pos": 0,
           "res": null,
-          "stake": 0.28,
+          "stake": 0.27,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         },
         {
           "horse": "Noble Grace",
@@ -625,9 +625,9 @@
           "score": 87.68,
           "pos": 0,
           "res": null,
-          "stake": 0.56,
+          "stake": 0.55,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         }
       ]
     },
@@ -648,9 +648,9 @@
           "score": 120.6,
           "pos": 0,
           "res": null,
-          "stake": 0.56,
+          "stake": 0.55,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         },
         {
           "horse": "Doctor Grimwig",
@@ -665,9 +665,9 @@
           "score": 56.0,
           "pos": 0,
           "res": null,
-          "stake": 0.56,
+          "stake": 0.55,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         }
       ]
     },
@@ -687,9 +687,9 @@
           "score": 158.26,
           "pos": 0,
           "res": null,
-          "stake": 0.28,
+          "stake": 0.27,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         }
       ]
     },
@@ -709,9 +709,9 @@
           "score": 180.0,
           "pos": 0,
           "res": null,
-          "stake": 0.28,
+          "stake": 0.27,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         },
         {
           "horse": "King Of The Greys",
@@ -726,9 +726,9 @@
           "score": 166.92000000000002,
           "pos": 0,
           "res": null,
-          "stake": 0.56,
+          "stake": 0.55,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         },
         {
           "horse": "Big Debates",
@@ -742,28 +742,28 @@
           "score": 126.5,
           "pos": 0,
           "res": null,
-          "stake": 0.28,
+          "stake": 0.27,
           "ret": null,
-          "bank_after": 28.24
+          "bank_after": 27.39
         }
       ]
     }
   ],
   "score": {
     "bets": 38,
-    "settled": 18,
+    "settled": 21,
     "won": 2,
-    "placed": 7,
-    "lost": 9,
-    "pending": 20
+    "placed": 9,
+    "lost": 10,
+    "pending": 17
   },
-  "staked": 7.21,
+  "staked": 8.06,
   "returned": 2.98,
   "bank": {
     "start": 32.47,
-    "end": 28.24,
-    "next_stake": 0.28,
+    "end": 27.39,
+    "next_stake": 0.27,
     "season_start": 10.0,
-    "season_end": 28.24
+    "season_end": 27.39
   }
 }
