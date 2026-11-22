@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "generated": "2026-11-22T15:01:24+00:00",
+  "generated": "2026-11-22T15:31:20+00:00",
   "races": [
     {
       "time": "11:25",
@@ -437,7 +437,7 @@
           "napps": 2,
           "reason": "medal",
           "score": 123.28999999999999,
-          "pos": 0,
+          "pos": 3,
           "res": "PLACE",
           "stake": 0.55,
           "ret": 0.0,
@@ -498,11 +498,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 180.82,
-          "pos": 0,
-          "res": null,
+          "pos": 12,
+          "res": "LOSE",
           "stake": 0.26,
-          "ret": null,
-          "bank_after": 26.03
+          "ret": 0.0,
+          "bank_after": 25.77
         },
         {
           "horse": "Uzincso",
@@ -514,11 +514,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 147.47,
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.26,
-          "ret": null,
-          "bank_after": 26.03
+          "ret": 0.0,
+          "bank_after": 25.51
         },
         {
           "horse": "Manton Road",
@@ -530,11 +530,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 120.0,
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.26,
-          "ret": null,
-          "bank_after": 26.03
+          "ret": 1.17,
+          "bank_after": 26.42
         }
       ]
     },
@@ -552,11 +552,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 327.77,
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.26,
-          "ret": null,
-          "bank_after": 26.03
+          "ret": 0.0,
+          "bank_after": 26.16
         },
         {
           "horse": "Fact To File",
@@ -568,11 +568,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 193.76999999999998,
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.26,
-          "ret": null,
-          "bank_after": 26.03
+          "ret": 0.0,
+          "bank_after": 25.9
         },
         {
           "horse": "Impaire Et Passe",
@@ -584,11 +584,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 184.75,
-          "pos": 0,
-          "res": null,
+          "pos": 7,
+          "res": "LOSE",
           "stake": 0.26,
-          "ret": null,
-          "bank_after": 26.03
+          "ret": 0.0,
+          "bank_after": 25.64
         }
       ]
     },
@@ -610,7 +610,7 @@
           "res": null,
           "stake": 0.26,
           "ret": null,
-          "bank_after": 26.03
+          "bank_after": 25.64
         },
         {
           "horse": "Noble Grace",
@@ -625,9 +625,9 @@
           "score": 87.68,
           "pos": 0,
           "res": null,
-          "stake": 0.52,
+          "stake": 0.51,
           "ret": null,
-          "bank_after": 26.03
+          "bank_after": 25.64
         }
       ]
     },
@@ -648,9 +648,9 @@
           "score": 120.6,
           "pos": 0,
           "res": null,
-          "stake": 0.52,
+          "stake": 0.51,
           "ret": null,
-          "bank_after": 26.03
+          "bank_after": 25.64
         },
         {
           "horse": "Doctor Grimwig",
@@ -665,9 +665,9 @@
           "score": 56.0,
           "pos": 0,
           "res": null,
-          "stake": 0.52,
+          "stake": 0.51,
           "ret": null,
-          "bank_after": 26.03
+          "bank_after": 25.64
         }
       ]
     },
@@ -689,7 +689,7 @@
           "res": null,
           "stake": 0.26,
           "ret": null,
-          "bank_after": 26.03
+          "bank_after": 25.64
         }
       ]
     },
@@ -711,7 +711,7 @@
           "res": null,
           "stake": 0.26,
           "ret": null,
-          "bank_after": 26.03
+          "bank_after": 25.64
         },
         {
           "horse": "King Of The Greys",
@@ -726,9 +726,9 @@
           "score": 166.92000000000002,
           "pos": 0,
           "res": null,
-          "stake": 0.52,
+          "stake": 0.51,
           "ret": null,
-          "bank_after": 26.03
+          "bank_after": 25.64
         },
         {
           "horse": "Big Debates",
@@ -744,26 +744,26 @@
           "res": null,
           "stake": 0.26,
           "ret": null,
-          "bank_after": 26.03
+          "bank_after": 25.64
         }
       ]
     }
   ],
   "score": {
     "bets": 38,
-    "settled": 24,
-    "won": 2,
-    "placed": 11,
-    "lost": 11,
-    "pending": 14
+    "settled": 30,
+    "won": 3,
+    "placed": 14,
+    "lost": 13,
+    "pending": 8
   },
-  "staked": 9.42,
-  "returned": 2.98,
+  "staked": 10.98,
+  "returned": 4.15,
   "bank": {
     "start": 32.47,
-    "end": 26.03,
+    "end": 25.64,
     "next_stake": 0.26,
     "season_start": 10.0,
-    "season_end": 26.03
+    "season_end": 25.64
   }
 }
