@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "generated": "2026-11-22T15:31:20+00:00",
+  "generated": "2026-11-22T16:01:38+00:00",
   "races": [
     {
       "time": "11:25",
@@ -606,11 +606,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 114.45,
-          "pos": 0,
-          "res": null,
+          "pos": 7,
+          "res": "LOSE",
           "stake": 0.26,
-          "ret": null,
-          "bank_after": 25.64
+          "ret": 0.0,
+          "bank_after": 25.38
         },
         {
           "horse": "Noble Grace",
@@ -623,11 +623,11 @@
           "napps": 2,
           "reason": "medal",
           "score": 87.68,
-          "pos": 0,
-          "res": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 0.51,
-          "ret": null,
-          "bank_after": 25.64
+          "ret": 0.0,
+          "bank_after": 24.87
         }
       ]
     },
@@ -646,11 +646,11 @@
           "napps": 2,
           "reason": "medal",
           "score": 120.6,
-          "pos": 0,
-          "res": null,
-          "stake": 0.51,
-          "ret": null,
-          "bank_after": 25.64
+          "pos": 1,
+          "res": "WIN",
+          "stake": 0.5,
+          "ret": 1.1,
+          "bank_after": 25.47
         },
         {
           "horse": "Doctor Grimwig",
@@ -663,107 +663,30 @@
           "napps": 2,
           "reason": "medal",
           "score": 56.0,
-          "pos": 0,
-          "res": null,
-          "stake": 0.51,
-          "ret": null,
-          "bank_after": 25.64
-        }
-      ]
-    },
-    {
-      "time": "15:37",
-      "meeting": "Exeter",
-      "picks": [
-        {
-          "horse": "Bashful Boy",
-          "stars": 3,
-          "odds": "10/3",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 158.26,
-          "pos": 0,
-          "res": null,
-          "stake": 0.26,
-          "ret": null,
-          "bank_after": 25.64
-        }
-      ]
-    },
-    {
-      "time": "15:49",
-      "meeting": "Cork",
-      "picks": [
-        {
-          "horse": "Cock And Bull",
-          "stars": 5,
-          "odds": "13/8",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 180.0,
-          "pos": 0,
-          "res": null,
-          "stake": 0.26,
-          "ret": null,
-          "bank_after": 25.64
-        },
-        {
-          "horse": "King Of The Greys",
-          "stars": 4,
-          "odds": "9/2",
-          "apps": [
-            "G",
-            "J"
-          ],
-          "napps": 2,
-          "reason": "medal",
-          "score": 166.92000000000002,
-          "pos": 0,
-          "res": null,
-          "stake": 0.51,
-          "ret": null,
-          "bank_after": 25.64
-        },
-        {
-          "horse": "Big Debates",
-          "stars": 3,
-          "odds": "7/1",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 126.5,
-          "pos": 0,
-          "res": null,
-          "stake": 0.26,
-          "ret": null,
-          "bank_after": 25.64
+          "pos": 6,
+          "res": "LOSE",
+          "stake": 0.5,
+          "ret": 0.0,
+          "bank_after": 24.97
         }
       ]
     }
   ],
   "score": {
-    "bets": 38,
-    "settled": 30,
-    "won": 3,
+    "bets": 34,
+    "settled": 34,
+    "won": 4,
     "placed": 14,
-    "lost": 13,
-    "pending": 8
+    "lost": 16,
+    "pending": 0
   },
-  "staked": 10.98,
-  "returned": 4.15,
+  "staked": 12.75,
+  "returned": 5.25,
   "bank": {
     "start": 32.47,
-    "end": 25.64,
-    "next_stake": 0.26,
+    "end": 24.97,
+    "next_stake": 0.25,
     "season_start": 10.0,
-    "season_end": 25.64
+    "season_end": 24.97
   }
 }
