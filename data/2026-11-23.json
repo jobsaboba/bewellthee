@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "generated": "2026-11-23T17:31:36+00:00",
+  "generated": "2026-11-23T18:01:24+00:00",
   "races": [
     {
       "time": "12:25",
@@ -441,10 +441,10 @@
           "reason": "medal",
           "score": 155.53,
           "pos": 0,
-          "res": null,
+          "res": "LOSE",
           "stake": 0.31,
-          "ret": null,
-          "bank_after": 15.72
+          "ret": 0.0,
+          "bank_after": 15.41
         },
         {
           "horse": "Encore",
@@ -456,11 +456,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 143.0,
-          "pos": 0,
-          "res": null,
+          "pos": 9,
+          "res": "LOSE",
           "stake": 0.16,
-          "ret": null,
-          "bank_after": 15.72
+          "ret": 0.0,
+          "bank_after": 15.25
         },
         {
           "horse": "Lumenbourg",
@@ -472,11 +472,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 106.24,
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.16,
-          "ret": null,
-          "bank_after": 15.72
+          "ret": 0.0,
+          "bank_after": 15.09
         }
       ]
     },
@@ -496,9 +496,9 @@
           "score": 159.25,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         }
       ]
     },
@@ -518,9 +518,9 @@
           "score": 161.0,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         },
         {
           "horse": "Kings Merchant",
@@ -534,9 +534,9 @@
           "score": 150.53,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         }
       ]
     },
@@ -556,9 +556,9 @@
           "score": 176.0,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         },
         {
           "horse": "Charlie's Choice",
@@ -572,9 +572,9 @@
           "score": 149.56,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         },
         {
           "horse": "Kaaranah",
@@ -588,9 +588,9 @@
           "score": 142.47,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         }
       ]
     },
@@ -610,9 +610,9 @@
           "score": 245.5,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         },
         {
           "horse": "Tomorrow Day",
@@ -626,9 +626,9 @@
           "score": 170.86,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         },
         {
           "horse": "Yaaser",
@@ -642,9 +642,9 @@
           "score": 167.0,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         }
       ]
     },
@@ -664,9 +664,9 @@
           "score": 181.5,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         },
         {
           "horse": "Chifa",
@@ -680,9 +680,9 @@
           "score": 146.67,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         },
         {
           "horse": "Punchbowl Flyer",
@@ -696,9 +696,9 @@
           "score": 132.0,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         }
       ]
     },
@@ -718,9 +718,9 @@
           "score": 210.0,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         },
         {
           "horse": "Toptime",
@@ -734,9 +734,9 @@
           "score": 142.0,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         }
       ]
     },
@@ -757,9 +757,9 @@
           "score": 131.67000000000002,
           "pos": 0,
           "res": null,
-          "stake": 0.31,
+          "stake": 0.3,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         },
         {
           "horse": "Beauzon",
@@ -773,9 +773,9 @@
           "score": 217.0,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         },
         {
           "horse": "Lhebayeb",
@@ -789,9 +789,9 @@
           "score": 153.09,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         }
       ]
     },
@@ -812,9 +812,9 @@
           "score": 161.5,
           "pos": 0,
           "res": null,
-          "stake": 0.31,
+          "stake": 0.3,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         },
         {
           "horse": "Concert Boy",
@@ -829,9 +829,9 @@
           "score": 197.24,
           "pos": 0,
           "res": null,
-          "stake": 0.31,
+          "stake": 0.3,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         },
         {
           "horse": "Pallas Lord",
@@ -845,9 +845,9 @@
           "score": 203.0,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         }
       ]
     },
@@ -868,9 +868,9 @@
           "score": 168.09,
           "pos": 0,
           "res": null,
-          "stake": 0.31,
+          "stake": 0.3,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         },
         {
           "horse": "Drifts Away",
@@ -884,9 +884,9 @@
           "score": 137.0,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         }
       ]
     },
@@ -907,9 +907,9 @@
           "score": 165.34,
           "pos": 0,
           "res": null,
-          "stake": 0.31,
+          "stake": 0.3,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         },
         {
           "horse": "Law Supreme",
@@ -923,28 +923,28 @@
           "score": 117.09,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.72
+          "bank_after": 15.09
         }
       ]
     }
   ],
   "score": {
     "bets": 49,
-    "settled": 22,
+    "settled": 25,
     "won": 3,
-    "placed": 8,
-    "lost": 11,
-    "pending": 27
+    "placed": 9,
+    "lost": 13,
+    "pending": 24
   },
-  "staked": 4.14,
+  "staked": 4.77,
   "returned": 3.57,
   "bank": {
     "start": 16.29,
-    "end": 15.72,
-    "next_stake": 0.16,
+    "end": 15.09,
+    "next_stake": 0.15,
     "season_start": 10.0,
-    "season_end": 15.72
+    "season_end": 15.09
   }
 }
