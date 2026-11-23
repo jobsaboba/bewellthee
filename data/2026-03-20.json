@@ -1,6 +1,6 @@
 {
   "date": "2026-03-20",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "15:55",
@@ -11,16 +11,17 @@
           "stars": 4,
           "odds": "7/2",
           "apps": [
-            "D"
+            "D",
+            "G"
           ],
-          "napps": 1,
-          "reason": "banker ≥100",
+          "napps": 2,
+          "reason": "medal",
           "score": 135.07,
           "pos": 0,
-          "res": "?",
-          "stake": 0.12,
-          "ret": null,
-          "bank_after": 11.68
+          "res": "LOSE",
+          "stake": 0.22,
+          "ret": 0.0,
+          "bank_after": 10.98
         }
       ]
     },
@@ -40,28 +41,28 @@
           "score": 105.07,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.12,
+          "stake": 0.11,
           "ret": 0.0,
-          "bank_after": 11.56
+          "bank_after": 10.87
         }
       ]
     }
   ],
   "score": {
     "bets": 2,
-    "settled": 1,
+    "settled": 2,
     "won": 0,
     "placed": 0,
-    "lost": 1,
-    "pending": 1
+    "lost": 2,
+    "pending": 0
   },
-  "staked": 0.12,
+  "staked": 0.33,
   "returned": 0.0,
   "bank": {
-    "start": 11.68,
-    "end": 11.56,
-    "next_stake": 0.12,
+    "start": 11.2,
+    "end": 10.87,
+    "next_stake": 0.11,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }

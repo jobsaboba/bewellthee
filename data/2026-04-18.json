@@ -1,6 +1,6 @@
 {
   "date": "2026-04-18",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "12:17",
@@ -19,9 +19,9 @@
           "score": 198.81,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.26,
+          "stake": 0.24,
           "ret": 0.0,
-          "bank_after": 12.83
+          "bank_after": 11.68
         }
       ]
     },
@@ -42,9 +42,53 @@
           "score": 96.81,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.26,
+          "stake": 0.23,
           "ret": 0.0,
-          "bank_after": 12.57
+          "bank_after": 11.45
+        }
+      ]
+    },
+    {
+      "time": "13:20",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Tutti Quanti",
+          "stars": 4,
+          "odds": "13/8",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 121.88,
+          "pos": 0,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": 0.0,
+          "bank_after": 11.34
+        }
+      ]
+    },
+    {
+      "time": "13:55",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Twistthenightaway",
+          "stars": 5,
+          "odds": "6/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 132.45,
+          "pos": 0,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": 0.0,
+          "bank_after": 11.23
         }
       ]
     },
@@ -64,9 +108,9 @@
           "score": 142.59,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.13,
+          "stake": 0.11,
           "ret": 0.0,
-          "bank_after": 12.44
+          "bank_after": 11.12
         }
       ]
     },
@@ -86,9 +130,9 @@
           "score": 111,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.12,
-          "ret": 0.22,
-          "bank_after": 12.54
+          "stake": 0.11,
+          "ret": 0.2,
+          "bank_after": 11.21
         }
       ]
     },
@@ -109,9 +153,9 @@
           "score": 176.81,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.25,
+          "stake": 0.22,
           "ret": 0.0,
-          "bank_after": 12.29
+          "bank_after": 10.99
         }
       ]
     },
@@ -131,9 +175,9 @@
           "score": 138,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.12,
-          "ret": 0.33,
-          "bank_after": 12.5
+          "stake": 0.11,
+          "ret": 0.3,
+          "bank_after": 11.18
         },
         {
           "horse": "Keops Des Bordes",
@@ -147,9 +191,9 @@
           "score": 124.45,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.12,
+          "stake": 0.11,
           "ret": 0.0,
-          "bank_after": 12.38
+          "bank_after": 11.07
         }
       ]
     },
@@ -169,28 +213,28 @@
           "score": 143.81,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.12,
+          "stake": 0.11,
           "ret": 0.0,
-          "bank_after": 12.26
+          "bank_after": 10.96
         }
       ]
     }
   ],
   "score": {
-    "bets": 8,
-    "settled": 8,
+    "bets": 10,
+    "settled": 10,
     "won": 2,
     "placed": 3,
-    "lost": 3,
+    "lost": 5,
     "pending": 0
   },
-  "staked": 1.38,
-  "returned": 0.55,
+  "staked": 1.46,
+  "returned": 0.5,
   "bank": {
-    "start": 13.09,
-    "end": 12.26,
-    "next_stake": 0.12,
+    "start": 11.92,
+    "end": 10.96,
+    "next_stake": 0.11,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }

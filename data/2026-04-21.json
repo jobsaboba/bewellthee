@@ -1,6 +1,6 @@
 {
   "date": "2026-04-21",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "15:38",
@@ -18,9 +18,9 @@
           "score": 174.5,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.13,
-          "ret": 0.26,
-          "bank_after": 12.78
+          "stake": 0.11,
+          "ret": 0.22,
+          "bank_after": 11.42
         }
       ]
     }
@@ -33,13 +33,13 @@
     "lost": 0,
     "pending": 0
   },
-  "staked": 0.13,
-  "returned": 0.26,
+  "staked": 0.11,
+  "returned": 0.22,
   "bank": {
-    "start": 12.65,
-    "end": 12.78,
-    "next_stake": 0.13,
+    "start": 11.31,
+    "end": 11.42,
+    "next_stake": 0.11,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }

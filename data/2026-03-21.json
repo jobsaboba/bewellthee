@@ -1,6 +1,6 @@
 {
   "date": "2026-03-21",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "13:00",
@@ -19,9 +19,9 @@
           "score": 226.81,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.23,
+          "stake": 0.22,
           "ret": 0.0,
-          "bank_after": 11.33
+          "bank_after": 10.65
         }
       ]
     },
@@ -42,9 +42,9 @@
           "score": 161.67000000000002,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.23,
-          "ret": 0.58,
-          "bank_after": 11.68
+          "stake": 0.21,
+          "ret": 0.53,
+          "bank_after": 10.97
         }
       ]
     },
@@ -64,9 +64,31 @@
           "score": 140.07,
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.12,
+          "stake": 0.11,
           "ret": 0.0,
-          "bank_after": 11.56
+          "bank_after": 10.86
+        }
+      ]
+    },
+    {
+      "time": "14:10",
+      "meeting": "Kelso",
+      "picks": [
+        {
+          "horse": "Khrisma",
+          "stars": 4,
+          "odds": "5/4",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 109.5,
+          "pos": 0,
+          "res": "LOSE",
+          "stake": 0.11,
+          "ret": 0.0,
+          "bank_after": 10.75
         }
       ]
     },
@@ -87,28 +109,28 @@
           "score": 111.07,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.23,
-          "ret": 0.81,
-          "bank_after": 12.14
+          "stake": 0.21,
+          "ret": 0.73,
+          "bank_after": 11.27
         }
       ]
     }
   ],
   "score": {
-    "bets": 4,
-    "settled": 4,
+    "bets": 5,
+    "settled": 5,
     "won": 2,
     "placed": 0,
-    "lost": 2,
+    "lost": 3,
     "pending": 0
   },
-  "staked": 0.81,
-  "returned": 1.39,
+  "staked": 0.86,
+  "returned": 1.26,
   "bank": {
-    "start": 11.56,
-    "end": 12.14,
-    "next_stake": 0.12,
+    "start": 10.87,
+    "end": 11.27,
+    "next_stake": 0.11,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }

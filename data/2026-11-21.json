@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "11:53",
@@ -19,9 +19,9 @@
           "score": 209.1,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.91,
+          "stake": 0.64,
           "ret": 0.0,
-          "bank_after": 44.79
+          "bank_after": 31.56
         }
       ]
     },
@@ -41,9 +41,9 @@
           "score": 193.1,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.45,
+          "stake": 0.32,
           "ret": 0.0,
-          "bank_after": 44.34
+          "bank_after": 31.24
         },
         {
           "horse": "Mighty Park",
@@ -57,9 +57,9 @@
           "score": 123.45,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.45,
-          "ret": 1.35,
-          "bank_after": 45.24
+          "stake": 0.32,
+          "ret": 0.96,
+          "bank_after": 31.88
         }
       ]
     },
@@ -79,9 +79,9 @@
           "score": 137.0,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.45,
+          "stake": 0.32,
           "ret": 0.0,
-          "bank_after": 44.79
+          "bank_after": 31.56
         },
         {
           "horse": "Charlie My Boy",
@@ -95,9 +95,9 @@
           "score": 104.09,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.45,
+          "stake": 0.32,
           "ret": 0.0,
-          "bank_after": 44.34
+          "bank_after": 31.24
         }
       ]
     },
@@ -117,9 +117,9 @@
           "score": 141.56,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.44,
+          "stake": 0.31,
           "ret": 0.0,
-          "bank_after": 43.9
+          "bank_after": 30.93
         },
         {
           "horse": "Mr Nugget",
@@ -133,9 +133,9 @@
           "score": 135.26,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.44,
+          "stake": 0.31,
           "ret": 0.0,
-          "bank_after": 43.46
+          "bank_after": 30.62
         }
       ]
     },
@@ -155,9 +155,9 @@
           "score": 310.27,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.43,
+          "stake": 0.31,
           "ret": 0.0,
-          "bank_after": 43.03
+          "bank_after": 30.31
         },
         {
           "horse": "North Shore",
@@ -171,9 +171,9 @@
           "score": 170.29,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.43,
+          "stake": 0.31,
           "ret": 0.0,
-          "bank_after": 42.6
+          "bank_after": 30.0
         },
         {
           "horse": "Wilde's Legacy",
@@ -187,9 +187,9 @@
           "score": 104.97,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.43,
+          "stake": 0.31,
           "ret": 0.0,
-          "bank_after": 42.17
+          "bank_after": 29.69
         }
       ]
     },
@@ -209,9 +209,9 @@
           "score": 240.1,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.42,
+          "stake": 0.3,
           "ret": 0.0,
-          "bank_after": 41.75
+          "bank_after": 29.39
         },
         {
           "horse": "Argento Boy",
@@ -225,9 +225,25 @@
           "score": 157.39,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.42,
+          "stake": 0.3,
           "ret": 0.0,
-          "bank_after": 41.33
+          "bank_after": 29.09
+        },
+        {
+          "horse": "Spanish Harlem",
+          "stars": 3,
+          "odds": "14/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 143.85,
+          "pos": 0,
+          "res": "LOSE",
+          "stake": 0.3,
+          "ret": 0.0,
+          "bank_after": 28.79
         }
       ]
     },
@@ -247,9 +263,9 @@
           "score": 202.05,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.41,
+          "stake": 0.29,
           "ret": 0.0,
-          "bank_after": 40.92
+          "bank_after": 28.5
         },
         {
           "horse": "Tan Rapido",
@@ -263,9 +279,9 @@
           "score": 101.7,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.41,
+          "stake": 0.29,
           "ret": 0.0,
-          "bank_after": 40.51
+          "bank_after": 28.21
         }
       ]
     },
@@ -285,9 +301,25 @@
           "score": 169.0,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.41,
+          "stake": 0.28,
           "ret": 0.0,
-          "bank_after": 40.1
+          "bank_after": 27.93
+        },
+        {
+          "horse": "Bluegrass",
+          "stars": 3,
+          "odds": "16/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 131.34,
+          "pos": 0,
+          "res": "LOSE",
+          "stake": 0.28,
+          "ret": 0.0,
+          "bank_after": 27.65
         },
         {
           "horse": "Takeit Easy",
@@ -301,9 +333,9 @@
           "score": 102.33,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.41,
+          "stake": 0.28,
           "ret": 0.0,
-          "bank_after": 39.69
+          "bank_after": 27.37
         }
       ]
     },
@@ -323,9 +355,9 @@
           "score": 155.7,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.4,
+          "stake": 0.27,
           "ret": 0.0,
-          "bank_after": 39.29
+          "bank_after": 27.1
         },
         {
           "horse": "Love Of Neymore",
@@ -339,9 +371,9 @@
           "score": 110.0,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.4,
+          "stake": 0.27,
           "ret": 0.0,
-          "bank_after": 38.89
+          "bank_after": 26.83
         }
       ]
     },
@@ -362,9 +394,9 @@
           "score": 102.14,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.78,
+          "stake": 0.54,
           "ret": 0.0,
-          "bank_after": 38.11
+          "bank_after": 26.29
         },
         {
           "horse": "Macarone",
@@ -378,9 +410,9 @@
           "score": 160.67000000000002,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.39,
+          "stake": 0.27,
           "ret": 0.0,
-          "bank_after": 37.72
+          "bank_after": 26.02
         },
         {
           "horse": "Giorgio M",
@@ -394,9 +426,9 @@
           "score": 111.14,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.39,
-          "ret": 3.12,
-          "bank_after": 40.45
+          "stake": 0.27,
+          "ret": 2.16,
+          "bank_after": 27.91
         }
       ]
     },
@@ -416,9 +448,9 @@
           "score": 159.29,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.4,
+          "stake": 0.28,
           "ret": 0.0,
-          "bank_after": 40.05
+          "bank_after": 27.63
         },
         {
           "horse": "Matty's Getaway",
@@ -432,9 +464,9 @@
           "score": 115.28999999999999,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.4,
-          "ret": 1.5,
-          "bank_after": 41.15
+          "stake": 0.28,
+          "ret": 1.05,
+          "bank_after": 28.4
         },
         {
           "horse": "Serious Chat",
@@ -448,9 +480,9 @@
           "score": 108.92,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.4,
+          "stake": 0.28,
           "ret": 0.0,
-          "bank_after": 40.75
+          "bank_after": 28.12
         }
       ]
     },
@@ -470,9 +502,9 @@
           "score": 122.69,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.41,
+          "stake": 0.28,
           "ret": 0.0,
-          "bank_after": 40.34
+          "bank_after": 27.84
         },
         {
           "horse": "Cloudy Wednesday",
@@ -486,9 +518,9 @@
           "score": 121.03999999999999,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.41,
+          "stake": 0.28,
           "ret": 0.0,
-          "bank_after": 39.93
+          "bank_after": 27.56
         },
         {
           "horse": "Universal Secret",
@@ -502,9 +534,9 @@
           "score": 101.0,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.41,
+          "stake": 0.28,
           "ret": 0.0,
-          "bank_after": 39.52
+          "bank_after": 27.28
         }
       ]
     },
@@ -524,9 +556,9 @@
           "score": 202.9,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.4,
+          "stake": 0.27,
           "ret": 0.0,
-          "bank_after": 39.12
+          "bank_after": 27.01
         },
         {
           "horse": "My Gift To You",
@@ -540,9 +572,9 @@
           "score": 165.59,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.4,
+          "stake": 0.27,
           "ret": 0.0,
-          "bank_after": 38.72
+          "bank_after": 26.74
         }
       ]
     },
@@ -563,9 +595,9 @@
           "score": 206.1,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.77,
+          "stake": 0.53,
           "ret": 0.0,
-          "bank_after": 37.95
+          "bank_after": 26.21
         }
       ]
     },
@@ -585,9 +617,9 @@
           "score": 228.71,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.38,
+          "stake": 0.26,
           "ret": 0.0,
-          "bank_after": 37.57
+          "bank_after": 25.95
         },
         {
           "horse": "Dream Harder",
@@ -601,9 +633,9 @@
           "score": 141.86,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.38,
+          "stake": 0.26,
           "ret": 0.0,
-          "bank_after": 37.19
+          "bank_after": 25.69
         },
         {
           "horse": "Annandale",
@@ -617,9 +649,9 @@
           "score": 132.0,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.38,
+          "stake": 0.26,
           "ret": 0.0,
-          "bank_after": 36.81
+          "bank_after": 25.43
         }
       ]
     },
@@ -639,9 +671,9 @@
           "score": 177.26,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.37,
+          "stake": 0.25,
           "ret": 0.0,
-          "bank_after": 36.44
+          "bank_after": 25.18
         },
         {
           "horse": "Blue Collar Lad",
@@ -655,9 +687,9 @@
           "score": 168.14,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.37,
+          "stake": 0.25,
           "ret": 0.0,
-          "bank_after": 36.07
+          "bank_after": 24.93
         },
         {
           "horse": "Musical Soldier",
@@ -671,9 +703,9 @@
           "score": 119.53999999999999,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.37,
+          "stake": 0.25,
           "ret": 0.0,
-          "bank_after": 35.7
+          "bank_after": 24.68
         }
       ]
     },
@@ -693,9 +725,9 @@
           "score": 139.0,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.36,
-          "ret": 2.16,
-          "bank_after": 37.5
+          "stake": 0.25,
+          "ret": 1.5,
+          "bank_after": 25.93
         }
       ]
     },
@@ -716,9 +748,9 @@
           "score": 155.0,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.75,
+          "stake": 0.52,
           "ret": 0.0,
-          "bank_after": 36.75
+          "bank_after": 25.41
         },
         {
           "horse": "Raintown",
@@ -732,9 +764,9 @@
           "score": 125.26,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.38,
+          "stake": 0.26,
           "ret": 0.0,
-          "bank_after": 36.37
+          "bank_after": 25.15
         }
       ]
     },
@@ -754,9 +786,9 @@
           "score": 149.39,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.36,
+          "stake": 0.25,
           "ret": 0.0,
-          "bank_after": 36.01
+          "bank_after": 24.9
         },
         {
           "horse": "Le Grand Retour",
@@ -771,9 +803,9 @@
           "score": 137.5,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.73,
+          "stake": 0.5,
           "ret": 0.0,
-          "bank_after": 35.28
+          "bank_after": 24.4
         }
       ]
     },
@@ -794,9 +826,9 @@
           "score": 65.45,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.71,
+          "stake": 0.49,
           "ret": 0.0,
-          "bank_after": 34.57
+          "bank_after": 23.91
         },
         {
           "horse": "Eagle Storm",
@@ -811,9 +843,9 @@
           "score": 64.0,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.71,
-          "ret": 2.84,
-          "bank_after": 36.7
+          "stake": 0.49,
+          "ret": 1.96,
+          "bank_after": 25.38
         }
       ]
     },
@@ -834,9 +866,9 @@
           "score": 82.0,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.73,
+          "stake": 0.51,
           "ret": 0.0,
-          "bank_after": 35.97
+          "bank_after": 24.87
         },
         {
           "horse": "Khabib",
@@ -850,9 +882,9 @@
           "score": 151.71,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.37,
+          "stake": 0.25,
           "ret": 0.0,
-          "bank_after": 35.6
+          "bank_after": 24.62
         },
         {
           "horse": "Zuffolo",
@@ -866,9 +898,9 @@
           "score": 125.0,
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.37,
+          "stake": 0.25,
           "ret": 0.0,
-          "bank_after": 35.23
+          "bank_after": 24.37
         }
       ]
     },
@@ -888,9 +920,9 @@
           "score": 124.53999999999999,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.35,
+          "stake": 0.24,
           "ret": 0.0,
-          "bank_after": 34.88
+          "bank_after": 24.13
         },
         {
           "horse": "Starliner",
@@ -904,9 +936,9 @@
           "score": 114.0,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.35,
+          "stake": 0.24,
           "ret": 0.0,
-          "bank_after": 34.53
+          "bank_after": 23.89
         }
       ]
     },
@@ -926,9 +958,9 @@
           "score": 178.45,
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.35,
+          "stake": 0.24,
           "ret": 0.0,
-          "bank_after": 34.18
+          "bank_after": 23.65
         },
         {
           "horse": "Tasever",
@@ -942,9 +974,9 @@
           "score": 143.26,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.35,
+          "stake": 0.24,
           "ret": 0.0,
-          "bank_after": 33.83
+          "bank_after": 23.41
         }
       ]
     },
@@ -965,9 +997,9 @@
           "score": 129.67000000000002,
           "pos": 9,
           "res": "LOSE",
-          "stake": 0.68,
+          "stake": 0.47,
           "ret": 0.0,
-          "bank_after": 33.15
+          "bank_after": 22.94
         },
         {
           "horse": "Showtime Mahomes",
@@ -981,9 +1013,9 @@
           "score": 158.38,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.34,
+          "stake": 0.23,
           "ret": 0.0,
-          "bank_after": 32.81
+          "bank_after": 22.71
         },
         {
           "horse": "Miss Rainbow",
@@ -997,28 +1029,28 @@
           "score": 134.0,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.34,
+          "stake": 0.23,
           "ret": 0.0,
-          "bank_after": 32.47
+          "bank_after": 22.48
         }
       ]
     }
   ],
   "score": {
-    "bets": 53,
-    "settled": 53,
+    "bets": 55,
+    "settled": 55,
     "won": 5,
     "placed": 13,
-    "lost": 35,
+    "lost": 37,
     "pending": 0
   },
-  "staked": 24.2,
-  "returned": 10.97,
+  "staked": 17.35,
+  "returned": 7.63,
   "bank": {
-    "start": 45.7,
-    "end": 32.47,
-    "next_stake": 0.32,
+    "start": 32.2,
+    "end": 22.48,
+    "next_stake": 0.22,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }

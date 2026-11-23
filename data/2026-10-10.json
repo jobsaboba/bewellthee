@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "12:35",
@@ -18,9 +18,9 @@
           "score": 100.0,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.27,
-          "ret": 9.18,
-          "bank_after": 36.24
+          "stake": 0.24,
+          "ret": 8.16,
+          "bank_after": 31.92
         }
       ]
     },
@@ -28,6 +28,22 @@
       "time": "13:10",
       "meeting": "Chepstow",
       "picks": [
+        {
+          "horse": "Made U Blush",
+          "stars": 5,
+          "odds": "7/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 109.45,
+          "pos": 0,
+          "res": "LOSE",
+          "stake": 0.32,
+          "ret": 0.0,
+          "bank_after": 31.6
+        },
         {
           "horse": "Gallivanted",
           "stars": 4,
@@ -40,9 +56,9 @@
           "score": 103.75,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.36,
+          "stake": 0.32,
           "ret": 0.0,
-          "bank_after": 35.88
+          "bank_after": 31.28
         }
       ]
     },
@@ -62,9 +78,9 @@
           "score": 129.05,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.36,
+          "stake": 0.31,
           "ret": 0.0,
-          "bank_after": 35.52
+          "bank_after": 30.97
         },
         {
           "horse": "Nimba",
@@ -78,9 +94,9 @@
           "score": 117.0,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.36,
+          "stake": 0.31,
           "ret": 0.0,
-          "bank_after": 35.16
+          "bank_after": 30.66
         },
         {
           "horse": "Hitintheheadlines",
@@ -94,9 +110,9 @@
           "score": 105.45,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.36,
-          "ret": 5.4,
-          "bank_after": 40.2
+          "stake": 0.31,
+          "ret": 4.65,
+          "bank_after": 35.0
         }
       ]
     },
@@ -116,9 +132,9 @@
           "score": 192.85,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.4,
+          "stake": 0.35,
           "ret": 0.0,
-          "bank_after": 39.8
+          "bank_after": 34.65
         },
         {
           "horse": "Daylatedollarshort",
@@ -132,9 +148,9 @@
           "score": 117.0,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.4,
-          "ret": 2.0,
-          "bank_after": 41.4
+          "stake": 0.35,
+          "ret": 1.75,
+          "bank_after": 36.05
         },
         {
           "horse": "Perseus Way",
@@ -148,9 +164,9 @@
           "score": 109.81,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.4,
+          "stake": 0.35,
           "ret": 0.0,
-          "bank_after": 41.0
+          "bank_after": 35.7
         }
       ]
     },
@@ -171,28 +187,28 @@
           "score": 207.45,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.82,
-          "ret": 2.25,
-          "bank_after": 42.43
+          "stake": 0.71,
+          "ret": 1.95,
+          "bank_after": 36.94
         }
       ]
     }
   ],
   "score": {
-    "bets": 9,
-    "settled": 9,
+    "bets": 10,
+    "settled": 10,
     "won": 4,
     "placed": 4,
-    "lost": 1,
+    "lost": 2,
     "pending": 0
   },
-  "staked": 3.73,
-  "returned": 18.83,
+  "staked": 3.57,
+  "returned": 16.51,
   "bank": {
-    "start": 27.33,
-    "end": 42.43,
-    "next_stake": 0.42,
+    "start": 24.0,
+    "end": 36.94,
+    "next_stake": 0.37,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-06-07",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "15:27",
@@ -18,9 +18,9 @@
           "score": 134.81,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.19,
+          "stake": 0.17,
           "ret": 0.0,
-          "bank_after": 18.94
+          "bank_after": 16.94
         },
         {
           "horse": "Riskintheground",
@@ -34,9 +34,9 @@
           "score": 109.45,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.19,
-          "ret": 1.04,
-          "bank_after": 19.79
+          "stake": 0.17,
+          "ret": 0.94,
+          "bank_after": 17.71
         }
       ]
     },
@@ -56,9 +56,9 @@
           "score": 113.45,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.2,
+          "stake": 0.18,
           "ret": 0.0,
-          "bank_after": 19.59
+          "bank_after": 17.53
         }
       ]
     }
@@ -71,13 +71,13 @@
     "lost": 0,
     "pending": 0
   },
-  "staked": 0.58,
-  "returned": 1.04,
+  "staked": 0.52,
+  "returned": 0.94,
   "bank": {
-    "start": 19.13,
-    "end": 19.59,
-    "next_stake": 0.2,
+    "start": 17.11,
+    "end": 17.53,
+    "next_stake": 0.18,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }

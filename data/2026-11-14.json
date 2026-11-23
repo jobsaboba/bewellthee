@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "11:52",
@@ -18,9 +18,9 @@
           "score": 275.54,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.09,
+          "stake": 0.9,
           "ret": 0.0,
-          "bank_after": 107.63
+          "bank_after": 89.09
         },
         {
           "horse": "Charismatic Kid",
@@ -34,9 +34,31 @@
           "score": 149.51,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.09,
+          "stake": 0.9,
           "ret": 0.0,
-          "bank_after": 106.54
+          "bank_after": 88.19
+        }
+      ]
+    },
+    {
+      "time": "12:07",
+      "meeting": "Uttoxeter",
+      "picks": [
+        {
+          "horse": "Back In The Bay",
+          "stars": 3,
+          "odds": "8/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 103.1,
+          "pos": 0,
+          "res": "LOSE",
+          "stake": 0.88,
+          "ret": 0.0,
+          "bank_after": 87.31
         }
       ]
     },
@@ -57,9 +79,9 @@
           "score": 42.0,
           "pos": 2,
           "res": "PLACE",
-          "stake": 2.13,
+          "stake": 1.75,
           "ret": 0.0,
-          "bank_after": 104.41
+          "bank_after": 85.56
         },
         {
           "horse": "Ti'mamzel",
@@ -74,9 +96,31 @@
           "score": 127.23,
           "pos": 0,
           "res": "NR",
-          "stake": 2.13,
-          "ret": 2.13,
-          "bank_after": 104.41
+          "stake": 1.75,
+          "ret": 1.75,
+          "bank_after": 85.56
+        }
+      ]
+    },
+    {
+      "time": "12:42",
+      "meeting": "Uttoxeter",
+      "picks": [
+        {
+          "horse": "Spanish Darling",
+          "stars": 5,
+          "odds": "4/9",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 106.75,
+          "pos": 0,
+          "res": "LOSE",
+          "stake": 0.86,
+          "ret": 0.0,
+          "bank_after": 84.7
         }
       ]
     },
@@ -96,9 +140,9 @@
           "score": 189.64,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.04,
+          "stake": 0.85,
           "ret": 0.0,
-          "bank_after": 103.37
+          "bank_after": 83.85
         },
         {
           "horse": "Magnetude",
@@ -112,9 +156,9 @@
           "score": 106.73,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.04,
+          "stake": 0.85,
           "ret": 0.0,
-          "bank_after": 102.33
+          "bank_after": 83.0
         }
       ]
     },
@@ -134,9 +178,9 @@
           "score": 130.36,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.02,
+          "stake": 0.83,
           "ret": 0.0,
-          "bank_after": 101.31
+          "bank_after": 82.17
         },
         {
           "horse": "Doctor On Call",
@@ -150,9 +194,9 @@
           "score": 109.08,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.02,
+          "stake": 0.83,
           "ret": 0.0,
-          "bank_after": 100.29
+          "bank_after": 81.34
         }
       ]
     },
@@ -172,9 +216,9 @@
           "score": 201.94,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.0,
+          "stake": 0.81,
           "ret": 0.0,
-          "bank_after": 99.29
+          "bank_after": 80.53
         },
         {
           "horse": "Thinkitdontjinxit",
@@ -188,9 +232,31 @@
           "score": 109.51,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.0,
-          "ret": 3.0,
-          "bank_after": 101.29
+          "stake": 0.81,
+          "ret": 2.43,
+          "bank_after": 82.15
+        }
+      ]
+    },
+    {
+      "time": "14:07",
+      "meeting": "Navan",
+      "picks": [
+        {
+          "horse": "The Yellow Clay",
+          "stars": 4,
+          "odds": "3/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 113.51,
+          "pos": 0,
+          "res": "LOSE",
+          "stake": 0.82,
+          "ret": 0.0,
+          "bank_after": 81.33
         }
       ]
     },
@@ -211,9 +277,9 @@
           "score": 177.11,
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.03,
+          "stake": 1.63,
           "ret": 0.0,
-          "bank_after": 99.26
+          "bank_after": 79.7
         },
         {
           "horse": "Meetmebythesea",
@@ -227,9 +293,9 @@
           "score": 161.54,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.01,
-          "ret": 3.54,
-          "bank_after": 101.79
+          "stake": 0.81,
+          "ret": 2.83,
+          "bank_after": 81.72
         },
         {
           "horse": "Blueking D'oroux",
@@ -243,9 +309,9 @@
           "score": 128.26,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.01,
+          "stake": 0.81,
           "ret": 0.0,
-          "bank_after": 100.78
+          "bank_after": 80.91
         }
       ]
     },
@@ -266,9 +332,9 @@
           "score": 50.230000000000004,
           "pos": 3,
           "res": "LOSE",
-          "stake": 2.02,
+          "stake": 1.62,
           "ret": 0.0,
-          "bank_after": 98.76
+          "bank_after": 79.29
         },
         {
           "horse": "King Califet",
@@ -282,9 +348,9 @@
           "score": 135.36,
           "pos": 0,
           "res": "?",
-          "stake": 1.01,
+          "stake": 0.81,
           "ret": null,
-          "bank_after": 98.76
+          "bank_after": 79.29
         }
       ]
     },
@@ -304,9 +370,9 @@
           "score": 120.23,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.99,
+          "stake": 0.79,
           "ret": 0.0,
-          "bank_after": 97.77
+          "bank_after": 78.5
         },
         {
           "horse": "Seamoon Story",
@@ -321,9 +387,9 @@
           "score": 71.0,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.98,
+          "stake": 1.59,
           "ret": 0.0,
-          "bank_after": 95.79
+          "bank_after": 76.91
         }
       ]
     },
@@ -344,9 +410,9 @@
           "score": 162.0,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.92,
+          "stake": 1.54,
           "ret": 0.0,
-          "bank_after": 93.87
+          "bank_after": 75.37
         }
       ]
     },
@@ -367,9 +433,9 @@
           "score": 50.230000000000004,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.88,
+          "stake": 1.51,
           "ret": 0.0,
-          "bank_after": 91.99
+          "bank_after": 73.86
         }
       ]
     },
@@ -389,9 +455,9 @@
           "score": 134.93,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.92,
+          "stake": 0.74,
           "ret": 0.0,
-          "bank_after": 91.07
+          "bank_after": 73.12
         }
       ]
     },
@@ -411,9 +477,9 @@
           "score": 166.54,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.91,
+          "stake": 0.73,
           "ret": 0.0,
-          "bank_after": 90.16
+          "bank_after": 72.39
         },
         {
           "horse": "Elegantemente",
@@ -427,28 +493,28 @@
           "score": 156.64,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.91,
-          "ret": 2.96,
-          "bank_after": 92.21
+          "stake": 0.73,
+          "ret": 2.37,
+          "bank_after": 74.03
         }
       ]
     }
   ],
   "score": {
-    "bets": 22,
-    "settled": 20,
+    "bets": 25,
+    "settled": 23,
     "won": 3,
     "placed": 7,
-    "lost": 10,
+    "lost": 13,
     "pending": 2
   },
-  "staked": 26.01,
-  "returned": 9.5,
+  "staked": 23.59,
+  "returned": 7.63,
   "bank": {
-    "start": 108.72,
-    "end": 92.21,
-    "next_stake": 0.92,
+    "start": 89.99,
+    "end": 74.03,
+    "next_stake": 0.74,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }

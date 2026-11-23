@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "14:16",
@@ -19,9 +19,9 @@
           "score": 157.45,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.97,
-          "ret": 1.36,
-          "bank_after": 48.86
+          "stake": 0.84,
+          "ret": 1.18,
+          "bank_after": 42.14
         }
       ]
     },
@@ -42,9 +42,9 @@
           "score": 127.45,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.98,
+          "stake": 0.84,
           "ret": 0.0,
-          "bank_after": 47.88
+          "bank_after": 41.3
         }
       ]
     },
@@ -64,9 +64,9 @@
           "score": 174.59,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.48,
+          "stake": 0.41,
           "ret": 0.0,
-          "bank_after": 47.4
+          "bank_after": 40.89
         },
         {
           "horse": "Just Golden",
@@ -80,9 +80,9 @@
           "score": 107.45,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.48,
+          "stake": 0.41,
           "ret": 0.0,
-          "bank_after": 46.92
+          "bank_after": 40.48
         }
       ]
     },
@@ -103,9 +103,9 @@
           "score": 135.45,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.94,
+          "stake": 0.81,
           "ret": 0.0,
-          "bank_after": 45.98
+          "bank_after": 39.67
         }
       ]
     }
@@ -118,13 +118,13 @@
     "lost": 3,
     "pending": 0
   },
-  "staked": 3.85,
-  "returned": 1.36,
+  "staked": 3.31,
+  "returned": 1.18,
   "bank": {
-    "start": 48.47,
-    "end": 45.98,
-    "next_stake": 0.46,
+    "start": 41.8,
+    "end": 39.67,
+    "next_stake": 0.4,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }

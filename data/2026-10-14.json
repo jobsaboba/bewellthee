@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "15:38",
@@ -18,9 +18,9 @@
           "score": 170.85,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.44,
-          "ret": 2.2,
-          "bank_after": 45.89
+          "stake": 0.38,
+          "ret": 1.9,
+          "bank_after": 39.94
         },
         {
           "horse": "Il Est Francais",
@@ -34,9 +34,9 @@
           "score": 139.45,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.44,
+          "stake": 0.38,
           "ret": 0.0,
-          "bank_after": 45.45
+          "bank_after": 39.56
         },
         {
           "horse": "Crebilly",
@@ -50,9 +50,9 @@
           "score": 111.88,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.44,
+          "stake": 0.38,
           "ret": 0.0,
-          "bank_after": 45.01
+          "bank_after": 39.18
         }
       ]
     }
@@ -65,13 +65,13 @@
     "lost": 1,
     "pending": 0
   },
-  "staked": 1.32,
-  "returned": 2.2,
+  "staked": 1.14,
+  "returned": 1.9,
   "bank": {
-    "start": 44.13,
-    "end": 45.01,
-    "next_stake": 0.45,
+    "start": 38.42,
+    "end": 39.18,
+    "next_stake": 0.39,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }

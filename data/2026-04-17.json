@@ -1,6 +1,6 @@
 {
   "date": "2026-04-17",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "12:45",
@@ -18,9 +18,9 @@
           "score": 150.0,
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.13,
+          "stake": 0.12,
           "ret": 0.0,
-          "bank_after": 13.22
+          "bank_after": 12.28
         }
       ]
     },
@@ -40,28 +40,66 @@
           "score": 129.45,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.13,
+          "stake": 0.12,
           "ret": 0.0,
-          "bank_after": 13.09
+          "bank_after": 12.16
+        }
+      ]
+    },
+    {
+      "time": "15:43",
+      "meeting": "Ayr",
+      "picks": [
+        {
+          "horse": "Hidden History",
+          "stars": 2,
+          "odds": "11/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 106.45,
+          "pos": 0,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 12.04
+        },
+        {
+          "horse": "Woodland Park",
+          "stars": 3,
+          "odds": "7/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 105.0,
+          "pos": 0,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 11.92
         }
       ]
     }
   ],
   "score": {
-    "bets": 2,
-    "settled": 2,
+    "bets": 4,
+    "settled": 4,
     "won": 0,
     "placed": 0,
-    "lost": 2,
+    "lost": 4,
     "pending": 0
   },
-  "staked": 0.26,
+  "staked": 0.48,
   "returned": 0.0,
   "bank": {
-    "start": 13.35,
-    "end": 13.09,
-    "next_stake": 0.13,
+    "start": 12.4,
+    "end": 11.92,
+    "next_stake": 0.12,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }

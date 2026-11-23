@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "12:50",
@@ -20,9 +20,9 @@
           "score": 221.56,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.66,
-          "ret": 2.61,
-          "bank_after": 56.23
+          "stake": 1.41,
+          "ret": 2.22,
+          "bank_after": 47.66
         }
       ]
     },
@@ -43,9 +43,9 @@
           "score": 78.5,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.12,
+          "stake": 0.95,
           "ret": 0.0,
-          "bank_after": 55.11
+          "bank_after": 46.71
         }
       ]
     },
@@ -66,9 +66,9 @@
           "score": 55,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.1,
+          "stake": 0.93,
           "ret": 0.0,
-          "bank_after": 54.01
+          "bank_after": 45.78
         },
         {
           "horse": "Bragbor",
@@ -83,9 +83,9 @@
           "score": 46,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.1,
-          "ret": 7.7,
-          "bank_after": 60.61
+          "stake": 0.93,
+          "ret": 6.51,
+          "bank_after": 51.36
         }
       ]
     },
@@ -105,9 +105,9 @@
           "score": 117,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.61,
-          "ret": 2.13,
-          "bank_after": 62.13
+          "stake": 0.51,
+          "ret": 1.79,
+          "bank_after": 52.64
         }
       ]
     },
@@ -128,9 +128,9 @@
           "score": 118.85,
           "pos": 3,
           "res": "PLACE",
-          "stake": 1.24,
+          "stake": 1.05,
           "ret": 0.0,
-          "bank_after": 60.89
+          "bank_after": 51.59
         }
       ]
     },
@@ -151,9 +151,9 @@
           "score": 33,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.22,
-          "ret": 5.49,
-          "bank_after": 65.16
+          "stake": 1.03,
+          "ret": 4.63,
+          "bank_after": 55.19
         }
       ]
     },
@@ -174,9 +174,9 @@
           "score": 57,
           "pos": 9,
           "res": "LOSE",
-          "stake": 1.3,
+          "stake": 1.1,
           "ret": 0.0,
-          "bank_after": 63.86
+          "bank_after": 54.09
         }
       ]
     },
@@ -197,9 +197,9 @@
           "score": 67,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.28,
-          "ret": 4.16,
-          "bank_after": 66.74
+          "stake": 1.08,
+          "ret": 3.51,
+          "bank_after": 56.52
         }
       ]
     },
@@ -220,9 +220,9 @@
           "score": 32,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.33,
+          "stake": 1.13,
           "ret": 0.0,
-          "bank_after": 65.41
+          "bank_after": 55.39
         },
         {
           "horse": "Oxford Circus",
@@ -238,9 +238,9 @@
           "score": 115.8,
           "pos": 1,
           "res": "WIN",
-          "stake": 2.0,
-          "ret": 7.0,
-          "bank_after": 70.41
+          "stake": 1.7,
+          "ret": 5.95,
+          "bank_after": 59.64
         }
       ]
     },
@@ -261,9 +261,9 @@
           "score": 30,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.41,
+          "stake": 1.19,
           "ret": 0.0,
-          "bank_after": 69.0
+          "bank_after": 58.45
         },
         {
           "horse": "Soaring Sun",
@@ -278,9 +278,9 @@
           "score": 51,
           "pos": 8,
           "res": "LOSE",
-          "stake": 1.41,
+          "stake": 1.19,
           "ret": 0.0,
-          "bank_after": 67.59
+          "bank_after": 57.26
         }
       ]
     },
@@ -301,9 +301,9 @@
           "score": 33,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.35,
+          "stake": 1.15,
           "ret": 0.0,
-          "bank_after": 66.24
+          "bank_after": 56.11
         }
       ]
     },
@@ -324,9 +324,9 @@
           "score": 46,
           "pos": 6,
           "res": "LOSE",
-          "stake": 1.32,
+          "stake": 1.12,
           "ret": 0.0,
-          "bank_after": 64.92
+          "bank_after": 54.99
         }
       ]
     },
@@ -347,9 +347,9 @@
           "score": 33,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.3,
+          "stake": 1.1,
           "ret": 0.0,
-          "bank_after": 63.62
+          "bank_after": 53.89
         }
       ]
     },
@@ -370,9 +370,9 @@
           "score": 52,
           "pos": 7,
           "res": "LOSE",
-          "stake": 1.27,
+          "stake": 1.08,
           "ret": 0.0,
-          "bank_after": 62.35
+          "bank_after": 52.81
         }
       ]
     }
@@ -385,13 +385,13 @@
     "lost": 7,
     "pending": 0
   },
-  "staked": 22.02,
-  "returned": 29.09,
+  "staked": 18.65,
+  "returned": 24.61,
   "bank": {
-    "start": 55.28,
-    "end": 62.35,
-    "next_stake": 0.62,
+    "start": 46.85,
+    "end": 52.81,
+    "next_stake": 0.53,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }

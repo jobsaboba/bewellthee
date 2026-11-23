@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "11:57",
@@ -18,9 +18,9 @@
           "score": 127.0,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.61,
+          "stake": 0.45,
           "ret": 0.0,
-          "bank_after": 60.3
+          "bank_after": 44.72
         },
         {
           "horse": "Power Of Silence",
@@ -34,9 +34,9 @@
           "score": 117.25,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.61,
+          "stake": 0.45,
           "ret": 0.0,
-          "bank_after": 59.69
+          "bank_after": 44.27
         },
         {
           "horse": "L'unique Allen",
@@ -50,9 +50,9 @@
           "score": 115.95,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.61,
-          "ret": 2.75,
-          "bank_after": 61.83
+          "stake": 0.45,
+          "ret": 2.02,
+          "bank_after": 45.84
         }
       ]
     },
@@ -72,9 +72,25 @@
           "score": 224.81,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.62,
-          "ret": 1.07,
-          "bank_after": 62.28
+          "stake": 0.46,
+          "ret": 0.79,
+          "bank_after": 46.17
+        },
+        {
+          "horse": "Stede Bonnet",
+          "stars": 3,
+          "odds": "13/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 142.07999999999998,
+          "pos": 0,
+          "res": "LOSE",
+          "stake": 0.46,
+          "ret": 0.0,
+          "bank_after": 45.71
         }
       ]
     },
@@ -94,9 +110,9 @@
           "score": 134.28,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.62,
+          "stake": 0.46,
           "ret": 0.0,
-          "bank_after": 61.66
+          "bank_after": 45.25
         },
         {
           "horse": "Rock On Ronnie",
@@ -110,9 +126,9 @@
           "score": 124.95,
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.62,
+          "stake": 0.46,
           "ret": 0.0,
-          "bank_after": 61.04
+          "bank_after": 44.79
         }
       ]
     },
@@ -132,9 +148,9 @@
           "score": 113.75,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.61,
+          "stake": 0.45,
           "ret": 0.0,
-          "bank_after": 60.43
+          "bank_after": 44.34
         }
       ]
     },
@@ -154,9 +170,9 @@
           "score": 186.95,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.6,
+          "stake": 0.44,
           "ret": 0.0,
-          "bank_after": 59.83
+          "bank_after": 43.9
         },
         {
           "horse": "Capricciose",
@@ -170,9 +186,9 @@
           "score": 158.25,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.6,
+          "stake": 0.44,
           "ret": 0.0,
-          "bank_after": 59.23
+          "bank_after": 43.46
         }
       ]
     },
@@ -192,9 +208,9 @@
           "score": 245.56,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.59,
+          "stake": 0.43,
           "ret": 0.0,
-          "bank_after": 58.64
+          "bank_after": 43.03
         },
         {
           "horse": "Nocte Volatus",
@@ -209,9 +225,9 @@
           "score": 242.76,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.18,
+          "stake": 0.87,
           "ret": 0.0,
-          "bank_after": 57.46
+          "bank_after": 42.16
         },
         {
           "horse": "Sure Touch",
@@ -225,9 +241,9 @@
           "score": 225.95,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.59,
+          "stake": 0.43,
           "ret": 0.0,
-          "bank_after": 56.87
+          "bank_after": 41.73
         }
       ]
     },
@@ -247,9 +263,9 @@
           "score": 148.55,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.57,
+          "stake": 0.42,
           "ret": 0.0,
-          "bank_after": 56.3
+          "bank_after": 41.31
         }
       ]
     },
@@ -269,9 +285,9 @@
           "score": 140.64,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.56,
+          "stake": 0.41,
           "ret": 0.0,
-          "bank_after": 55.74
+          "bank_after": 40.9
         },
         {
           "horse": "Pierian",
@@ -285,9 +301,9 @@
           "score": 124.51,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.56,
+          "stake": 0.41,
           "ret": 0.0,
-          "bank_after": 55.18
+          "bank_after": 40.49
         },
         {
           "horse": "Likealot",
@@ -301,9 +317,9 @@
           "score": 105.78,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.56,
+          "stake": 0.41,
           "ret": 0.0,
-          "bank_after": 54.62
+          "bank_after": 40.08
         }
       ]
     },
@@ -323,9 +339,9 @@
           "score": 150.95,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.55,
+          "stake": 0.4,
           "ret": 0.0,
-          "bank_after": 54.07
+          "bank_after": 39.68
         },
         {
           "horse": "Betty's Daisy",
@@ -339,9 +355,9 @@
           "score": 111.28,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.55,
+          "stake": 0.4,
           "ret": 0.0,
-          "bank_after": 53.52
+          "bank_after": 39.28
         },
         {
           "horse": "Miss Cynthia",
@@ -355,9 +371,9 @@
           "score": 103.0,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.55,
+          "stake": 0.4,
           "ret": 0.0,
-          "bank_after": 52.97
+          "bank_after": 38.88
         }
       ]
     },
@@ -377,9 +393,9 @@
           "score": 186.0,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.53,
+          "stake": 0.39,
           "ret": 0.0,
-          "bank_after": 52.44
+          "bank_after": 38.49
         }
       ]
     },
@@ -399,9 +415,9 @@
           "score": 132.0,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.52,
+          "stake": 0.38,
           "ret": 0.0,
-          "bank_after": 51.92
+          "bank_after": 38.11
         },
         {
           "horse": "Sky Safari",
@@ -415,9 +431,9 @@
           "score": 119.28999999999999,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.52,
+          "stake": 0.38,
           "ret": 0.0,
-          "bank_after": 51.4
+          "bank_after": 37.73
         }
       ]
     },
@@ -437,9 +453,9 @@
           "score": 247.26,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.51,
+          "stake": 0.38,
           "ret": 0.0,
-          "bank_after": 50.89
+          "bank_after": 37.35
         },
         {
           "horse": "King Of War",
@@ -453,9 +469,9 @@
           "score": 128.07,
           "pos": 13,
           "res": "LOSE",
-          "stake": 0.51,
+          "stake": 0.38,
           "ret": 0.0,
-          "bank_after": 50.38
+          "bank_after": 36.97
         }
       ]
     },
@@ -475,9 +491,9 @@
           "score": 142.25,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.5,
+          "stake": 0.37,
           "ret": 0.0,
-          "bank_after": 49.88
+          "bank_after": 36.6
         },
         {
           "horse": "Galant Jewel",
@@ -491,9 +507,9 @@
           "score": 107.95,
           "pos": 12,
           "res": "LOSE",
-          "stake": 0.5,
+          "stake": 0.37,
           "ret": 0.0,
-          "bank_after": 49.38
+          "bank_after": 36.23
         }
       ]
     },
@@ -513,9 +529,9 @@
           "score": 118.7,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.49,
-          "ret": 0.94,
-          "bank_after": 49.83
+          "stake": 0.36,
+          "ret": 0.69,
+          "bank_after": 36.56
         },
         {
           "horse": "Marhaba Ghaiyyath",
@@ -529,9 +545,9 @@
           "score": 108.0,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.49,
+          "stake": 0.36,
           "ret": 0.0,
-          "bank_after": 49.34
+          "bank_after": 36.2
         }
       ]
     },
@@ -551,9 +567,9 @@
           "score": 207.51,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.49,
+          "stake": 0.36,
           "ret": 0.0,
-          "bank_after": 48.85
+          "bank_after": 35.84
         },
         {
           "horse": "Pearl Eye",
@@ -567,9 +583,9 @@
           "score": 140.0,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.49,
+          "stake": 0.36,
           "ret": 0.0,
-          "bank_after": 48.36
+          "bank_after": 35.48
         }
       ]
     },
@@ -589,9 +605,9 @@
           "score": 222.07,
           "pos": 3,
           "res": "LOSE",
-          "stake": 0.48,
+          "stake": 0.35,
           "ret": 0.0,
-          "bank_after": 47.88
+          "bank_after": 35.13
         }
       ]
     },
@@ -612,9 +628,9 @@
           "score": 145.25,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.96,
-          "ret": 6.72,
-          "bank_after": 53.64
+          "stake": 0.7,
+          "ret": 4.9,
+          "bank_after": 39.33
         },
         {
           "horse": "Luminare",
@@ -628,9 +644,9 @@
           "score": 128.64,
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.48,
+          "stake": 0.35,
           "ret": 0.0,
-          "bank_after": 53.16
+          "bank_after": 38.98
         },
         {
           "horse": "Pol Roger",
@@ -644,9 +660,9 @@
           "score": 118.0,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.48,
+          "stake": 0.35,
           "ret": 0.0,
-          "bank_after": 52.68
+          "bank_after": 38.63
         }
       ]
     },
@@ -666,9 +682,9 @@
           "score": 136.69,
           "pos": 13,
           "res": "LOSE",
-          "stake": 0.53,
+          "stake": 0.39,
           "ret": 0.0,
-          "bank_after": 52.15
+          "bank_after": 38.24
         },
         {
           "horse": "Starmade",
@@ -682,9 +698,9 @@
           "score": 111.50999999999999,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.53,
+          "stake": 0.39,
           "ret": 0.0,
-          "bank_after": 51.62
+          "bank_after": 37.85
         }
       ]
     },
@@ -705,9 +721,9 @@
           "score": 170.88,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.03,
+          "stake": 0.76,
           "ret": 0.0,
-          "bank_after": 50.59
+          "bank_after": 37.09
         },
         {
           "horse": "Rock Of England",
@@ -722,9 +738,9 @@
           "score": 147.64,
           "pos": 12,
           "res": "LOSE",
-          "stake": 1.03,
+          "stake": 0.76,
           "ret": 0.0,
-          "bank_after": 49.56
+          "bank_after": 36.33
         },
         {
           "horse": "Our Absent Friends",
@@ -738,28 +754,28 @@
           "score": 164.41,
           "pos": 11,
           "res": "LOSE",
-          "stake": 0.52,
+          "stake": 0.38,
           "ret": 0.0,
-          "bank_after": 49.04
+          "bank_after": 35.95
         }
       ]
     }
   ],
   "score": {
-    "bets": 39,
-    "settled": 39,
+    "bets": 40,
+    "settled": 40,
     "won": 4,
     "placed": 9,
-    "lost": 26,
+    "lost": 27,
     "pending": 0
   },
-  "staked": 23.35,
-  "returned": 11.48,
+  "staked": 17.62,
+  "returned": 8.4,
   "bank": {
-    "start": 60.91,
-    "end": 49.04,
-    "next_stake": 0.49,
+    "start": 45.17,
+    "end": 35.95,
+    "next_stake": 0.36,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }

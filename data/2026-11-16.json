@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "13:15",
@@ -18,9 +18,9 @@
           "score": 204.4,
           "pos": 3,
           "res": "PLACE",
-          "stake": 0.86,
+          "stake": 0.65,
           "ret": 0.0,
-          "bank_after": 85.28
+          "bank_after": 64.53
         },
         {
           "horse": "Bread And Butter",
@@ -34,9 +34,9 @@
           "score": 120.0,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.86,
+          "stake": 0.65,
           "ret": 0.0,
-          "bank_after": 84.42
+          "bank_after": 63.88
         }
       ]
     },
@@ -56,9 +56,9 @@
           "score": 295.78000000000003,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.84,
+          "stake": 0.64,
           "ret": 0.0,
-          "bank_after": 83.58
+          "bank_after": 63.24
         },
         {
           "horse": "Tune In A Box",
@@ -73,9 +73,9 @@
           "score": 230.12,
           "pos": 5,
           "res": "LOSE",
-          "stake": 1.69,
+          "stake": 1.28,
           "ret": 0.0,
-          "bank_after": 81.89
+          "bank_after": 61.96
         },
         {
           "horse": "Norman Fletcher",
@@ -89,9 +89,9 @@
           "score": 168.26999999999998,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.84,
-          "ret": 6.72,
-          "bank_after": 87.77
+          "stake": 0.64,
+          "ret": 5.12,
+          "bank_after": 66.44
         }
       ]
     },
@@ -112,9 +112,9 @@
           "score": 46.0,
           "pos": 1,
           "res": "WIN",
-          "stake": 1.76,
-          "ret": 10.56,
-          "bank_after": 96.57
+          "stake": 1.33,
+          "ret": 7.98,
+          "bank_after": 73.09
         }
       ]
     },
@@ -134,9 +134,9 @@
           "score": 109.33,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.97,
+          "stake": 0.73,
           "ret": 0.0,
-          "bank_after": 95.6
+          "bank_after": 72.36
         },
         {
           "horse": "Sir Edward Lear",
@@ -150,9 +150,9 @@
           "score": 104.50999999999999,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.97,
+          "stake": 0.73,
           "ret": 0.0,
-          "bank_after": 94.63
+          "bank_after": 71.63
         },
         {
           "horse": "Kotari",
@@ -167,9 +167,9 @@
           "score": 74.86,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.93,
+          "stake": 1.46,
           "ret": 0.0,
-          "bank_after": 92.7
+          "bank_after": 70.17
         }
       ]
     },
@@ -189,9 +189,9 @@
           "score": 103.0,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.93,
-          "ret": 2.09,
-          "bank_after": 93.86
+          "stake": 0.7,
+          "ret": 1.57,
+          "bank_after": 71.04
         },
         {
           "horse": "Masai Land",
@@ -206,9 +206,9 @@
           "score": 58.0,
           "pos": 2,
           "res": "PLACE",
-          "stake": 1.85,
+          "stake": 1.4,
           "ret": 0.0,
-          "bank_after": 92.01
+          "bank_after": 69.64
         }
       ]
     },
@@ -229,9 +229,9 @@
           "score": 105.65,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.84,
+          "stake": 1.39,
           "ret": 0.0,
-          "bank_after": 90.17
+          "bank_after": 68.25
         }
       ]
     },
@@ -251,9 +251,9 @@
           "score": 196.38,
           "pos": 4,
           "res": "LOSE",
-          "stake": 0.9,
+          "stake": 0.68,
           "ret": 0.0,
-          "bank_after": 89.27
+          "bank_after": 67.57
         },
         {
           "horse": "Alligator Alley",
@@ -267,9 +267,9 @@
           "score": 189.0,
           "pos": 10,
           "res": "LOSE",
-          "stake": 0.9,
+          "stake": 0.68,
           "ret": 0.0,
-          "bank_after": 88.37
+          "bank_after": 66.89
         },
         {
           "horse": "Knebworth",
@@ -283,9 +283,9 @@
           "score": 152.67000000000002,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.9,
+          "stake": 0.68,
           "ret": 0.0,
-          "bank_after": 87.47
+          "bank_after": 66.21
         }
       ]
     },
@@ -306,9 +306,9 @@
           "score": 343.0,
           "pos": 7,
           "res": "LOSE",
-          "stake": 1.75,
+          "stake": 1.32,
           "ret": 0.0,
-          "bank_after": 85.72
+          "bank_after": 64.89
         },
         {
           "horse": "Split Elevens",
@@ -324,9 +324,9 @@
           "score": 302.0,
           "pos": 3,
           "res": "PLACE",
-          "stake": 2.62,
+          "stake": 1.99,
           "ret": 0.0,
-          "bank_after": 83.1
+          "bank_after": 62.9
         },
         {
           "horse": "Mumayaz",
@@ -340,9 +340,9 @@
           "score": 214.0,
           "pos": 8,
           "res": "LOSE",
-          "stake": 0.87,
+          "stake": 0.66,
           "ret": 0.0,
-          "bank_after": 82.23
+          "bank_after": 62.24
         }
       ]
     },
@@ -363,9 +363,9 @@
           "score": 165.26,
           "pos": 4,
           "res": "LOSE",
-          "stake": 1.64,
+          "stake": 1.24,
           "ret": 0.0,
-          "bank_after": 80.59
+          "bank_after": 61.0
         },
         {
           "horse": "R P Mcmurphy",
@@ -379,9 +379,9 @@
           "score": 111.0,
           "pos": 12,
           "res": "LOSE",
-          "stake": 0.82,
+          "stake": 0.62,
           "ret": 0.0,
-          "bank_after": 79.77
+          "bank_after": 60.38
         }
       ]
     },
@@ -402,9 +402,9 @@
           "score": 250.0,
           "pos": 9,
           "res": "LOSE",
-          "stake": 1.6,
+          "stake": 1.21,
           "ret": 0.0,
-          "bank_after": 78.17
+          "bank_after": 59.17
         },
         {
           "horse": "Mr Nugget",
@@ -420,9 +420,9 @@
           "score": 132.0,
           "pos": 2,
           "res": "PLACE",
-          "stake": 2.39,
+          "stake": 1.81,
           "ret": 0.0,
-          "bank_after": 75.78
+          "bank_after": 57.36
         },
         {
           "horse": "Farasi Lane",
@@ -436,9 +436,9 @@
           "score": 151.0,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.8,
+          "stake": 0.6,
           "ret": 0.0,
-          "bank_after": 74.98
+          "bank_after": 56.76
         }
       ]
     },
@@ -458,9 +458,9 @@
           "score": 156.67000000000002,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.75,
+          "stake": 0.57,
           "ret": 0.0,
-          "bank_after": 74.23
+          "bank_after": 56.19
         },
         {
           "horse": "It's A Love Thing",
@@ -474,9 +474,9 @@
           "score": 144.0,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.75,
-          "ret": 4.5,
-          "bank_after": 77.98
+          "stake": 0.57,
+          "ret": 3.42,
+          "bank_after": 59.04
         }
       ]
     }
@@ -489,13 +489,13 @@
     "lost": 16,
     "pending": 0
   },
-  "staked": 32.03,
-  "returned": 23.87,
+  "staked": 24.23,
+  "returned": 18.09,
   "bank": {
-    "start": 86.14,
-    "end": 77.98,
-    "next_stake": 0.78,
+    "start": 65.18,
+    "end": 59.04,
+    "next_stake": 0.59,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }

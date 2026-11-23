@@ -1,6 +1,6 @@
 {
   "date": "2026-04-24",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "12:30",
@@ -19,9 +19,9 @@
           "score": 145.45,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.26,
-          "ret": 0.34,
-          "bank_after": 12.94
+          "stake": 0.23,
+          "ret": 0.3,
+          "bank_after": 11.55
         }
       ]
     },
@@ -41,9 +41,9 @@
           "score": 135.07,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.13,
-          "ret": 0.56,
-          "bank_after": 13.37
+          "stake": 0.12,
+          "ret": 0.52,
+          "bank_after": 11.95
         },
         {
           "horse": "Roaring Conquest",
@@ -57,9 +57,9 @@
           "score": 105.0,
           "pos": 6,
           "res": "LOSE",
-          "stake": 0.13,
+          "stake": 0.12,
           "ret": 0.0,
-          "bank_after": 13.24
+          "bank_after": 11.83
         }
       ]
     },
@@ -80,9 +80,9 @@
           "score": 97.05,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.26,
-          "ret": 2.08,
-          "bank_after": 15.06
+          "stake": 0.24,
+          "ret": 1.92,
+          "bank_after": 13.51
         }
       ]
     }
@@ -95,13 +95,13 @@
     "lost": 1,
     "pending": 0
   },
-  "staked": 0.78,
-  "returned": 2.98,
+  "staked": 0.71,
+  "returned": 2.74,
   "bank": {
-    "start": 12.86,
-    "end": 15.06,
-    "next_stake": 0.15,
+    "start": 11.48,
+    "end": 13.51,
+    "next_stake": 0.14,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }

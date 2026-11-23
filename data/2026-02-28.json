@@ -1,6 +1,6 @@
 {
   "date": "2026-02-28",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "13:10",
@@ -59,6 +59,38 @@
           "stake": 0.12,
           "ret": 0.0,
           "bank_after": 12.14
+        },
+        {
+          "horse": "Le Beau Madrik",
+          "stars": 4,
+          "odds": "7/2",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 129.45,
+          "pos": 0,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 12.02
+        },
+        {
+          "horse": "Red Oak",
+          "stars": 3,
+          "odds": "28/1",
+          "apps": [
+            "G"
+          ],
+          "napps": 1,
+          "reason": "banker ≥100",
+          "score": 126.3,
+          "pos": 0,
+          "res": "LOSE",
+          "stake": 0.12,
+          "ret": 0.0,
+          "bank_after": 11.9
         }
       ]
     },
@@ -80,7 +112,7 @@
           "res": "LOSE",
           "stake": 0.12,
           "ret": 0.0,
-          "bank_after": 12.02
+          "bank_after": 11.78
         },
         {
           "horse": "Quaviste",
@@ -96,7 +128,7 @@
           "res": "PLACE",
           "stake": 0.12,
           "ret": 0.0,
-          "bank_after": 11.9
+          "bank_after": 11.66
         }
       ]
     },
@@ -118,7 +150,7 @@
           "res": "PLACE",
           "stake": 0.12,
           "ret": 0.0,
-          "bank_after": 11.78
+          "bank_after": 11.54
         },
         {
           "horse": "Florida Dreams",
@@ -134,7 +166,7 @@
           "res": "LOSE",
           "stake": 0.12,
           "ret": 0.0,
-          "bank_after": 11.66
+          "bank_after": 11.42
         }
       ]
     },
@@ -157,26 +189,26 @@
           "res": "WIN",
           "stake": 0.23,
           "ret": 0.25,
-          "bank_after": 11.68
+          "bank_after": 11.44
         }
       ]
     }
   ],
   "score": {
-    "bets": 8,
-    "settled": 8,
+    "bets": 10,
+    "settled": 10,
     "won": 2,
     "placed": 3,
-    "lost": 3,
+    "lost": 5,
     "pending": 0
   },
-  "staked": 1.07,
+  "staked": 1.31,
   "returned": 0.61,
   "bank": {
     "start": 12.14,
-    "end": 11.68,
-    "next_stake": 0.12,
+    "end": 11.44,
+    "next_stake": 0.11,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }

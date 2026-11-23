@@ -1,6 +1,6 @@
 {
   "date": "2026-04-02",
-  "generated": "2026-11-23T14:01:13+00:00",
+  "generated": "2026-11-23T14:14:53+00:00",
   "races": [
     {
       "time": "13:30",
@@ -18,9 +18,9 @@
           "score": 141.67000000000002,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.13,
-          "ret": 0.16,
-          "bank_after": 12.75
+          "stake": 0.12,
+          "ret": 0.15,
+          "bank_after": 11.85
         },
         {
           "horse": "Cosmic Connection",
@@ -34,9 +34,9 @@
           "score": 132.88,
           "pos": 2,
           "res": "PLACE",
-          "stake": 0.13,
+          "stake": 0.12,
           "ret": 0.0,
-          "bank_after": 12.62
+          "bank_after": 11.73
         }
       ]
     },
@@ -56,9 +56,9 @@
           "score": 110.81,
           "pos": 7,
           "res": "LOSE",
-          "stake": 0.13,
+          "stake": 0.12,
           "ret": 0.0,
-          "bank_after": 12.49
+          "bank_after": 11.61
         }
       ]
     },
@@ -79,9 +79,9 @@
           "score": 103.07,
           "pos": 5,
           "res": "LOSE",
-          "stake": 0.25,
+          "stake": 0.23,
           "ret": 0.0,
-          "bank_after": 12.24
+          "bank_after": 11.38
         }
       ]
     },
@@ -102,9 +102,9 @@
           "score": 133.88,
           "pos": 1,
           "res": "WIN",
-          "stake": 0.24,
-          "ret": 0.53,
-          "bank_after": 12.53
+          "stake": 0.23,
+          "ret": 0.51,
+          "bank_after": 11.66
         }
       ]
     }
@@ -117,13 +117,13 @@
     "lost": 2,
     "pending": 0
   },
-  "staked": 0.88,
-  "returned": 0.69,
+  "staked": 0.82,
+  "returned": 0.66,
   "bank": {
-    "start": 12.72,
-    "end": 12.53,
-    "next_stake": 0.13,
+    "start": 11.82,
+    "end": 11.66,
+    "next_stake": 0.12,
     "season_start": 10.0,
-    "season_end": 22.34
+    "season_end": 15.03
   }
 }
