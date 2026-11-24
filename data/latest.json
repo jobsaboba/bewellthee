@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "generated": "2026-11-24T16:31:19+00:00",
+  "generated": "2026-11-24T17:01:28+00:00",
   "races": [
     {
       "time": "11:56",
@@ -562,10 +562,10 @@
           "reason": "medal",
           "score": 161.0,
           "pos": 0,
-          "res": null,
+          "res": "LOSE",
           "stake": 0.32,
-          "ret": null,
-          "bank_after": 15.84
+          "ret": 0.0,
+          "bank_after": 15.52
         },
         {
           "horse": "Devil's Angel",
@@ -577,11 +577,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 146.11,
-          "pos": 0,
-          "res": null,
+          "pos": 12,
+          "res": "LOSE",
           "stake": 0.16,
-          "ret": null,
-          "bank_after": 15.84
+          "ret": 0.0,
+          "bank_after": 15.36
         },
         {
           "horse": "Papa Don't Preach",
@@ -593,11 +593,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 107,
-          "pos": 0,
-          "res": null,
+          "pos": 8,
+          "res": "LOSE",
           "stake": 0.16,
-          "ret": null,
-          "bank_after": 15.84
+          "ret": 0.0,
+          "bank_after": 15.2
         }
       ]
     },
@@ -617,9 +617,9 @@
           "score": 100.5,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.84
+          "bank_after": 15.2
         }
       ]
     },
@@ -641,9 +641,9 @@
           "score": 188.59,
           "pos": 0,
           "res": null,
-          "stake": 0.48,
+          "stake": 0.46,
           "ret": null,
-          "bank_after": 15.84
+          "bank_after": 15.2
         }
       ]
     },
@@ -665,9 +665,9 @@
           "score": 161.59,
           "pos": 0,
           "res": null,
-          "stake": 0.48,
+          "stake": 0.46,
           "ret": null,
-          "bank_after": 15.84
+          "bank_after": 15.2
         }
       ]
     },
@@ -687,9 +687,9 @@
           "score": 104.9,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.84
+          "bank_after": 15.2
         }
       ]
     },
@@ -710,9 +710,9 @@
           "score": 92.0,
           "pos": 0,
           "res": null,
-          "stake": 0.32,
+          "stake": 0.3,
           "ret": null,
-          "bank_after": 15.84
+          "bank_after": 15.2
         },
         {
           "horse": "Um Wadi",
@@ -727,9 +727,9 @@
           "score": 127.59,
           "pos": 0,
           "res": null,
-          "stake": 0.32,
+          "stake": 0.3,
           "ret": null,
-          "bank_after": 15.84
+          "bank_after": 15.2
         }
       ]
     },
@@ -749,9 +749,9 @@
           "score": 132.59,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.84
+          "bank_after": 15.2
         }
       ]
     },
@@ -772,9 +772,9 @@
           "score": 232.59,
           "pos": 0,
           "res": null,
-          "stake": 0.32,
+          "stake": 0.3,
           "ret": null,
-          "bank_after": 15.84
+          "bank_after": 15.2
         },
         {
           "horse": "Showtime Mahomes",
@@ -788,9 +788,9 @@
           "score": 166.22,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.84
+          "bank_after": 15.2
         },
         {
           "horse": "Moe's Legacy",
@@ -804,28 +804,28 @@
           "score": 165.0,
           "pos": 0,
           "res": null,
-          "stake": 0.16,
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 15.84
+          "bank_after": 15.2
         }
       ]
     }
   ],
   "score": {
     "bets": 40,
-    "settled": 27,
+    "settled": 30,
     "won": 8,
     "placed": 0,
-    "lost": 19,
-    "pending": 13
+    "lost": 22,
+    "pending": 10
   },
-  "staked": 5.62,
+  "staked": 6.26,
   "returned": 6.59,
   "bank": {
     "start": 14.87,
-    "end": 15.84,
-    "next_stake": 0.16,
+    "end": 15.2,
+    "next_stake": 0.15,
     "season_start": 10.0,
-    "season_end": 15.84
+    "season_end": 15.2
   }
 }
