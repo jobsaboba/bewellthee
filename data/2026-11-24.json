@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "generated": "2026-11-24T20:01:55+00:00",
+  "generated": "2026-11-24T20:31:55+00:00",
   "races": [
     {
       "time": "11:56",
@@ -708,7 +708,7 @@
           "napps": 2,
           "reason": "medal",
           "score": 92.0,
-          "pos": 0,
+          "pos": 3,
           "res": "PLACE",
           "stake": 0.28,
           "ret": 0.0,
@@ -747,11 +747,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 132.59,
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.13,
-          "ret": null,
-          "bank_after": 13.46
+          "ret": 0.0,
+          "bank_after": 13.33
         }
       ]
     },
@@ -774,7 +774,7 @@
           "res": null,
           "stake": 0.27,
           "ret": null,
-          "bank_after": 13.46
+          "bank_after": 13.33
         },
         {
           "horse": "Showtime Mahomes",
@@ -790,7 +790,7 @@
           "res": null,
           "stake": 0.13,
           "ret": null,
-          "bank_after": 13.46
+          "bank_after": 13.33
         },
         {
           "horse": "Moe's Legacy",
@@ -806,26 +806,26 @@
           "res": null,
           "stake": 0.13,
           "ret": null,
-          "bank_after": 13.46
+          "bank_after": 13.33
         }
       ]
     }
   ],
   "score": {
     "bets": 40,
-    "settled": 36,
+    "settled": 37,
     "won": 8,
-    "placed": 5,
+    "placed": 6,
     "lost": 23,
-    "pending": 4
+    "pending": 3
   },
-  "staked": 8.0,
+  "staked": 8.13,
   "returned": 6.59,
   "bank": {
     "start": 14.87,
-    "end": 13.46,
+    "end": 13.33,
     "next_stake": 0.13,
     "season_start": 10.0,
-    "season_end": 13.46
+    "season_end": 13.33
   }
 }
