@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "generated": "2026-11-24T18:02:42+00:00",
+  "generated": "2026-11-24T18:31:47+00:00",
   "races": [
     {
       "time": "11:56",
@@ -663,11 +663,11 @@
           "napps": 3,
           "reason": "3-app medal",
           "score": 161.59,
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.44,
-          "ret": null,
-          "bank_after": 14.6
+          "ret": 0.0,
+          "bank_after": 14.16
         }
       ]
     },
@@ -687,9 +687,9 @@
           "score": 104.9,
           "pos": 0,
           "res": null,
-          "stake": 0.15,
+          "stake": 0.14,
           "ret": null,
-          "bank_after": 14.6
+          "bank_after": 14.16
         }
       ]
     },
@@ -710,9 +710,9 @@
           "score": 92.0,
           "pos": 0,
           "res": null,
-          "stake": 0.29,
+          "stake": 0.28,
           "ret": null,
-          "bank_after": 14.6
+          "bank_after": 14.16
         },
         {
           "horse": "Um Wadi",
@@ -727,9 +727,9 @@
           "score": 127.59,
           "pos": 0,
           "res": null,
-          "stake": 0.29,
+          "stake": 0.28,
           "ret": null,
-          "bank_after": 14.6
+          "bank_after": 14.16
         }
       ]
     },
@@ -749,9 +749,9 @@
           "score": 132.59,
           "pos": 0,
           "res": null,
-          "stake": 0.15,
+          "stake": 0.14,
           "ret": null,
-          "bank_after": 14.6
+          "bank_after": 14.16
         }
       ]
     },
@@ -772,9 +772,9 @@
           "score": 232.59,
           "pos": 0,
           "res": null,
-          "stake": 0.29,
+          "stake": 0.28,
           "ret": null,
-          "bank_after": 14.6
+          "bank_after": 14.16
         },
         {
           "horse": "Showtime Mahomes",
@@ -788,9 +788,9 @@
           "score": 166.22,
           "pos": 0,
           "res": null,
-          "stake": 0.15,
+          "stake": 0.14,
           "ret": null,
-          "bank_after": 14.6
+          "bank_after": 14.16
         },
         {
           "horse": "Moe's Legacy",
@@ -804,28 +804,28 @@
           "score": 165.0,
           "pos": 0,
           "res": null,
-          "stake": 0.15,
+          "stake": 0.14,
           "ret": null,
-          "bank_after": 14.6
+          "bank_after": 14.16
         }
       ]
     }
   ],
   "score": {
     "bets": 40,
-    "settled": 32,
+    "settled": 33,
     "won": 8,
-    "placed": 1,
+    "placed": 2,
     "lost": 23,
-    "pending": 8
+    "pending": 7
   },
-  "staked": 6.86,
+  "staked": 7.3,
   "returned": 6.59,
   "bank": {
     "start": 14.87,
-    "end": 14.6,
-    "next_stake": 0.15,
+    "end": 14.16,
+    "next_stake": 0.14,
     "season_start": 10.0,
-    "season_end": 14.6
+    "season_end": 14.16
   }
 }
