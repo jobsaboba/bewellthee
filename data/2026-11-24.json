@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "generated": "2026-11-24T19:01:27+00:00",
+  "generated": "2026-11-24T19:31:47+00:00",
   "races": [
     {
       "time": "11:56",
@@ -685,11 +685,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 104.9,
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.14,
-          "ret": null,
-          "bank_after": 14.16
+          "ret": 0.0,
+          "bank_after": 14.02
         }
       ]
     },
@@ -712,7 +712,7 @@
           "res": null,
           "stake": 0.28,
           "ret": null,
-          "bank_after": 14.16
+          "bank_after": 14.02
         },
         {
           "horse": "Um Wadi",
@@ -729,7 +729,7 @@
           "res": null,
           "stake": 0.28,
           "ret": null,
-          "bank_after": 14.16
+          "bank_after": 14.02
         }
       ]
     },
@@ -751,7 +751,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.16
+          "bank_after": 14.02
         }
       ]
     },
@@ -774,7 +774,7 @@
           "res": null,
           "stake": 0.28,
           "ret": null,
-          "bank_after": 14.16
+          "bank_after": 14.02
         },
         {
           "horse": "Showtime Mahomes",
@@ -790,7 +790,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.16
+          "bank_after": 14.02
         },
         {
           "horse": "Moe's Legacy",
@@ -806,26 +806,26 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.16
+          "bank_after": 14.02
         }
       ]
     }
   ],
   "score": {
     "bets": 40,
-    "settled": 33,
+    "settled": 34,
     "won": 8,
-    "placed": 2,
+    "placed": 3,
     "lost": 23,
-    "pending": 7
+    "pending": 6
   },
-  "staked": 7.3,
+  "staked": 7.44,
   "returned": 6.59,
   "bank": {
     "start": 14.87,
-    "end": 14.16,
+    "end": 14.02,
     "next_stake": 0.14,
     "season_start": 10.0,
-    "season_end": 14.16
+    "season_end": 14.02
   }
 }
