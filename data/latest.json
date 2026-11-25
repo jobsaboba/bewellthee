@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated": "2026-11-25T20:31:31+00:00",
+  "generated": "2026-11-25T21:01:37+00:00",
   "races": [
     {
       "time": "12:16",
@@ -994,10 +994,10 @@
           "reason": "medal",
           "score": 326.26,
           "pos": 0,
-          "res": null,
+          "res": "WIN",
           "stake": 0.27,
-          "ret": null,
-          "bank_after": 13.61
+          "ret": 1.17,
+          "bank_after": 14.51
         },
         {
           "horse": "Billy Mill",
@@ -1009,11 +1009,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 212.65,
-          "pos": 0,
-          "res": null,
+          "pos": 7,
+          "res": "LOSE",
           "stake": 0.14,
-          "ret": null,
-          "bank_after": 13.61
+          "ret": 0.0,
+          "bank_after": 14.37
         },
         {
           "horse": "Arctician",
@@ -1025,30 +1025,30 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 150.9,
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.14,
-          "ret": null,
-          "bank_after": 13.61
+          "ret": 0.0,
+          "bank_after": 14.23
         }
       ]
     }
   ],
   "score": {
     "bets": 53,
-    "settled": 49,
-    "won": 10,
-    "placed": 11,
-    "lost": 28,
-    "pending": 4
+    "settled": 52,
+    "won": 11,
+    "placed": 12,
+    "lost": 29,
+    "pending": 1
   },
-  "staked": 9.78,
-  "returned": 8.9,
+  "staked": 10.33,
+  "returned": 10.07,
   "bank": {
     "start": 14.49,
-    "end": 13.61,
+    "end": 14.23,
     "next_stake": 0.14,
     "season_start": 10.0,
-    "season_end": 13.61
+    "season_end": 14.23
   }
 }
