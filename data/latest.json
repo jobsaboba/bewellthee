@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated": "2026-11-25T16:32:46+00:00",
+  "generated": "2026-11-25T17:01:48+00:00",
   "races": [
     {
       "time": "12:16",
@@ -560,7 +560,7 @@
           "napps": 3,
           "reason": "3-app medal",
           "score": 261.22,
-          "pos": 0,
+          "pos": 12,
           "res": "LOSE",
           "stake": 0.41,
           "ret": 0.0,
@@ -695,10 +695,10 @@
           "reason": "3-app medal",
           "score": 170.22,
           "pos": 0,
-          "res": null,
+          "res": "LOSE",
           "stake": 0.41,
-          "ret": null,
-          "bank_after": 13.61
+          "ret": 0.0,
+          "bank_after": 13.2
         }
       ]
     },
@@ -718,9 +718,9 @@
           "score": 134.0,
           "pos": 0,
           "res": null,
-          "stake": 0.14,
+          "stake": 0.13,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         }
       ]
     },
@@ -742,9 +742,9 @@
           "score": 192.26,
           "pos": 0,
           "res": null,
-          "stake": 0.41,
+          "stake": 0.4,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         }
       ]
     },
@@ -764,9 +764,9 @@
           "score": 175.69,
           "pos": 0,
           "res": null,
-          "stake": 0.14,
+          "stake": 0.13,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         },
         {
           "horse": "Henery Hawk",
@@ -780,9 +780,9 @@
           "score": 149.45,
           "pos": 0,
           "res": null,
-          "stake": 0.14,
+          "stake": 0.13,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         }
       ]
     },
@@ -802,9 +802,9 @@
           "score": 108.11,
           "pos": 0,
           "res": null,
-          "stake": 0.14,
+          "stake": 0.13,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         }
       ]
     },
@@ -825,9 +825,9 @@
           "score": 147.7,
           "pos": 0,
           "res": null,
-          "stake": 0.27,
+          "stake": 0.26,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         },
         {
           "horse": "Diligent Henry",
@@ -841,9 +841,9 @@
           "score": 115.0,
           "pos": 0,
           "res": null,
-          "stake": 0.14,
+          "stake": 0.13,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         }
       ]
     },
@@ -864,9 +864,9 @@
           "score": 249.26,
           "pos": 0,
           "res": null,
-          "stake": 0.27,
+          "stake": 0.26,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         },
         {
           "horse": "Constitution Hill",
@@ -880,9 +880,9 @@
           "score": 243.53,
           "pos": 0,
           "res": null,
-          "stake": 0.14,
+          "stake": 0.13,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         }
       ]
     },
@@ -902,9 +902,9 @@
           "score": 202.36,
           "pos": 0,
           "res": null,
-          "stake": 0.14,
+          "stake": 0.13,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         },
         {
           "horse": "Haku",
@@ -918,9 +918,9 @@
           "score": 166.26,
           "pos": 0,
           "res": null,
-          "stake": 0.14,
+          "stake": 0.13,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         },
         {
           "horse": "Paradias",
@@ -934,9 +934,9 @@
           "score": 165.91,
           "pos": 0,
           "res": null,
-          "stake": 0.14,
+          "stake": 0.13,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         }
       ]
     },
@@ -956,9 +956,9 @@
           "score": 109.26,
           "pos": 0,
           "res": null,
-          "stake": 0.14,
+          "stake": 0.13,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         },
         {
           "horse": "Midnight Media",
@@ -972,9 +972,9 @@
           "score": 102.65,
           "pos": 0,
           "res": null,
-          "stake": 0.14,
+          "stake": 0.13,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         }
       ]
     },
@@ -995,9 +995,9 @@
           "score": 326.26,
           "pos": 0,
           "res": null,
-          "stake": 0.27,
+          "stake": 0.26,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         },
         {
           "horse": "Billy Mill",
@@ -1011,9 +1011,9 @@
           "score": 212.65,
           "pos": 0,
           "res": null,
-          "stake": 0.14,
+          "stake": 0.13,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         },
         {
           "horse": "Arctician",
@@ -1027,28 +1027,28 @@
           "score": 150.9,
           "pos": 0,
           "res": null,
-          "stake": 0.14,
+          "stake": 0.13,
           "ret": null,
-          "bank_after": 13.61
+          "bank_after": 13.2
         }
       ]
     }
   ],
   "score": {
     "bets": 53,
-    "settled": 34,
+    "settled": 35,
     "won": 7,
     "placed": 7,
-    "lost": 20,
-    "pending": 19
+    "lost": 21,
+    "pending": 18
   },
-  "staked": 6.95,
+  "staked": 7.36,
   "returned": 6.07,
   "bank": {
     "start": 14.49,
-    "end": 13.61,
-    "next_stake": 0.14,
+    "end": 13.2,
+    "next_stake": 0.13,
     "season_start": 10.0,
-    "season_end": 13.61
+    "season_end": 13.2
   }
 }
