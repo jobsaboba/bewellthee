@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated": "2026-11-25T13:31:26+00:00",
+  "generated": "2026-11-25T14:02:04+00:00",
   "races": [
     {
       "time": "12:16",
@@ -171,11 +171,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 194.53,
-          "pos": 0,
-          "res": null,
+          "pos": 5,
+          "res": "LOSE",
           "stake": 0.15,
-          "ret": null,
-          "bank_after": 14.99
+          "ret": 0.0,
+          "bank_after": 14.84
         },
         {
           "horse": "Kefir D'oudairies",
@@ -187,11 +187,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 176.26999999999998,
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.15,
-          "ret": null,
-          "bank_after": 14.99
+          "ret": 0.38,
+          "bank_after": 15.07
         }
       ]
     },
@@ -213,7 +213,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Cawthorne Cracker",
@@ -229,7 +229,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -251,7 +251,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Theatre Tom",
@@ -267,7 +267,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Hay Max",
@@ -283,7 +283,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -306,7 +306,7 @@
           "res": null,
           "stake": 0.3,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Always Happy",
@@ -323,7 +323,7 @@
           "res": null,
           "stake": 0.3,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Triple Force",
@@ -339,7 +339,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -361,7 +361,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Red Glory",
@@ -378,7 +378,7 @@
           "res": null,
           "stake": 0.3,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Duke Otto",
@@ -394,7 +394,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -407,17 +407,16 @@
           "stars": 5,
           "odds": "5/2",
           "apps": [
-            "D",
-            "G"
+            "D"
           ],
-          "napps": 2,
-          "reason": "medal",
+          "napps": 1,
+          "reason": "banker ≥100",
           "score": 185.53,
           "pos": 0,
-          "res": null,
-          "stake": 0.3,
+          "res": "?",
+          "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -440,7 +439,7 @@
           "res": null,
           "stake": 0.3,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -462,7 +461,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Quavo",
@@ -479,7 +478,7 @@
           "res": null,
           "stake": 0.3,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -502,7 +501,7 @@
           "res": null,
           "stake": 0.3,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -525,7 +524,7 @@
           "res": null,
           "stake": 0.3,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Lighting Thunder",
@@ -541,7 +540,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -565,7 +564,7 @@
           "res": null,
           "stake": 0.45,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Chavajod",
@@ -581,7 +580,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "May Night",
@@ -597,7 +596,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -621,7 +620,7 @@
           "res": null,
           "stake": 0.45,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -643,7 +642,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Yorkshire Glory",
@@ -659,7 +658,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Massimo Blue",
@@ -675,7 +674,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -699,7 +698,7 @@
           "res": null,
           "stake": 0.45,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -721,7 +720,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -745,7 +744,7 @@
           "res": null,
           "stake": 0.45,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -767,7 +766,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Henery Hawk",
@@ -783,7 +782,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -805,7 +804,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -828,7 +827,7 @@
           "res": null,
           "stake": 0.3,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Diligent Henry",
@@ -844,7 +843,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -867,7 +866,7 @@
           "res": null,
           "stake": 0.3,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Constitution Hill",
@@ -883,7 +882,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -905,7 +904,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Haku",
@@ -921,7 +920,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Paradias",
@@ -937,7 +936,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -959,7 +958,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Midnight Media",
@@ -975,7 +974,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     },
@@ -998,7 +997,7 @@
           "res": null,
           "stake": 0.3,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Billy Mill",
@@ -1014,7 +1013,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         },
         {
           "horse": "Arctician",
@@ -1030,26 +1029,26 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 14.99
+          "bank_after": 15.07
         }
       ]
     }
   ],
   "score": {
     "bets": 53,
-    "settled": 8,
-    "won": 3,
+    "settled": 10,
+    "won": 4,
     "placed": 4,
-    "lost": 1,
-    "pending": 45
+    "lost": 2,
+    "pending": 43
   },
-  "staked": 1.59,
-  "returned": 2.09,
+  "staked": 1.89,
+  "returned": 2.47,
   "bank": {
     "start": 14.49,
-    "end": 14.99,
+    "end": 15.07,
     "next_stake": 0.15,
     "season_start": 10.0,
-    "season_end": 14.99
+    "season_end": 15.07
   }
 }
