@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated": "2026-11-26T20:31:59+00:00",
+  "generated": "2026-11-26T21:02:27+00:00",
   "races": [
     {
       "time": "11:54",
@@ -683,7 +683,7 @@
           "napps": 2,
           "reason": "medal",
           "score": 96.0,
-          "pos": 0,
+          "pos": 2,
           "res": "PLACE",
           "stake": 0.29,
           "ret": 0.0,
@@ -721,11 +721,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 141.88,
-          "pos": 0,
-          "res": null,
+          "pos": 7,
+          "res": "LOSE",
           "stake": 0.14,
-          "ret": null,
-          "bank_after": 14.27
+          "ret": 0.0,
+          "bank_after": 14.13
         },
         {
           "horse": "Marsh Benham",
@@ -737,11 +737,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 140.69,
-          "pos": 0,
-          "res": null,
+          "pos": 9,
+          "res": "LOSE",
           "stake": 0.14,
-          "ret": null,
-          "bank_after": 14.27
+          "ret": 0.0,
+          "bank_after": 13.99
         },
         {
           "horse": "Mr Baloo",
@@ -753,30 +753,30 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 130.5,
-          "pos": 0,
-          "res": null,
+          "pos": 8,
+          "res": "LOSE",
           "stake": 0.14,
-          "ret": null,
-          "bank_after": 14.27
+          "ret": 0.0,
+          "bank_after": 13.85
         }
       ]
     }
   ],
   "score": {
     "bets": 39,
-    "settled": 36,
+    "settled": 39,
     "won": 9,
     "placed": 8,
-    "lost": 19,
-    "pending": 3
+    "lost": 22,
+    "pending": 0
   },
-  "staked": 6.55,
+  "staked": 6.97,
   "returned": 6.59,
   "bank": {
     "start": 14.23,
-    "end": 14.27,
+    "end": 13.85,
     "next_stake": 0.14,
     "season_start": 10.0,
-    "season_end": 14.27
+    "season_end": 13.85
   }
 }
