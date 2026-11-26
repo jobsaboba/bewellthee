@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated": "2026-11-26T17:01:40+00:00",
+  "generated": "2026-11-26T17:31:39+00:00",
   "races": [
     {
       "time": "11:54",
@@ -537,10 +537,10 @@
           "reason": "3-app medal",
           "score": 306.84,
           "pos": 0,
-          "res": null,
+          "res": "LOSE",
           "stake": 0.45,
-          "ret": null,
-          "bank_after": 14.86
+          "ret": 0.0,
+          "bank_after": 14.41
         },
         {
           "horse": "Due Date",
@@ -552,11 +552,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 149.88,
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.15,
-          "ret": null,
-          "bank_after": 14.86
+          "ret": 0.0,
+          "bank_after": 14.26
         },
         {
           "horse": "Dashing Donkey",
@@ -568,10 +568,10 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 106.71000000000001,
-          "pos": 0,
-          "res": null,
+          "pos": 1,
+          "res": "WIN",
           "stake": 0.15,
-          "ret": null,
+          "ret": 0.75,
           "bank_after": 14.86
         }
       ]
@@ -764,14 +764,14 @@
   ],
   "score": {
     "bets": 39,
-    "settled": 26,
-    "won": 7,
-    "placed": 5,
-    "lost": 14,
-    "pending": 13
+    "settled": 29,
+    "won": 8,
+    "placed": 6,
+    "lost": 15,
+    "pending": 10
   },
-  "staked": 4.61,
-  "returned": 5.24,
+  "staked": 5.36,
+  "returned": 5.99,
   "bank": {
     "start": 14.23,
     "end": 14.86,
