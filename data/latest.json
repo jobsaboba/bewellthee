@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated": "2026-11-26T05:35:02+00:00",
+  "generated": "2026-11-26T13:01:18+00:00",
   "races": [
     {
       "time": "11:54",
@@ -16,11 +16,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 105.26,
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.14,
-          "ret": null,
-          "bank_after": 14.23
+          "ret": 0.0,
+          "bank_after": 14.09
         }
       ]
     },
@@ -39,10 +39,10 @@
           "reason": "banker ≥100",
           "score": 134.15,
           "pos": 0,
-          "res": null,
+          "res": "LOSE",
           "stake": 0.14,
-          "ret": null,
-          "bank_after": 14.23
+          "ret": 0.0,
+          "bank_after": 13.95
         },
         {
           "horse": "Smallcraftwarning",
@@ -54,11 +54,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 120.56,
-          "pos": 0,
-          "res": null,
+          "pos": 12,
+          "res": "LOSE",
           "stake": 0.14,
-          "ret": null,
-          "bank_after": 14.23
+          "ret": 0.0,
+          "bank_after": 13.81
         }
       ]
     },
@@ -81,7 +81,7 @@
           "res": null,
           "stake": 0.28,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "C'Est Pour Moi",
@@ -98,7 +98,7 @@
           "res": null,
           "stake": 0.28,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -120,7 +120,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Natus Vincere",
@@ -136,7 +136,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -158,7 +158,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -181,7 +181,7 @@
           "res": null,
           "stake": 0.28,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Maxminelli",
@@ -198,7 +198,7 @@
           "res": null,
           "stake": 0.28,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -221,7 +221,7 @@
           "res": null,
           "stake": 0.28,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -243,7 +243,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Billy Boi Blue",
@@ -259,7 +259,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Happy And Fine",
@@ -275,7 +275,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -298,7 +298,7 @@
           "res": null,
           "stake": 0.28,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -320,7 +320,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Jukebox D'eddy",
@@ -336,7 +336,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Glengolly",
@@ -352,7 +352,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -374,7 +374,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Tythingman",
@@ -390,7 +390,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Uncle Scrooge",
@@ -406,7 +406,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -428,7 +428,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Werner",
@@ -444,7 +444,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -466,7 +466,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -474,22 +474,6 @@
       "time": "15:32",
       "meeting": "Lingfield",
       "picks": [
-        {
-          "horse": "Sheezer Diva",
-          "stars": 4,
-          "odds": "2/1",
-          "apps": [
-            "G"
-          ],
-          "napps": 1,
-          "reason": "banker ≥100",
-          "score": 191.6,
-          "pos": 0,
-          "res": null,
-          "stake": 0.14,
-          "ret": null,
-          "bank_after": 14.23
-        },
         {
           "horse": "Marhaba Prince",
           "stars": 5,
@@ -504,7 +488,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -526,7 +510,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -548,7 +532,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -570,9 +554,9 @@
           "score": 306.84,
           "pos": 0,
           "res": null,
-          "stake": 0.43,
+          "stake": 0.41,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Due Date",
@@ -588,7 +572,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Dashing Donkey",
@@ -604,7 +588,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -626,7 +610,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Starsong",
@@ -642,7 +626,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Coolagh Magic",
@@ -658,7 +642,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -680,7 +664,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Nubough",
@@ -696,7 +680,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -719,7 +703,7 @@
           "res": null,
           "stake": 0.28,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Macanudo",
@@ -735,7 +719,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     },
@@ -757,7 +741,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Marsh Benham",
@@ -773,7 +757,7 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         },
         {
           "horse": "Mr Baloo",
@@ -789,26 +773,26 @@
           "res": null,
           "stake": 0.14,
           "ret": null,
-          "bank_after": 14.23
+          "bank_after": 13.81
         }
       ]
     }
   ],
   "score": {
-    "bets": 41,
-    "settled": 0,
+    "bets": 40,
+    "settled": 3,
     "won": 0,
-    "placed": 0,
-    "lost": 0,
-    "pending": 41
+    "placed": 1,
+    "lost": 2,
+    "pending": 37
   },
-  "staked": 0,
-  "returned": 0,
+  "staked": 0.42,
+  "returned": 0.0,
   "bank": {
     "start": 14.23,
-    "end": 14.23,
+    "end": 13.81,
     "next_stake": 0.14,
     "season_start": 10.0,
-    "season_end": 14.23
+    "season_end": 13.81
   }
 }
