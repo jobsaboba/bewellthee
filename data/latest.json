@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "generated": "2026-11-27T17:01:09+00:00",
+  "generated": "2026-11-27T17:31:46+00:00",
   "races": [
     {
       "time": "11:40",
@@ -355,11 +355,11 @@
           "napps": 2,
           "reason": "medal",
           "score": 90.45,
-          "pos": 0,
-          "res": null,
+          "pos": 4,
+          "res": "LOSE",
           "stake": 0.3,
-          "ret": null,
-          "bank_after": 15.23
+          "ret": 0.0,
+          "bank_after": 14.93
         }
       ]
     },
@@ -382,7 +382,7 @@
           "res": null,
           "stake": 0.3,
           "ret": null,
-          "bank_after": 15.23
+          "bank_after": 14.93
         }
       ]
     },
@@ -405,7 +405,7 @@
           "res": null,
           "stake": 0.3,
           "ret": null,
-          "bank_after": 15.23
+          "bank_after": 14.93
         },
         {
           "horse": "Sisterandbrother",
@@ -421,7 +421,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 15.23
+          "bank_after": 14.93
         },
         {
           "horse": "Urban Road",
@@ -437,7 +437,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 15.23
+          "bank_after": 14.93
         }
       ]
     },
@@ -459,7 +459,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 15.23
+          "bank_after": 14.93
         },
         {
           "horse": "I'm Spartacus",
@@ -475,7 +475,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 15.23
+          "bank_after": 14.93
         }
       ]
     },
@@ -497,7 +497,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 15.23
+          "bank_after": 14.93
         },
         {
           "horse": "Star Harbour",
@@ -513,7 +513,7 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 15.23
+          "bank_after": 14.93
         },
         {
           "horse": "Zoffman",
@@ -530,7 +530,7 @@
           "res": null,
           "stake": 0.3,
           "ret": null,
-          "bank_after": 15.23
+          "bank_after": 14.93
         }
       ]
     },
@@ -552,26 +552,26 @@
           "res": null,
           "stake": 0.15,
           "ret": null,
-          "bank_after": 15.23
+          "bank_after": 14.93
         }
       ]
     }
   ],
   "score": {
     "bets": 29,
-    "settled": 18,
+    "settled": 19,
     "won": 3,
     "placed": 8,
-    "lost": 7,
-    "pending": 11
+    "lost": 8,
+    "pending": 10
   },
-  "staked": 2.96,
+  "staked": 3.26,
   "returned": 4.34,
   "bank": {
     "start": 13.85,
-    "end": 15.23,
+    "end": 14.93,
     "next_stake": 0.15,
     "season_start": 10.0,
-    "season_end": 15.23
+    "season_end": 14.93
   }
 }
