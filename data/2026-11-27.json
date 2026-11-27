@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "generated": "2026-11-27T19:32:27+00:00",
+  "generated": "2026-11-27T20:01:14+00:00",
   "races": [
     {
       "time": "11:40",
@@ -493,11 +493,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 189.25,
-          "pos": 0,
-          "res": null,
+          "pos": 9,
+          "res": "LOSE",
           "stake": 0.15,
-          "ret": null,
-          "bank_after": 14.74
+          "ret": 0.0,
+          "bank_after": 14.59
         },
         {
           "horse": "Star Harbour",
@@ -509,11 +509,11 @@
           "napps": 1,
           "reason": "banker ≥100",
           "score": 173.67000000000002,
-          "pos": 0,
-          "res": null,
+          "pos": 2,
+          "res": "PLACE",
           "stake": 0.15,
-          "ret": null,
-          "bank_after": 14.74
+          "ret": 0.0,
+          "bank_after": 14.44
         },
         {
           "horse": "Zoffman",
@@ -526,11 +526,11 @@
           "napps": 2,
           "reason": "medal",
           "score": 108.0,
-          "pos": 0,
-          "res": null,
+          "pos": 3,
+          "res": "PLACE",
           "stake": 0.29,
-          "ret": null,
-          "bank_after": 14.74
+          "ret": 0.0,
+          "bank_after": 14.15
         }
       ]
     },
@@ -550,28 +550,28 @@
           "score": 108.51,
           "pos": 0,
           "res": null,
-          "stake": 0.15,
+          "stake": 0.14,
           "ret": null,
-          "bank_after": 14.74
+          "bank_after": 14.15
         }
       ]
     }
   ],
   "score": {
     "bets": 29,
-    "settled": 25,
+    "settled": 28,
     "won": 4,
-    "placed": 11,
-    "lost": 10,
-    "pending": 4
+    "placed": 13,
+    "lost": 11,
+    "pending": 1
   },
-  "staked": 4.43,
+  "staked": 5.02,
   "returned": 5.32,
   "bank": {
     "start": 13.85,
-    "end": 14.74,
-    "next_stake": 0.15,
+    "end": 14.15,
+    "next_stake": 0.14,
     "season_start": 10.0,
-    "season_end": 14.74
+    "season_end": 14.15
   }
 }
